@@ -2,7 +2,7 @@
 
 
 
-# Table of Contents 
+## Table of Contents
 
 [[#ser vs estar]]
 [[#-ar verbs]]
@@ -17,8 +17,8 @@ sh.academy/blog/how-to-use-the-personal-a-in-spanish/
 
 # Conjugations
 
- *Notice that most of the present tense endings for -er and -ir verbs are the same. Only the nosotros and vosotros endings are different.*
-
+ *Notice that most of the **present tense** endings for -er and -ir verbs are the same. Only the nosotros and vosotros endings are different.*
+In the **preterite tense** the -er and -ir endings are the same.
 ### -ar verbs
 #### Present
 **hablar (to speak)**
@@ -50,10 +50,10 @@ ellos, ellas/ustedes -an (hablan)
 ### -er verbs
 #### Present
 **comer (to eat)**
-yo	como (-o)
+yo como (-o)
 tú	comes (-es)
 usted come (-e)
-él, ella	come (-e)
+él, ella, usted	come (-e)
 nosotros	comemos (-emos)
 vosotros	coméis (-éis)
 ustedes	comen (-en)
@@ -61,11 +61,10 @@ ellos, ellas	comen (-en)
 #### Preterite
 yo comí (-i)
 tú comiste (-iste)
-él, ella comió (-ió)
+él, ella, usted comió (-ió)
 nosotros comimos (-imos)
 vosotros comistes (-isteis)
 ellos, ellas comieron (-ieron)
-
 
 ### -ir verbs
 ###  Present 
@@ -154,12 +153,20 @@ ellos cogen
 See [[#**tomar - to take**]]
 
 ### #conocer - to know or to meet a person or place 
+## Present
 Yo conozco - I know
 Tu conoces - You know
 Él/Ella/Usted conoce - he/she/you know
 nosotros conocemos - we know
 vosotros conocéis - You all know 
 ellos/ellas/Ustedes conocen - They know 
+## Preterite
+Yo conocí 
+Tú conociste 
+Él/Ella/Usted conoció 
+nosotros conocimos 
+vosotros conocisteis
+ellos/ellas/Ustedes conocieron 
 see [[#saber - to know information or how to do something]]
 #### dar - to give
 yo doy
@@ -185,11 +192,19 @@ nosotros empezamos
 ellos empiezan 
 
 ### hacer - to make/to do/to ask
+## Present 
 yo hago 
 tu haces
 el/ella/usted hace
 nosotros hacemos 
 ellos/ellas/ustedes hacen
+## Preterite
+yo hice 
+tú hiciste 
+Él/ella/usted hizo
+nosotros hicimos 
+vosotros hicisteis 
+ellos/ellas/ustedes hicieron 
 
 ### ir - to go
 #### Present 
@@ -315,7 +330,6 @@ nosotros tuvimos
 vosotros tuvisteis
 ellos/ellas/ustedes tuvieron 
 
-
 ### tocar - to touch, knock, tap, play (instrument)
 yo toco
 tú tocas
@@ -338,19 +352,29 @@ nosotros venimos
 ellos vienen 
 
 ## ver - to see
+### Present 
 yo veo
 tú ves
-él ve
+él, ella, usted ve
 nosotros vemos 
 vosotros veis
-ellos ven
+ellos, ellas, ustedes ven
+### Preterite
+yo vi
+tú viste
+él, ella, usted vo
+nosotros vimos 
+vosotros visteis
+ellos, ellas, ustedes veron
+
 ### volver - to come back 
 yo vuelvo 
 tu vuelves 
 nosotros volvemos 
 ellos vuelven 
 
----
+[[# Table of Contents]]
+
 # ser vs estar
 
 ### Conjugation of Ser
@@ -385,13 +409,13 @@ Nosotros estuvimos
 Vosotros estuvisteis 
 Ellos/Ellas/Ustedes estuvieron 
 
-
+[[#Table of Contents]]
 ### es vs está (is)
 - es: describe the qualities of a person or thing
   ...es bonito
   ...es bien
   ...es mi esposa 
-- está: where something is located or for something that is temporarily true
+- está: where something is located, for an emotion or for something that is temporarily true
   ... está aqui
   ...está cerrado
   ...està en Madrid 

@@ -1,11 +1,13 @@
 ### Current Game 
 
 PLATE
-SCANT
+ROUST
 
-XXANT
+SXOUT
 
-GRANT
+SNOUT
+STOUT
+
 
 
 

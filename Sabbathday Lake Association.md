@@ -13,11 +13,12 @@ Chris Riccardi - president
 Bill Fichtell - new member 
 Catherine Caswell - not there - new member 
 - son is a boat inspector 
+- vice president elect
 Eric R - ends in 2024
 ### Emails
 Ricardi, Christian • christian.ricardi@wsp.com
 Ruthie York • yorkr65@gmail.com
-Lori • lallen3@maine.rr.com
+Lori Allen • lallen3@maine.rr.com
 Paula Gauthier • pgauthie@maine.rr.com
 Anne Maurice • amaurice@maine.rr.com
 Michael Cloutier • mhcloutier48@gmail.com
@@ -103,3 +104,49 @@ August 10 - Shaker mill tour
 - Send PDF of final newsletter to printer for 135 copies and pickup printed newsletter 
 - collate, address and mail out newsletters 
 - send PDF to Lori for inclusion on the web site 
+# Board Meeting 10/21/24
+
+Fall Newsletter 
+- Articles from Chris and Mike 
+- Katie Goodwin graphic on water quality 
+- Article by me on what homeowners can do to maintain water quality 
+- Diantha eagle banding experience 
+- Eagle status in Maine
+- Acknowledgments
+- Photos
+
+Committees 
+- bylaws 
+- retail
+- climate assessment 
+- 50th anniversary 
+
+50th Anniversary
+- committee for celebration 
+- August 2or9???
+
+Hat 
+- Hast Embroidery (company)
+- Diane Harriman
+
+ERC Climate Assessment Committee 
+- Chris will contact me
+- Wednesday night meeting 
+- Send Chris email about Bill 
+- Ideas
+	- Clean up of mouth of Royal River 
+		- Melissa's dad
+	- Stream input assessment 
+
+Spring Newsletter 
+- deadline - May 1
+
+Next Meeting 
+- February 10
+
+Paul Gillis - fill ramp hole
+- Not a board project 
+
+
+
+

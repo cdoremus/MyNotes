@@ -608,6 +608,11 @@ Winter - invierno
 80 ochenta
 90 noventa 
 
+## Rank
+primer(o/a) - first 
+segund(o/a) - second 
+tercer(o/a) - third
+últim(o/a) - last
 # Distance
 2.5k (length of SDL) - dos kilómetros y medio
 5.7 meters (my height) - uno punto siete metros
