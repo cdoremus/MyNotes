@@ -1,12 +1,18 @@
 ### Current Game 
 
 PLATE
-ROUST
+CORNS
+DOUGH
 
-SXOUT
+GOXXX
+XOGXX
+XOXXG
 
-SNOUT
-STOUT
+GOOFY
+
+
+
+
 
 
 

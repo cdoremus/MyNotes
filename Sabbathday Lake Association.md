@@ -147,6 +147,8 @@ Next Meeting
 Paul Gillis - fill ramp hole
 - Not a board project 
 
-
-
+NG Climate Resiliency Planning Meeting 10/23/24
+Kelly Rehberg - krehberg@gpcog.org
+- Sustainability Manager Greater Portland Council of Governments
+Lauren Paddock - NG ERC Chair
 
