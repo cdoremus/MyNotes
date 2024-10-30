@@ -6,9 +6,10 @@ Don - rinsing (biker)
 Charlie - Argentina 
 Christian - African 
 
+Paula - dishwasher 
 
 Brittany - server 
-
+Chantel - dark, curly reddish hair
 
 Charlie - Argentina 
 Christian - African 

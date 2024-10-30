@@ -45,7 +45,10 @@ ellos, ellas/ustedes -an (hablan)
 - See [[#coger - to take (Spain)]]
 #### intendar - to try
 - See [[#probar - to prove,test, try on, taste]]
-- #### viajar - to travel 
+- 
+#### viajar - to travel 
+
+#### olvidar - to forget 
 
 ### -er verbs
 #### Present
@@ -175,6 +178,22 @@ tú das
 nosotros - damos
 vosotros - dais
 ellos/ellas/Uds - dan 
+
+### elegir - to choose
+## Present 
+yo elijo 
+tú eliges 
+él/ella/usted elige 
+nosotros eligimos
+vosotros eligís
+ellos/ellas/Uds eligen 
+## Preterite
+yo elegi
+tú elegiste 
+él/ella/usted eligió 
+nosotros elegimos 
+vosotros elegisteis
+ellos/ellas/Uds eligieron 
 
 ### #encontrar - to find
 yo encuentro

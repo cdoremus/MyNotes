@@ -20,6 +20,9 @@ Ricardi, Christian • christian.ricardi@wsp.com
 Ruthie York • yorkr65@gmail.com
 Lori Allen • lallen3@maine.rr.com
 Paula Gauthier • pgauthie@maine.rr.com
+Mails newsletter 
+712-6489
+34 Beach Ridge Road
 Anne Maurice • amaurice@maine.rr.com
 Michael Cloutier • mhcloutier48@gmail.com
 Bill Fichtel - bill.fichtel@gmail.com

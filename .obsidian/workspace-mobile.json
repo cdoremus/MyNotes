@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Github Notes.md",
+                "file": "Wordle Words.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Github Notes"
+              "title": "Wordle Words"
             }
           }
         ],
@@ -124,7 +124,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Github Notes.md",
+            "file": "Wordle Words.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -176,17 +176,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "421c4e15a195fc57",
+  "active": "c986a3c02165802e",
   "lastOpenFiles": [
-    "Wordle Words.md",
-    "Github Notes.md",
-    "Sabbathday Lake Association.md",
-    "Spanish Notes.md",
-    "Spanish Verbs.md",
-    "Deno Notes.md",
     "Temp Notes.md",
-    "5 Letter Words.md",
     "Soup Kitchen.md",
+    "Sabbathday Lake Association.md",
+    "Wordle Words.md",
+    "Spanish Verbs.md",
+    "Spanish Notes.md",
+    "Github Notes.md",
+    "Deno Notes.md",
+    "5 Letter Words.md",
     "Spanish Mass.md",
     "Deno Blog Ideas.md",
     "Haiku.md",

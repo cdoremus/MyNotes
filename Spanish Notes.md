@@ -62,6 +62,7 @@ demasiado - too
 porque - because 
 acá - here
 allá - there
+ahí - there 
 a verdad - really 
 en serio - really?!? (disbelief)
 simplemente - simply/plainly 
@@ -258,6 +259,7 @@ cereza - cherry
 mantequilla - butter
 churros - fried dough sticks that are dipped into dark chocolate 
 jugo/zumo(ES) - juice
+dulce - sweet 
 
 [[#Table of Contents]]
 ### Cooking related 
@@ -331,6 +333,7 @@ derecho - right (or straight)
 gira a la derecha - turn right 
 giras a la izquierda - you turn left 
 donde giro - where do I turn? 
+Aquí o ahi - Here or there 
 girar - to turn
 allá - there (or over there)
 tomar - to take (train, bus)
@@ -707,6 +710,9 @@ Yo no entiendo
 I don't know 
 No sé (Yo no lo sé)
 
+Yours or mine 
+El mío o el tuyo 
+
 I would like...
 Quisiera...
 
@@ -733,6 +739,15 @@ gross!
 
 ... right now
 ahora mismo 
+
+I think so
+Creo que si 
+
+I don't think so 
+Creo que no
+
+We think so 
+Pensamos que si 
 
 have something to drink 
 tomar algo

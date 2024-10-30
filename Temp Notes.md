@@ -41,10 +41,12 @@ Michael Kinkade wild azalea propagation  on YouTube
 - Ans:
 10. Could the lens be misaligned?
 - Ans:
-----
+---
 
- # Andrea Doucette Tri-County Mental Health 
+# Andrea Doucette Tri-County Mental Health 
 
+
+## 10-8-24 Appointment 
  - Cardiovascular risk
  - Can cause a fib
  - ADHD / Depression med
@@ -55,9 +57,31 @@ Michael Kinkade wild azalea propagation  on YouTube
 - Wellbutrin
 -    ADHD symptoms & depression & motivation
 -      Anxiety inducing 
-- SSRI Meds
+- SNRI Meds
 -     depression & anxiety 
 -     can help with ADHD 
+	- Adomoxitine
+- SSRI MRD
+	- Lexipro
+## 10/24/24 Appointment 
+
+Famotadine interactions
 
 
+### TODOS
+- check out alternatives
+- call pharmacy re drug change
 
+
+30mg daily Vyvanse to start 
+
+
+# Auburn Canvassing for Harris
+
+Jane Morrison 
+415-2235
+
+House Race
+Coleen Strictler
+
+66 Baird - drop off sign 
