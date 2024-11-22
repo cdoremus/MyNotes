@@ -1,19 +1,19 @@
 ### Current Game 
 
- PLATE
-REGAL
+PLATE
+CORNS
 
-XAXEL
-AXXEL
-XXAEL
-EAXXL
-EXAXL
+XOXNX
 
-
-
+FOUND
+HOUND
+MOUND
+WOUND
 
 
 
+
+.
 [[##PLATE as first word]]
 
 ---------------------
@@ -351,7 +351,7 @@ LIVEN
 LONER
 
 -------------------------------
-
+[[#Current Game]]
 # PLATE as first word
 
 PLATE with no matches 
@@ -379,6 +379,10 @@ OILER
 L not in order 
 COULD
 
+L in order 
+FLUNK
+SLUNK
+
 A in order 
 SHARK
 CHARS
@@ -387,6 +391,9 @@ A not in order
 MANOR
 CAROM
 
+LT not in order 
+GUILT
+
 AE both in order 
 SHARE
 CRAVE
@@ -394,6 +401,10 @@ CRAVE
 AE not in order 
 AMBER
 ARMED
+
+AE with A in order 
+HEARD
+HEADY
 
 AT with A in order 
 SCANT
@@ -431,6 +442,10 @@ LA with A in order
 CRAWL
 SHALL
 
+LA not in order 
+SOLAR
+CANAL
+
 E not in order 
 DINER
 CIDER
@@ -438,12 +453,12 @@ CIDER
 E in order 
 SNORE
 
-LA not in order 
-SOLAR
-CANAL
-
 P in order 
 PHONY
+
+P not in order 
+CROUP
+SYRUP
 
 PT not in order 
 TROMP
@@ -482,7 +497,7 @@ ATE with A in 3rd place
 TEARY
 ENACT
 
-
+[[#Current Game]]
 
 
 

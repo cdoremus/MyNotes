@@ -2,6 +2,14 @@
 
 
 
+## Template 
+yo
+tú
+él/ella/usted
+nosotros 
+vosotros 
+ellos/ellas/ustedes 
+
 ## Table of Contents
 
 [[#ser vs estar]]
@@ -9,16 +17,45 @@
 [[#-ir verbs]]
 [[#-er verbs]]
 
+## [[#Irregular Verbs]]
 
-## Regular Present Tense Verbs
+[[#abrir - to open]]
+[[#almorzar - to eat lunch]]
+[[#buscar - to look for or search]]
+[[#coger - to take (Spain)]]
+[[#comenzar - to start]]
+[[#conocer - to know or to meet a person or place]]
+[[#dar - to give]]
+[[#dormir - to sleep]]
+[[#elegir - to choose]]
+[[#encontrar - to find, to meet up]]
+[[#empezar - to start]]
+[[#hacer - to make/to do/to ask]]
+[[#ir - to go]]
+[[#levantarse - to get up]]
+[[#llover - to rain]]
+[[#poner - to put]]
+[[#ponerse - to put on, try on]]
+[[#pasar - to give/pass (an item), to spend/pass (time), to pass/stop by]]
+[[#pensar - to think]]
+[[#perder - to lose]]
+[[#probar - to prove,test, try on, taste]]
+[[#poder- be able to / can]]
+[[#querer - to want]]
+[[#seguir - to continue on]]
+[[#sentir - to feel]]
+[[#tener - to have]]
+[[#tocar - to touch, knock, tap, play (instrument)]]
+[[#traer - to bring]]
+[[#venir - to come]]
+[[#ver - to see]]
+[[#volver - to come back]]
 
-
-sh.academy/blog/how-to-use-the-personal-a-in-spanish/
+---
+# Regular Verbs
 
 # Conjugations
 
- *Notice that most of the **present tense** endings for -er and -ir verbs are the same. Only the nosotros and vosotros endings are different.*
-In the **preterite tense** the -er and -ir endings are the same.
 ### -ar verbs
 #### Present
 **hablar (to speak)**
@@ -36,21 +73,36 @@ tú -aste (hablaste)
 él, ella -ó (habló)
 nosotros -amos (hablamos)
 vosotros	-áis (habláis)
-ellos, ellas/ustedes -an (hablan)
+ellos, ellas/ustedes -aron (hablaron)
 
+### disfrutar - to enjoy 
 #### quedar - to meet
 - quedarse/me= to stay
+### llegar - to arrive
+
+### llevar - to carry away, to wear
+
+### llamar - to call
+
+### llorar - to cry
 #### esperar - to wait
 #### tomar - to take
 - See [[#coger - to take (Spain)]]
 #### intendar - to try
 - See [[#probar - to prove,test, try on, taste]]
-- 
-#### viajar - to travel 
+### llegar - to arrive
 
 #### olvidar - to forget 
 
+#### viajar - to travel 
+
+### visitar - to visit 
+
+___
+
 ### -er verbs
+ *Notice that most of the **present tense** endings for -er and -ir verbs are the same. Only the nosotros and vosotros endings are different.*
+In the **preterite tense** the -er and -ir endings are the same.
 #### Present
 **comer (to eat)**
 yo como (-o)
@@ -69,6 +121,9 @@ nosotros comimos (-imos)
 vosotros comistes (-isteis)
 ellos, ellas comieron (-ieron)
 
+### aprender - to learn
+
+___
 ### -ir verbs
 ###  Present 
 **vivir (to live)**
@@ -86,6 +141,8 @@ tú viviste (-iste)
 nosotros vivimos (-imos)
 vosotros vivisteis (-isteis)
 ellos, ella, ustedes vivieron (-ieron)
+
+### abrir - to open 
 
 ---
 ## Irregular Verbs
@@ -145,7 +202,7 @@ nosotros cerramos
 vosotros cerrasteis
 ellos/ellas/ustedes cerraron 
 
-
+[[#Table of Contents]]
 ### coger - to take (Spain)
 yo cojo
 tú coges
@@ -154,7 +211,16 @@ nosotros cogemos
 vosotros cogéis
 ellos cogen 
 See [[#**tomar - to take**]]
+### comenzar - to start
+## Present 
+yo comienzo 
+tú comienzas 
+el/ella/usted comienza 
+nosotros comenzamos 
+vosotros comenzáis
+ellos/ellas/ustedes comienzan 
 
+[[#Table of Contents]]
 ### #conocer - to know or to meet a person or place 
 ## Present
 Yo conozco - I know
@@ -179,6 +245,23 @@ nosotros - damos
 vosotros - dais
 ellos/ellas/Uds - dan 
 
+### dormir - to sleep 
+## Present 
+yo duetmo
+tú duermes 
+él/ella/usted duerme 
+nosotros  dormimos 
+vosotros dormis
+ellos/ellas/ustedes duermen 
+## Pretérito 
+yo dormi
+tú dormiste 
+él/ella/usted durmió 
+nosotros dormimos 
+vosotros dormisteis
+ellos/ellas/ustedes durmieron 
+
+[[#Table of Contents]]
 ### elegir - to choose
 ## Present 
 yo elijo 
@@ -195,13 +278,22 @@ nosotros elegimos
 vosotros elegisteis
 ellos/ellas/Uds eligieron 
 
-### #encontrar - to find
+[[#Table of Contents]]
+### #encontrar - to find, to meet up 
+## Present
 yo encuentro
-tu encuentras
+tú encuentras
 Él/ella/usted encuentra
 Nosotros encontramos
 ustedes encuentran
-ellos encuentran
+ellos/ellas/Uds encuentran
+## Preterite
+yo encontré 
+tú encontraste 
+Él/ella/usted encontró 
+nosotros encontramos
+vosotros encontrasteis
+ellos/ellas/Uds encontraron 
 See [[#buscar - to look for or search]]
 ### empezar - to start 
 yo empiezo 
@@ -210,6 +302,7 @@ el empieza
 nosotros empezamos 
 ellos empiezan 
 
+[[#Table of Contents]]
 ### hacer - to make/to do/to ask
 ## Present 
 yo hago 
@@ -241,27 +334,63 @@ nosotros fuimos
 vosotros fuisteis 
 Ellos/Ellas/Ustedes fueron 
 
+[[#Table of Contents]]
 ### levantarse - to get up
 yo levanto 
-tu levantas 
-el/ella/usted 
+tú levantas 
+él/ella/usted 
 nosotros levantamos 
 ellos/ellas/ustedes levantan
 
-### ponerse/me - to put on, try on
-yo pongo
-tu pones
-el/ella/usted pone
-nosotros ponemos 
-ellos/ellas/ustedes ponen 
-*Note:* ***poner = to put**
+### llover - to rain 
+## Present 
+yo lluevo
+tú llueves
+él/ella/usted llueve 
+nosotros llevemos 
+vosotros llovéis 
+ellos/ellas/ustedes llueven 
 
-### pasar - to spend/pass (time)
+### pasar - to give/pass (an item), to spend/pass (time), to pass/stop by
 yo paso
 tu pasas 
 el/ella/usted pasa 
 nosotros pasamos 
 ellos/ellas/ustedes pasan 
+**Note: This is a regular verb**
+
+### pensar - to think 
+### Present 
+yo pienso 
+tú piensas
+él/ella/usted piensa 
+nosotros pensamos 
+vosotros pensáis 
+ellos/ellas/ustedes piensan 
+### Preterite 
+yo pensé 
+tú pensaste 
+él/ella/usted pensó 
+nosotros pensamos 
+vosotros pensasteis
+ellos/ellas/ustedes pensaron 
+
+## poner - to put
+yo pongo 
+tú pones
+él/ella/usted pone
+nosotros ponemos 
+vosotros ponéis 
+ellos/ellas/ustedes ponen 
+### ponerse - to put on, try on
+yo pongo
+tu pones
+el/ella/usted pone
+nosotros ponemos 
+ellos/ellas/ustedes ponen 
+*Note:* ***poner = to put (see previous)**
+
+[[#Table of Contents]]
 
 ### poder- be able to / can
 yo puedo
@@ -270,6 +399,7 @@ el puede
 nosotros podemos 
 ellos pueden 
 
+[[#Table of Contents]]
 ### probar - to prove,test, try on, taste
 yo pruebo 
 tú pruebas 
@@ -333,6 +463,7 @@ nosotros sentimos
 vosotros 
 ellos/ellas/ustedes sienten 
 
+[[#Table of Contents]]
 ### tener - to have 
 #### Present 
 yo tengo 
@@ -356,6 +487,8 @@ el/ella/usted  toca
 nosotros tocamos 
 vosotros tocáis
 ellos/ellas/ustedes tocan
+
+[[#Table of Contents]]
 ### traer - to bring
 yo traigo 
 tú traes 
@@ -381,12 +514,12 @@ ellos, ellas, ustedes ven
 ### Preterite
 yo vi
 tú viste
-él, ella, usted vo
+él, ella, usted vio
 nosotros vimos 
 vosotros visteis
-ellos, ellas, ustedes veron
+ellos, ellas, ustedes vieron
 
-### volver - to come back 
+## volver - to come back 
 yo vuelvo 
 tu vuelves 
 nosotros volvemos 
@@ -401,25 +534,25 @@ ellos vuelven
 Yo soy
 Tú eres
 Él/Ella/Usted es
-Ellos/Ellas/Ustedes son
 Nosotros/Nosotras somos
 Vosotros/Vosotras sois
+Ellos/Ellas/Ustedes son
 #### Preterite
 yo fui
 tú fuiste
 Él/Ella/Usted fue
-Ellos/Ellas/Ustedes fueron 
 Nosotros/Nosotras fuimos
 Vosotros/Vosotras fuisteis 
+Ellos/Ellas/Ustedes fueron 
 
 ### Conjugation of Estar
 #### Present
 Yo estoy
 Tú estás
 Él/Ella/Usted está
-Ellos/Ellas/Ustedes están
 Nosotros/Nosotras estamos
 Vosotros/Vosotras estáis
+Ellos/Ellas/Ustedes están
 #### Preterite
 yo estuve
 tú estuviste 

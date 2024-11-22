@@ -7,17 +7,26 @@
 [[#Indirect Object Pronouns]]
 [[#Reflexive verbs and pronouns]]
 [[#this/these, that/those]]
-[[#Commands - Let's get bossy!]]
+[[#Commands - Let's get bossy!]]o
 [[#Comparisons]]
 [[#Bein vs bueno]]
 [[#por vs para]]
 [[#al versus del]]
 [[#Home related]]
 [[#Location related phrases]]
+[[#Shopping]]
 [[#Body parts]]
 [[#Clothing (la ropa)]]
 [[#Food]]
+[[#Noun gender tips]]
+- [[#Article Gender Noun Exceptions]]
+[[#por vs para]]
+[[#al versus del]]
 [[#Pronunciation]]
+- [[#Vowels]]
+- [[#Consonants]]
+- [[#Sounds nearly the same in Spanish as English]]
+- [[#Stressed syllables]]
 
 [[#Numbers (números)]]
 [[#Time]]
@@ -25,6 +34,8 @@
 [[#Days of the week]]
 [[#Months (meses)]]
 [[#Weather]]
+[[#Holiday Greetings]]
+[[#Cognate tricks for translating English to Spanish]]
 [[#Common Phrases]]
 
 # Common Adverbs & Adjectives
@@ -52,7 +63,7 @@ ya - already
 algo - something 
 a veces - sometimes
 alguno - some
-ambos - both
+ambos/ambas - both
 mismo - same
 otro(a) - another/other 
 otra vez - again
@@ -64,8 +75,10 @@ acá - here
 allá - there
 ahí - there 
 a verdad - really 
+  verdad - true
 en serio - really?!? (disbelief)
-simplemente - simply/plainly 
+simplemente - simply/plainly afortunadamente - fortunately 
+desafortunadamente - unfortunately 
 seguro - sure/safe
 
 #### have to
@@ -182,6 +195,7 @@ I bought flowers for my girlfriend
 Like a direct object pronoun, you DO NOT put an indirect object pronoun before a preposition 
 
 [[#Table of Contents]]
+
 ## Reflexive verbs and pronouns 
 Reflexive refers to something happening in the past.
 A reflexive pronoun (pronombre reflexivo) is used as part of a reflexive verb (verbo reflexivo) to indicate that someone or something is performing an action on or for itself.
@@ -229,6 +243,7 @@ la oreja - the ear
 la mano - hand (las manos)
 el brazo - arm
 el pie - foot
+la espalda - back
 el cabello - hair (caballo - horse)
 - cabello largo (long hair)
 el diente - tooth
@@ -260,6 +275,9 @@ mantequilla - butter
 churros - fried dough sticks that are dipped into dark chocolate 
 jugo/zumo(ES) - juice
 dulce - sweet 
+harina - flour
+masa - dough
+caffeine - cafeína (sin cafeína - decaf)
 
 [[#Table of Contents]]
 ### Cooking related 
@@ -344,6 +362,7 @@ arriba - upstairs
 atrás - in the back 
 carretera - highway 
 buscando - to look or search for 
+encontrar - to find
 dirección - address 
 sitio - place
 seguir - to continue (on a road or street)
@@ -373,7 +392,7 @@ tomorrow - mañana
 date - la fecha 
 
 # Time
-a qué hora - at what hour
+a qué hora... - what time...
 hace un año - a year ago
 hace mucho tiempo - a long time ago
 el año pesado - last year 
@@ -408,7 +427,7 @@ Amo a México. – I love Mexico.
 
 For more details see: https://www.spani
 
-
+[[#Table of Contents]]
 # Commands - Let's get bossy! 
 Drop the -s from the normal tú verb form to tell someone what to do.
 
@@ -448,6 +467,7 @@ el idioma - the language
 el lápiz - pencil 
 **Some nouns ending in "-ma"  are masculine, rather than feminine**
 
+[[#Table of Contents]]
 # por vs para
 ## *por*
 ### Duration - how long to do something 
@@ -533,14 +553,21 @@ The weather is good/bad.
 *Hace buen/mal tiempo*
 It's sunny 
 *Hace sol*
+What a cold day!
+¡Qué día tan frío!
 
 hot - calor
+caluroso - hot (type of weather)
 cold - frio
 rain - lluvia
+to rain - llover
+it rains... - llueve...
+raining - lloviendo 
 snow - nieve 
 * ski - esquí
 * I like to ski - me gusta esquiar
-It's snowing today - Nieve hoy 
+to snow - nevar
+snowing - nevando
 cloudy - nublado
 dark - oscuro 
 wind - viento 
@@ -679,6 +706,8 @@ she & ch
 - narration -> narración (pattern is often the case with two rs
 4. The combination of T&H  often drops to just a T
 - authorization -> autorización 
+
+[[#Table of Contents]]
 # Common Phrases
 I am Craig. What is your name?
 Me llamo Craig. ¿Cómo te llamas? 
@@ -688,6 +717,9 @@ Soy estadounidense.
 
 I speak a little Spanish 
 hablo un poco de español
+
+Cómo está todo
+How is everything 
 
 My Spanish isn't very good.
 Mi español no es muy bueno 
@@ -709,6 +741,12 @@ Yo no entiendo
 
 I don't know 
 No sé (Yo no lo sé)
+
+I don't think so 
+Creo que no 
+
+not so much
+no tanto
 
 Yours or mine 
 El mío o el tuyo 
@@ -734,12 +772,6 @@ Cómo se dice ... en español
 I don't know 
 No, sé
 
-gross!
-¡guàcala!
-
-... right now
-ahora mismo 
-
 I think so
 Creo que si 
 
@@ -751,6 +783,12 @@ Pensamos que si
 
 have something to drink 
 tomar algo
+
+... right now
+ahora mismo 
+
+gross!
+¡guàcala!
 
 See:  https://duome.eu/tips/en/es
 

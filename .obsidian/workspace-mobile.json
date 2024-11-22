@@ -41,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wordle Words.md",
+                "file": "Blood Pressure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wordle Words"
+              "title": "Blood Pressure"
+            }
+          },
+          {
+            "id": "7c58c12ec912292f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spanish Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spanish Notes"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -124,7 +138,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Wordle Words.md",
+            "file": "Spanish Verbs.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -176,23 +190,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c986a3c02165802e",
+  "active": "7c58c12ec912292f",
   "lastOpenFiles": [
-    "Temp Notes.md",
-    "Soup Kitchen.md",
-    "Sabbathday Lake Association.md",
-    "Wordle Words.md",
     "Spanish Verbs.md",
     "Spanish Notes.md",
+    "Wordle Words.md",
+    "Blood Pressure.md",
+    "Spanish Mass.md",
+    "Spanish common filler phrases and tag questions.md",
+    "comenzar - to start.md",
+    "Temp Notes.md",
+    "Soup Kitchen.md",
+    "Health.md",
+    "and need a ride on Tuesday.md",
+    "[.md",
+    "Sabbathday Lake Association.md",
     "Github Notes.md",
     "Deno Notes.md",
     "5 Letter Words.md",
-    "Spanish Mass.md",
     "Deno Blog Ideas.md",
     "Haiku.md",
     "Canon Pixma TR8520 Printer.md",
     "Vocabulary.md",
-    "NYT 7-minute workout.md",
-    "Blood Pressure.md"
+    "NYT 7-minute workout.md"
   ]
 }

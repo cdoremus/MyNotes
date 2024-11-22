@@ -6,12 +6,13 @@ Don - rinsing (biker)
 Charlie - Argentina 
 Christian - African 
 
-Paula - dishwasher 
+Paula - dishwasher - helps Jeff
 
 Brittany - server 
 Chantel - dark, curly reddish hair
 
 Charlie - Argentina 
+Paulie - helps with dishes
 Christian - African 
 Larry - jack-of-all-trades, teeth 
 

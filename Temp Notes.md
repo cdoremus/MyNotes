@@ -76,7 +76,7 @@ Famotadine interactions
 30mg daily Vyvanse to start 
 
 
-# Auburn Canvassing for Harris
+# Canvassing for Harris
 
 Jane Morrison 
 415-2235
@@ -85,3 +85,14 @@ House Race
 Coleen Strictler
 
 66 Baird - drop off sign 
+
+
+Eugene Bergeron
+733 Webster Street 
+may need a ride on Tuesday
+
+Maine Democrat Lewiston Office 
+Thomas 207-236-5373
+
+
+https://pine64.org/devices/pinepower/
