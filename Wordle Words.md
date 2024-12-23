@@ -1,19 +1,23 @@
 ### Current Game 
 
 PLATE
-CORNS
+SHARK
 
-XOXNX
+XRAXX
+RXAXX
+XXAXR
 
-FOUND
-HOUND
-MOUND
-WOUND
+BRAIN
+DRAIN
+GRAIN
+ROADY
+BRAWN
+DRAWN
+PRAWN
+DRAMA
 
 
 
-
-.
 [[##PLATE as first word]]
 
 ---------------------
@@ -438,6 +442,10 @@ BLARE
 FLARE
 GLARE
 
+LA in order 
+CLANS
+SLACK
+
 LA with A in order 
 CRAWL
 SHALL
@@ -459,6 +467,11 @@ PHONY
 P not in order 
 CROUP
 SYRUP
+
+PL both in order 
+PLUCK
+PLUMP
+PLUMB
 
 PT not in order 
 TROMP
@@ -484,6 +497,10 @@ TENSE
 PAE with AE in order 
 SPARE
 SPADE
+
+PAT with P in order 
+PATCH
+PAINT
 
 PE not in order 
 SPEED

@@ -1,13 +1,18 @@
+[[Spanish Verbs]]
 # Table of Contents 
 [[#Common Adverbs & Adjectives]]
+- [[#Who, what, when...]]
+- [[#Some/Any variations]]
 [[#Prepositions]]
 [[#Pronouns]]
 [[#Possesive pronouns (singular/plural)]]
 [[#Direct Object Pronouns]]
 [[#Indirect Object Pronouns]]
+[[#Relationships]]
 [[#Reflexive verbs and pronouns]]
+[[#Vosotros]]
 [[#this/these, that/those]]
-[[#Commands - Let's get bossy!]]o
+[[#Commands - Let's get bossy!]]
 [[#Comparisons]]
 [[#Bein vs bueno]]
 [[#por vs para]]
@@ -18,6 +23,9 @@
 [[#Body parts]]
 [[#Clothing (la ropa)]]
 [[#Food]]
+- [[#Cooking related]]
+- [[#Meals]]
+- [[#Spanish Dishes]]
 [[#Noun gender tips]]
 - [[#Article Gender Noun Exceptions]]
 [[#por vs para]]
@@ -29,6 +37,7 @@
 - [[#Stressed syllables]]
 
 [[#Numbers (números)]]
+- [[#Years(años)/Dates(fechas)]]
 [[#Time]]
     - [[#Telling time]]
 [[#Days of the week]]
@@ -38,19 +47,9 @@
 [[#Cognate tricks for translating English to Spanish]]
 [[#Common Phrases]]
 
-# Common Adverbs & Adjectives
-when - cuando
-what - qué
-where - dónde
-where are... - dónde están
-who - quién
-how - cómo
-how many - cuántos/cuántas
-why - por qué
-which - cuál/qué
-because - porque 
+## Common Adverbs & Adjectives
 
-Cuantos/Cuántas - how many
+
 cada - each/every
 todos - every
 todo el mundo - everybody 
@@ -80,10 +79,32 @@ en serio - really?!? (disbelief)
 simplemente - simply/plainly afortunadamente - fortunately 
 desafortunadamente - unfortunately 
 seguro - sure/safe
-
+tampoco - either
+- Yo tampoco - Me neither.
+- Context determines if meaning is either or neither.
 #### have to
 tengo que - I have to...
 yo creo que - I think that...
+
+### Who, what, when...
+who - quién
+what - qué
+when - cuando
+where - dónde
+- where are... - dónde están
+how - cómo
+how many - cuántos/cuántas
+why - por qué
+which - cuál/qué
+then - entonces 
+
+### Some/Any variations 
+Some/Any - algún/alguna(f)
+Something/Anything - algo
+Someone/Somebody/Anyone/Anybody - alguien 
+#### Nobody/Nothing 
+Nobody - nadie
+Nothing - nada
 
 # Prepositions
 - so .... as ... - tan ... como ...
@@ -111,7 +132,6 @@ Remember, little words like *me or te* generally come before the verb, like in *
 If direct and indirect objects become nouns, they precede the verb in the indicative and follow the verb in the infinitive.
 
 [[#Table of Contents]]
-
 ## Direct Object Pronouns 
 A direct object pronoun (*un pronombre de objeto directo*) replaces a direct object, which is a noun that directly receives the action of a verb in a sentence.
 A way to remember them is to note the article that is used with the noun that will be replaced by a pronoun:
@@ -130,7 +150,7 @@ Don't use a direct object pronoun with a preposition. DO NOT do this:
  
 See https://www.spanishdict.com/guide/direct-object-pronouns-in-spanish
 
-
+[[#Table of Contents]]
 ## Indirect Object Pronouns 
 
 An indirect object pronoun tells you to whom or for whom something is done.  It is often used for receiving and giving.
@@ -196,14 +216,49 @@ Like a direct object pronoun, you DO NOT put an indirect object pronoun before a
 
 [[#Table of Contents]]
 
+# Relationships
+la madre - the mother 
+el padre - the father 
+el padres - the parents 
+el hijo - the son
+los hijos - the children or sons (parents would say)
+- los niños - the children (generic)
+la hija - the daughter 
+el hermano - the brother
+- los hermanos - siblings
+la hermana - the sister 
+la abuela - the grandmother 
+el abuelo - the grandfather 
+el abuelos - the grandparents 
+el sobrino - the nephew 
+la sobrina - the niece 
+el tío - the uncle 
+la tia - the aunt
+el nieto - the grandson 
+la nieta - the granddaughter 
+los nietos - the grandchildren 
+primo(a) - cousin (m/f)
+el marido - the husband (ES)
+- el esposo (latín america)
+la mujer - the wife (ES)
+- la esposa (LA)
+- la mujer - the woman (in ES it depends on context)
+el hombre - the man
+casado(a) - married 
+divorciado(a) - divorced
+vecino(a) - neighbor 
+Also see [[#Possesive pronouns (singular/plural)]]
 ## Reflexive verbs and pronouns 
 Reflexive refers to something happening in the past.
 A reflexive pronoun (pronombre reflexivo) is used as part of a reflexive verb (verbo reflexivo) to indicate that someone or something is performing an action on or for itself.
 See https://www.spanishdict.com/guide/reflexive-verbs-and-reflexive-pronouns
+
+[[#Table of Contents]]
 ## Possesive pronouns (singular/plural)
 ### Used before the object/noun
 yo - mi/mis - my (si/pl)
-tú - tu/tus - your (si/pl)
+tú - tu/tus - your (si/pl) (LA)
+- vuestro(a)/vuestros(as) - ES
 el/ella/usted - su/sus - his/her (si/pl)
 ellos/ellas/ustedes - su/sus - their
 nosotros - nuestro/nuestros - our
@@ -214,10 +269,32 @@ el/ella - suyo(os)/suya(as)* - his/hers
 ellos/ellas/ustedes - suyo(os)/suya(as)* - theirs/your
 nosotros - nuestro(os)/nuestra(as) - ours
 * suyo/suya is often ambiguous, so in that case it can  be used with 'de' to identify the particular object/person doing the possession 
+Also see [[#Relationships]]
 Examples: 
 Él es un amigo de señor Smith
 Ella es una amiga de Juan y Ana
+## Vosotros 
 
+***Vosotros* is used instead of *Ustedes* in Spain** 
+
+|               | Singular          | Plural                  |
+| ------------- | ----------------- | ----------------------- |
+| First person  | yo                | nosotros / nosotras     |
+| Second person | tú                | vosotros / vosotras     |
+| Third person  | él / ella / usted | ellos / ellas / ustedes |
+See [[https://blog.duolingo.com/what-is-spanish-vosotros/]]
+
+### Conjugation of vosotros for regular verbs
+ Remember that vosotros is used for you-all instead of ustedes 
+
+| Verbs | Present | Preterite | Future |
+| ----- | ------- | --------- | ------ |
+| -ar   | -aís    | -asteis   | -aréis |
+| -er   | -éis    | -isteis   | -eréis |
+| -ir   | -ís     | -isteis   | -iréis |
+See [[https://youtu.be/CO0VKeEawtc?si=KUaFu-u2MWnilmzE]]
+
+[[#Table of Contents]]
 ## this/these, that/those
 this - esta (fem) este (masc)
 - esto when 'this' refers to an unknown object (What is this?, ¿Qué es esto?)
@@ -233,12 +310,15 @@ Pneumonic: **THIS AND THESE HAVE Ts**
 [[#Table of Contents]]
 
 # Body parts
+el cuerpo - body
 la cara - face
+la boca - mouth 
 el ojo - eye
 - los lentes - glasses
 - llorar - to cry
 la oreja - the ear
 - los pendientes - earrings
+- 
 
 la mano - hand (las manos)
 el brazo - arm
@@ -248,8 +328,16 @@ el cabello - hair (caballo - horse)
 - cabello largo (long hair)
 el diente - tooth
 - el cepillo de dientes - toothbrush 
+la nariz - nose
+- oler (irregular) - to smell 
+la oreja - ear
+- oir (irregular) - to hear
+- ¿me oyes? - Do you hear me?
+el corazón - heart
+la pierna - leg
 
-el corazón - the heart
+
+[[#Table of Contents]]
 
 # Clothing (la ropa)
 la camesa - shirt
@@ -262,7 +350,6 @@ el vestido - dress
 la falda - skirt 
 los pantalones - pants 
 el zapato - shoe
-
 # Food 
 
 lechazo - roast lamb
@@ -278,6 +365,7 @@ dulce - sweet
 harina - flour
 masa - dough
 caffeine - cafeína (sin cafeína - decaf)
+onion - cebolla 
 
 [[#Table of Contents]]
 ### Cooking related 
@@ -294,14 +382,18 @@ glass - vaso
 
 ## Meals
 breakfast - el desayuno
+- desayunar - to have breakfast 
 lunch - el almuerzo 
+- almorzar - to have lunch 
 dinner - la cena
+- cenar - to have dinner 
 
 ### Spanish Dishes 
 cocido madrileño - chickpea, meat and vegetable stew (Madrid region)
 Pringá: A chickpea stew from Seville, served with meat and bread.
  Gazpacho: A cold tomato soup originating from Seville, made with tomatoes, green peppers, cucumbers, garlic, and bread.
 Salmorejo: A thicker, creamier version of gazpacho, typically served with bread, ham, and egg.
+
 [[#Table of Contents]]
 ## Shopping 
 - tienda - store
@@ -330,14 +422,14 @@ Salmorejo: A thicker, creamier version of gazpacho, typically served with bread,
 # Location related phrases
 - al lado de.... next to 
 - cerca de ... close to or nearby 
+- lejos de... far from 
 - más cercano(a) ... nearest to
-- lejos de ... far from
 - delante de ...in front of 
 - encima de ... on top of
 - debajo de ... underneath 
 - adentro de ... inside 
 - más cercano/a ... nearest/closest 
-- por aquí ... this way
+- por aquí ... around here 
 - enfrente ... in front or across 
 - atrás ... in (the) back
 - detrás ... behind or after 
@@ -355,7 +447,7 @@ Aquí o ahi - Here or there
 girar - to turn
 allá - there (or over there)
 tomar - to take (train, bus)
-afuera - outside (on the outskirts)
+afuera - out or outside (on the outskirts)
 dentro - inside 
 abajo - downstairs 
 arriba - upstairs 
@@ -375,6 +467,7 @@ El without an accent means ‘the’, and it always comes before an adjective, a
 yes if you like me 
 sí si te gusto
 
+[[#Table of Contents]]
 ## Days of the week
 Monday - lunes
 Tuesday - martes
@@ -394,16 +487,23 @@ date - la fecha
 # Time
 a qué hora... - what time...
 hace un año - a year ago
+hace tres años - three years ago 
 hace mucho tiempo - a long time ago
 el año pesado - last year 
 cuánto tiempo - how long
 
-abrir (command: abre; formal: abra) - open
-cerrar (command: cierre; formal: cierra) - close
+hace media hora - half an hour ago 
+hace tiempo hora - long time ago 
+
+el años pasado - last year 
+el mes pasado - last month 
 ## Telling time
 la/las "number" y media - half past ...
 la/las "number" y cuarto - quarter after ... 
 cuarto de "number " quarter of ...
+
+abrir (command: abre; formal: abra) - open
+cerrar (command: cierre; formal: cierra) - close
 
 [[#Table of Contents]]
 
@@ -461,6 +561,7 @@ la tarde - the afternoon
 el agua
 el avión 
 el camión - the truck 
+el clima - the weather 
 el dia
 el problema 
 el idioma - the language
@@ -530,9 +631,12 @@ tall/short - alto(a)/bajo(a)
 thin/fat - delgado(a)/gordo(a)
 light/heavy - ligero/pesado 
 slow/fast - lento/rapido 
-cheap/expensive - barato/caro
-arriba/abajo - upstairs/downstairs 
-
+- slowly - despacio 
+cheap/expensive - barato(a)/caro(a)
+upstairs/downstairs - arriba/abajo
+outside/inside - afuera/adentro
+next/previous - próximo(a)/previo(a)
+- siguiente - following 
 ## Bein vs bueno
 bien - modifies verb (well)
 bueno - modifies noun (good)
@@ -637,7 +741,32 @@ Winter - invierno
 70 setenta (setenta y uno = 71)
 80 ochenta
 90 noventa 
+100 ciento
+200 doscientos 
+201 doscientos uno
+250 doscientos cincuenta
+251 doscientos cincuenta y uno
+300 trescientos 
+400 cuatrocientos
+500 quinientos 
+600 seiscientos
+700 setecientos 
+800 ochocientos 
+900 novecientos
+1000 mil
 
+[[#Table of Contents]]
+### Years(años)/Dates(fechas)
+the year 1820 - el año mil ochocientos veinte
+(the year) 2000 - dos mil año  
+the year 1798 - el año mil setecientos noventa y ocho 
+1953 - mil novecientos cincuenta y tres 
+1949 - mil novecientos cuarenta y nueve 
+2014 - el año dos mil catorce
+2024 - el año dos mil veinticuatro
+
+he lived for eighty-seven years - él vivió ochenta y siente años
+- Note the *for* is not translated 
 ## Rank
 primer(o/a) - first 
 segund(o/a) - second 
@@ -646,7 +775,6 @@ tercer(o/a) - third
 # Distance
 2.5k (length of SDL) - dos kilómetros y medio
 5.7 meters (my height) - uno punto siete metros
-
 
 # Using numbers phrases 
 ¿Cuánto cuesta? - How much does it cost?
@@ -662,11 +790,12 @@ tercer(o/a) - third
 a - ah as the "a's" in 'mama'  (*habla, mala*)
 e - eh as the 'a' in 'say' (*que, de*)
 i - ee as the two "e's" in 'see' (*si, mi*)
-o - oh but said softly with a round mouth like a soft 'no' in English (*no, solo*)
+o - oh but said softly with a round mouth like a soft 'no' in English (*no, solo*) but not as dramatic as the 'o' in Do.
 u - oo as the two "o's" in 'boot' (*tu, su*)
 ## Consonants 
+b - see v below 
 c - sounds like k (*como*) when followed by A, O or U ('k' in 'bake'). If it is followed by the letters 'e' or 'i' then it sounds like 's' ('th' in Spain)(*hacer, cierra*)
-d - somewhat like a soft 'th' with tongue resting on the front teeth (*donde, nada*)
+d - somewhat like a soft 'th' with tongue resting on the front teeth (*donde, nada*) except after 'n' or 'l' or after a break (start of word) where the sound is a hard 'd' like the 'd' in Den.
 g - a hard g sound like 'g' in 'go' (*agua, guapo*)(when before an A, O or U) When  before an 'e' or 'i' it sounds like a strong English 'h' (*página, gente*)
 h - is silent. (*habla, hola*)
 j - sounds like an gutteral h in English. (*Javier, pájaro*)
@@ -678,11 +807,14 @@ rr - is rolled trilled. Blow air over tongue (*perro, carro*)
 s - sounds like 's' in English. In Andalusian Spain it is pronounced with a 'th' like the English word 'there'. When followed by a consonant, a soft e sound is placed before it.
 - the letter s in the alphabet is pronounced *ese*
 ü - indicates that the 'u' is pronounced???
+*At the beginning of a word or after m or n, the b and v have a hard b sound. I'm all other cases, the b and v are pronounced softer than the English b.*
 v - sounds like a soft 'b' like in 'boy' and 'Ben'.
 y - sounds like Spanish 'i' (*yo, playa*)
 z - sounds like 's' in English (*diez*). In Spain it is pronounced with a 'th' like the English word 'there' 
 ll - sounds like y in English as in "yard" (*llama*)
 ñ - sounds like 'ny' the N in onion (*mañana, señor*)
+
+[[#Table of Contents]]
 ## Sounds nearly the same in Spanish as English 
 f, m, n, s, p, k, w
 she & ch
@@ -718,6 +850,12 @@ Soy estadounidense.
 I speak a little Spanish 
 hablo un poco de español
 
+I speak a bit of Spanish 
+Yo hablo poquito de español 
+
+Do you hear me?
+¿me oyes?
+
 Cómo está todo
 How is everything 
 
@@ -732,6 +870,9 @@ Puedes más lento por favor
 
 Speak louder, please.
 Hable más alto, por favor 
+
+Have a nice day 
+Que tengas buen dia
 
 I am a computer programmer 
 Soy programador de computadoras
@@ -784,11 +925,8 @@ Pensamos que si
 have something to drink 
 tomar algo
 
-... right now
-ahora mismo 
-
-gross!
-¡guàcala!
+See you  (see you on Monday )
+Nos vemos (Nos vemos el lunes)
 
 See:  https://duome.eu/tips/en/es
 
@@ -798,6 +936,8 @@ Que tal - how are you
 Por que - why is/are...
 bienvenido - welcome 
 ¿Cuánto? - how much 
+ahora mismo - right now 
+¡guàcala! - gross!
 
 ### Holiday Greetings 
 Happy Easter

@@ -96,3 +96,52 @@ Thomas 207-236-5373
 
 
 https://pine64.org/devices/pinepower/
+
+
+
+https://bsky.app/profile/cdoremus.deno.social
+
+
+Package was ordered on 11/11. Two days ago I saw this message in the 'track package ' page: "Package was damaged and will be returned." Please refund my account.
+
+## Tax breaks on 401k withdrawal 
+
+Invest in SMP500 through Key Bank 
+-  not taxed 
+Donate RMD to a charity and
+deduct it from your taxes 
+
+# Maine Ski Pass
+
+## Receipt requirement for Martin's Point reimbursement 
+- Itemized what was purchase  (Ski)
+- When the tickets were purchased 
+- Cost of tickets ($629)
+- How it was paid for (TD Bank card ending in 8321)
+
+Ticket purchased on September 13 through TD Bank card xxx-8321
+
+Dirk Gouwens, Executive Director
+PO Box 689
+Farmington, ME  04938
+dgouwens@skimaine.com
+(207) 773-SNOW (7669)
+
+# Movies
+The cost of a movie ticket at Regal Colonie Center & RPX in Albany, NY can vary based on the time of day, format (like RPX or 3D), and ticket type (standard adult, child, senior, etc.). Here are general price ranges to expect:
+
+Standard Adult Ticket: Typically between $12 and $15.
+
+Matinee Pricing (before 5 or 6 PM): Around $9 to $11.
+
+Special Formats like RPX (Regal Premium Experience): Expect prices closer to $17 or more.
+
+Discount Tuesdays: Regal offers reduced pricing, often around $5 to $7 per ticket for standard showings.
+
+
+It's best to confirm exact pricing for your specific movie and time on Regal's website here or through online ticket providers like Atom Tickets.
+
+
+# Andrea
+
+call about insurance coverage of visits

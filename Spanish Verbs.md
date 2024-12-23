@@ -1,16 +1,13 @@
-
-
-
-
-## Template 
-yo
-tú
-él/ella/usted
+[[Spanish Notes]]
+### Template 
+yo 
+tú 
+él/ella/usted 
 nosotros 
 vosotros 
 ellos/ellas/ustedes 
 
-## Table of Contents
+# Table of Contents
 
 [[#ser vs estar]]
 [[#-ar verbs]]
@@ -25,6 +22,7 @@ ellos/ellas/ustedes
 [[#coger - to take (Spain)]]
 [[#comenzar - to start]]
 [[#conocer - to know or to meet a person or place]]
+[[#conseguir - to get or obtain]]
 [[#dar - to give]]
 [[#dormir - to sleep]]
 [[#elegir - to choose]]
@@ -34,13 +32,15 @@ ellos/ellas/ustedes
 [[#ir - to go]]
 [[#levantarse - to get up]]
 [[#llover - to rain]]
-[[#poner - to put]]
+[[#poner - to put, to give]]
 [[#ponerse - to put on, try on]]
 [[#pasar - to give/pass (an item), to spend/pass (time), to pass/stop by]]
 [[#pensar - to think]]
 [[#perder - to lose]]
 [[#probar - to prove,test, try on, taste]]
 [[#poder- be able to / can]]
+[[#poner - to put]]
+[[#ponerse - to put on, try on]]
 [[#querer - to want]]
 [[#seguir - to continue on]]
 [[#sentir - to feel]]
@@ -74,26 +74,26 @@ tú -aste (hablaste)
 nosotros -amos (hablamos)
 vosotros	-áis (habláis)
 ellos, ellas/ustedes -aron (hablaron)
-
-### disfrutar - to enjoy 
-#### quedar - to meet
-- quedarse/me= to stay
-### llegar - to arrive
-
-### llevar - to carry away, to wear
-
-### llamar - to call
-
-### llorar - to cry
+#### disfrutar - to enjoy 
+#### enseñar - to teach 
 #### esperar - to wait
-#### tomar - to take
-- See [[#coger - to take (Spain)]]
 #### intendar - to try
 - See [[#probar - to prove,test, try on, taste]]
+### llamar - to call
 ### llegar - to arrive
+- **Preterite:** yo llegué
+### llevar - to carry away, to wear
+### llorar - to cry
 
-#### olvidar - to forget 
+### mandar - to send 
 
+### mirar - to look, watch 
+### olvidar - to forget 
+### parar - to stop 
+#### quedar - to meet
+- quedarse/me= to stay
+#### tomar - to take/to drink
+- See [[#coger - to take (Spain)]]
 #### viajar - to travel 
 
 ### visitar - to visit 
@@ -122,6 +122,7 @@ vosotros comistes (-isteis)
 ellos, ellas comieron (-ieron)
 
 ### aprender - to learn
+### responder - to answer, respond 
 
 ___
 ### -ir verbs
@@ -143,6 +144,14 @@ vosotros vivisteis (-isteis)
 ellos, ella, ustedes vivieron (-ieron)
 
 ### abrir - to open 
+
+### sufrir - to suffer 
+
+### cumplir - to fulfill, to turn (age as in 'turn 60')
+- ¿Y cuántos años cumples? - and how old will you be?
+- Cumplo 30 años - I am turning (fulfilling) 30
+
+[[#Table of Contents]]
 
 ---
 ## Irregular Verbs
@@ -208,6 +217,7 @@ yo cojo
 tú coges
 él coge
 nosotros cogemos 
+
 vosotros cogéis
 ellos cogen 
 See [[#**tomar - to take**]]
@@ -218,8 +228,15 @@ tú comienzas
 el/ella/usted comienza 
 nosotros comenzamos 
 vosotros comenzáis
-ellos/ellas/ustedes comienzan 
-
+ellos/ellas/ustedes comienzan
+## Pretérito 
+yo comencé \*
+tú comenzaste 
+él/ella/usted comenzó 
+nosotros comenzamos 
+vosotros comentasteis
+ellos/ellas/ustedes comenzaron 
+**\*Note:** the _yo_ form in the Preterite for infinitives ending in _zar_ ends in _cé_.
 [[#Table of Contents]]
 ### #conocer - to know or to meet a person or place 
 ## Present
@@ -237,21 +254,47 @@ nosotros conocimos
 vosotros conocisteis
 ellos/ellas/Ustedes conocieron 
 see [[#saber - to know information or how to do something]]
-#### dar - to give
+
+[[#Table of Contents]]
+
+### conseguir - to get or obtain 
+## Present
+yo consigo 
+tú consigues 
+él/ella/usted consigue 
+nosotros conseguimos 
+vosotros conseguis
+ellos/ellas/ustedes consiguen 
+## Pretérito 
+yo conseguí 
+tú conseguiste 
+él/ella/usted consiguió 
+nosotros conseguimos 
+vosotros conseguisteis
+ellos/ellas/ustedes consiguieron 
+
+### dar - to give
+## Present 
 yo doy
 tú das
 él/ella/usted - da
 nosotros - damos
 vosotros - dais
 ellos/ellas/Uds - dan 
-
+## Pretérito 
+yo di
+tú diste
+él/ella/usted dio
+nosotros dimos 
+vosotros disteis
+ellos/ellas/ustedes dieron 
 ### dormir - to sleep 
 ## Present 
-yo duetmo
+yo duermo 
 tú duermes 
 él/ella/usted duerme 
 nosotros  dormimos 
-vosotros dormis
+vosotros dormís 
 ellos/ellas/ustedes duermen 
 ## Pretérito 
 yo dormi
@@ -359,6 +402,7 @@ nosotros pasamos
 ellos/ellas/ustedes pasan 
 **Note: This is a regular verb**
 
+[[#Table of Contents]]
 ### pensar - to think 
 ### Present 
 yo pienso 
@@ -374,14 +418,28 @@ tú pensaste
 nosotros pensamos 
 vosotros pensasteis
 ellos/ellas/ustedes pensaron 
-
-## poner - to put
-yo pongo 
+### poder- be able to / can
+yo puedo
+tu puedes
+el puede
+nosotros podemos 
+ellos pueden 
+## poner - to put, to give 
+## Present 
+yo pongo
 tú pones
 él/ella/usted pone
 nosotros ponemos 
-vosotros ponéis 
+vosotros ponéis
 ellos/ellas/ustedes ponen 
+## Pretérito 
+yo puse
+tú pusiste 
+él/ella/usted puso
+nosotros pusimos 
+vosotros pusisteis 
+ellos/ellas/ustedes pusieron 
+
 ### ponerse - to put on, try on
 yo pongo
 tu pones
@@ -391,21 +449,13 @@ ellos/ellas/ustedes ponen
 *Note:* ***poner = to put (see previous)**
 
 [[#Table of Contents]]
-
-### poder- be able to / can
-yo puedo
-tu puedes
-el puede
-nosotros podemos 
-ellos pueden 
-
-[[#Table of Contents]]
 ### probar - to prove,test, try on, taste
 yo pruebo 
 tú pruebas 
 nosotros probamos 
 ellos prueban
-See [[####intendar - to try]]
+**See** [[####intendar - to try]]
+**Note:** *probador* - fitting room
 ### perder - to lose
 yo pierdo 
 tu pierdes
@@ -421,7 +471,14 @@ nosotros queremos
 vosotros 
 ellos quieren 
 #### Preterite
+yo quise
+tú quisiste
+él/ella/usted quiso
+nosotros quisimos 
+vosotros quisisteis
+ellos/ellas/ustedes quisieron 
 
+[[#Table of Contents]]
 ### #saber - to know information or how to do something 
 yo sé - I know 
 tu sabes - You know 
@@ -446,6 +503,7 @@ nosotros salimos
 vosotros salisteis
 el/ella/usted salieron
 
+[[#Table of Contents]]
 ### seguir - to continue on
 yo sigo
 tu sigues
@@ -456,12 +514,20 @@ ellos/ellas/ustedes siguen
 [[Spanish Notes#Location related phrases]]
 
 ### sentir - to feel 
+## Present 
 yo siento
 tu sientes
 el/ella/usted siente
 nosotros sentimos
-vosotros 
+vosotros sentís
 ellos/ellas/ustedes sienten 
+## Pretérito 
+yo sentí
+tú sentiste 
+él/ella/usted sintió 
+nosotros sentimos 
+vosotros sentisteis
+ellos/ellas/ustedes sintieron 
 
 [[#Table of Contents]]
 ### tener - to have 
@@ -497,12 +563,21 @@ nosotros traemos
 vosotros traéis
 ellos/ellas/ustedes traen 
 ### venir - to come
+## Present 
 yo vengo
 tú vienes
 él viene
 nosotros venimos 
 ellos vienen 
+## Pretérito 
+yo vine
+tú viniste 
+él/ella/usted vino
+nosotros vinimos 
+vosotros vinisteis
+ellos/ellas/ustedes vinieron 
 
+[[#Table of Contents]]
 ## ver - to see
 ### Present 
 yo veo
@@ -516,9 +591,10 @@ yo vi
 tú viste
 él, ella, usted vio
 nosotros vimos 
-vosotros visteis
+vosotros vinisteis
 ellos, ellas, ustedes vieron
 
+[[#Table of Contents]]
 ## volver - to come back 
 yo vuelvo 
 tu vuelves 
@@ -563,17 +639,18 @@ Ellos/Ellas/Ustedes estuvieron
 
 [[#Table of Contents]]
 ### es vs está (is)
-- es: describe the qualities of a person or thing
+- **es: describe the qualities of a person or thing**
   ...es bonito
   ...es bien
   ...es mi esposa 
-- está: where something is located, for an emotion or for something that is temporarily true
+- **está: where something is located, for an emotion or for something that is temporarily true**
   ... está aqui
   ...está cerrado
-  ...està en Madrid 
+  ...está en Madrid
+  ... está enseñando 
 
  **Pneumonic:**
-How you feel or where you are, always use the verb estar
+How you feel or where you are, always use the verb estar (or when temporarily true)
 
 ## hay
 there is/are - hay
