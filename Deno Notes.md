@@ -32,3 +32,9 @@ The documentation mentions that if you want to communicate with a started subpro
 If you encounter any issues with the `readLines` function or the `Deno.Command` class, please make sure you are using the latest version of Deno
 
 ---
+# YouTube Channel ID
+UCqC2G2M-rg4fzg1esKFLFIw
+
+Obtained by looking at source code for the channel's home page and searching for channelIds. Most channels only have one Id.
+
+You can also right click on the description of a channel on its home page and at the bottom of the menu will be a share button. Clicking on that will show an item that allows you to copy the channel ID.

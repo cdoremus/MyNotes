@@ -144,4 +144,50 @@ It's best to confirm exact pricing for your specific movie and time on Regal's w
 
 # Andrea
 
-call about insurance coverage of visits
+call about insurance coverage of visitation 
+
+
+# Movies 
+
+To Catch a Thief - YTTV
+- Cary Grant & Grace Kelly 
+Holiday - Amazon 
+- Cary Grant & Katherine Hepburn 
+Breakfast at Tiffany's - AZ
+Sense and Sensibility 
+Coach (TV) - AZ
+Aloha - Netflix 
+- Bradley Cooper, Emma Stone & Rachel McAdams
+
+# Aliexpress sale codes
+
+USWS03 $3 Off
+USWS08 $8 Off
+USWS20 $20 off
+
+# Soldering
+## Factory 3
+105 St James St, Portland, ME 04102
+207-358-9412
+ted@factory3.org - class questions 
+## Bring
+- [ ] Soldering iron 
+- [ ] Laptop power supply 
+- [ ] Iron stand
+- [ ] Solder, flux (brush) & wick
+- [ ] N95 mask
+- [ ] Fume extractor 
+- [ ] Headset 
+
+
+# Passport Renewal 
+
+
+ADDRESS
+207 International Drive, Portsmouth, NH 03801
+
+HOURS OF OPERATION
+M-F, 7:30-3:00pm (By Appt. Only)
+
+Visit Website
+Get Directions

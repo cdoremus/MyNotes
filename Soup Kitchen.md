@@ -12,12 +12,9 @@ Brittany - server
 Chantel - dark, curly reddish hair
 
 Charlie - Argentina 
-Paulie - helps with dishes
-Christian - African 
 Larry - jack-of-all-trades, teeth 
 Colin & Vanessa - 2 yr old daughter 
 Glorian - rinsing & tables (young)
-
 
 Barbara - St Bridget teacher 
 
@@ -29,3 +26,6 @@ Taylor - arm tattoo
 Ed - silver hair and beard 
 Elsa - Spanish 
 Vicky - Lipstick and ponytail 
+
+
+Evelyn (Ph: 447-1086) - put announcement in the church bulletin 

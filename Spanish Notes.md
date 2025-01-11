@@ -1,5 +1,7 @@
 [[Spanish Verbs]]
-# Table of Contents 
+
+Babbel support - support@babbel.com
+q# Table of Contents 
 [[#Common Adverbs & Adjectives]]
 - [[#Who, what, when...]]
 - [[#Some/Any variations]]
@@ -18,14 +20,18 @@
 [[#por vs para]]
 [[#al versus del]]
 [[#Home related]]
-[[#Location related phrases]]
+[[#Location related words and phrases]]
 [[#Shopping]]
 [[#Body parts]]
+- [[#Face (la cara)]]
+- [[#Body (el cuerpo)]]
+- [[#Organs (los órganos)]]
 [[#Clothing (la ropa)]]
 [[#Food]]
 - [[#Cooking related]]
 - [[#Meals]]
 - [[#Spanish Dishes]]
+- [[#Ordering at a restaurant]]
 [[#Noun gender tips]]
 - [[#Article Gender Noun Exceptions]]
 [[#por vs para]]
@@ -43,10 +49,15 @@
 [[#Days of the week]]
 [[#Months (meses)]]
 [[#Weather]]
+- [[#Vocabulary]]
+- [[#Phrases]]
+[[#Colors (Colores)]]
 [[#Holiday Greetings]]
 [[#Cognate tricks for translating English to Spanish]]
+[[#Spanish in Latin America vs Spain]]
 [[#Common Phrases]]
 
+---
 ## Common Adverbs & Adjectives
 
 
@@ -69,15 +80,17 @@ otra vez - again
 a menudo - often 
 demasiado - too
 - demasiados - too much 
+tal vez - maybe
+  - quizás maybe (ES)
 porque - because 
 acá - here
 allá - there
 ahí - there 
-a verdad - really 
-  verdad - true
-en serio - really?!? (disbelief)
+verdad - true
 simplemente - simply/plainly afortunadamente - fortunately 
 desafortunadamente - unfortunately 
+frecuentemente - frequently 
+por fin - finally 
 seguro - sure/safe
 tampoco - either
 - Yo tampoco - Me neither.
@@ -246,8 +259,12 @@ la mujer - the wife (ES)
 el hombre - the man
 casado(a) - married 
 divorciado(a) - divorced
+adolescente - teenager
 vecino(a) - neighbor 
+
 Also see [[#Possesive pronouns (singular/plural)]]
+
+[[#Table of Contents]]
 ## Reflexive verbs and pronouns 
 Reflexive refers to something happening in the past.
 A reflexive pronoun (pronombre reflexivo) is used as part of a reflexive verb (verbo reflexivo) to indicate that someone or something is performing an action on or for itself.
@@ -310,32 +327,35 @@ Pneumonic: **THIS AND THESE HAVE Ts**
 [[#Table of Contents]]
 
 # Body parts
-el cuerpo - body
-la cara - face
+## Face (la cara)
+la cabeza - head
 la boca - mouth 
+- los labios - lips
 el ojo - eye
 - los lentes - glasses
 - llorar - to cry
 la oreja - the ear
 - los pendientes - earrings
-- 
-
-la mano - hand (las manos)
-el brazo - arm
-el pie - foot
-la espalda - back
-el cabello - hair (caballo - horse)
-- cabello largo (long hair)
+- oìr (irregular) - to hear 
+- el ruido - noise 
+- ¿me oyes? - Do you hear me?
 el diente - tooth
 - el cepillo de dientes - toothbrush 
 la nariz - nose
+- las narices - noses
 - oler (irregular) - to smell 
-la oreja - ear
-- oir (irregular) - to hear
-- ¿me oyes? - Do you hear me?
-el corazón - heart
+el cabello - hair (caballo - horse)
+- cabello largo (long hair)
+la barba - beard 
+## Body (el cuerpo)
+la mano - hand (las manos)
+el brazo - arm
 la pierna - leg
-
+el pie - foot
+la espalda - back
+## Organs (los órganos)
+el corazsón - heart
+el estómago - stomach
 
 [[#Table of Contents]]
 
@@ -350,10 +370,12 @@ el vestido - dress
 la falda - skirt 
 los pantalones - pants 
 el zapato - shoe
+
+¿Qué lleva puesto tu padre? - What is your father wearing?
+- lleva puesto - wearing 
 # Food 
 
 lechazo - roast lamb
-zanahoria - carrot
 jamón - ham
 arroz - rice
 morcilla - blood sausage 
@@ -365,7 +387,29 @@ dulce - sweet
 harina - flour
 masa - dough
 caffeine - cafeína (sin cafeína - decaf)
+la piña - pineapple 
+el yogur - yogurt 
+el huevo - egg
++ la yema - yolk
+el limón - lemon
+- lime in some LA countries (lima=lemon)
+- limonada - lemonade 
+la verdura - vegetable (food)
+- vegetal - vegetable (plant)
+la fruta - fruit
+
+hambre - hunger
++ Tengo hambre - I have hunger 
+- hambriento - hungry 
+sed - thirst
+- sediento - thirsty 
+
+### Salad (ensalada)
+la lechuga - (head of) lettuce 
 onion - cebolla 
+zanahoria - carrot
+tómate - tomato
+pimiento - pepper
 
 [[#Table of Contents]]
 ### Cooking related 
@@ -377,7 +421,7 @@ refrigerator - refrigerador
 knife - cuchillo 
 fork - tenedor 
 spoon - cuchara 
-cup - taza
+cup - taza/copa(ES)
 glass - vaso
 
 ## Meals
@@ -387,12 +431,30 @@ lunch - el almuerzo
 - almorzar - to have lunch 
 dinner - la cena
 - cenar - to have dinner 
-
+¡Què ricas! - Yummy!
 ### Spanish Dishes 
-cocido madrileño - chickpea, meat and vegetable stew (Madrid region)
-Pringá: A chickpea stew from Seville, served with meat and bread.
- Gazpacho: A cold tomato soup originating from Seville, made with tomatoes, green peppers, cucumbers, garlic, and bread.
-Salmorejo: A thicker, creamier version of gazpacho, typically served with bread, ham, and egg.
+- cocido madrileño - chickpea, meat and vegetable stew (Madrid region)
+- Pringá: A chickpea stew from Seville, served with meat and bread.
+- Gazpacho: A cold tomato soup originating from Seville, made with tomatoes, green peppers, cucumbers, garlic, and bread.
+- Salmorejo: A thicker, creamier version of gazpacho, typically served with bread, ham, and egg.
+- el jamón serrano - Iberian cured ham (ES)
+- el queso manchego - Manchego cheese
+- las croquetas - croquettes
+- las patas bravas - fried potatoes with spicy sauce 
+- unos tacos al pastor - tacos with split-grilled pork
+
+### Ordering at a restaurant 
+When is breakfast served?
+Cuando se sirve el desayuno?
+
+What do you have to eat and to drink today?
+‽Qué tienes para comer y beber hoy?
+
+What is the special today?
+¿Cuál es el especial de hoy?
+
+What time do you have breakfast?
+¿A qué hora desayunas?
 
 [[#Table of Contents]]
 ## Shopping 
@@ -406,20 +468,40 @@ Salmorejo: A thicker, creamier version of gazpacho, typically served with bread,
 # Home related 
 - la habitación - room
 - la cocina - kitchen 
-- la sala - living room
+- la nevera - refrigerator 
+  - el refrigerador - refrigerator 
+  - el frigorífico - refrigerator (ES)
+- el fogón - stove 
+- el horno - oven
+- la sala - living room (or just room)
+  - la sala de estar - the living room (ES)
+  + el sofá - sofa
 - el dormitorio - bedroom
-- la tele - TV
+  - habitacion 
+  - cuarto 
+- el armario - closet 
+- la mesita de noche - night table 
+- la televisión (tele) -  TV
+- la lámpara - lamp
 - la pared - wall
 - el piso - floor 
+- los muebles - the furniture(pl)
+- la ventana - window
 - el baño - bathroom 
 - la ducha - shower 
+- el lavabo - sink
+- el espejo - mirror 
+- el inodoro - toilet 
 - el césped - the grass/lawn
 - seguro - safe/sure 
 - arriba - upstairs 
 - abajo - downstairs 
+- ... no funciona - ... doesn't work
+   - La lámpara no funciona
+
 
 [[#Table of Contents]]
-# Location related phrases
+# Location related words and phrases
 - al lado de.... next to 
 - cerca de ... close to or nearby 
 - lejos de... far from 
@@ -431,6 +513,7 @@ Salmorejo: A thicker, creamier version of gazpacho, typically served with bread,
 - más cercano/a ... nearest/closest 
 - por aquí ... around here 
 - enfrente ... in front or across 
+- delante ... in front of 
 - atrás ... in (the) back
 - detrás ... behind or after 
 - entre ... between or through 
@@ -445,7 +528,9 @@ giras a la izquierda - you turn left
 donde giro - where do I turn? 
 Aquí o ahi - Here or there 
 girar - to turn
+ahí - there 
 allá - there (or over there)
+- alli - ES
 tomar - to take (train, bus)
 afuera - out or outside (on the outskirts)
 dentro - inside 
@@ -458,8 +543,26 @@ encontrar - to find
 dirección - address 
 sitio - place
 seguir - to continue (on a road or street)
-[[Spanish Verbs#seguir - to continue on]]
+- [[Spanish Verbs#seguir - to continue on]]
+desordenado(a) - messy
+ordenado(a) - tidy
+luminoso/oscuro - light/dark 
+cómodo/incómodo - comfortable/uncomfortable 
 
+### Travel
+aparcar - parking
+peligro - danger 
+paso de peatones - crosswalk
+salida de emergencia - emergency exit
+
+
+### Compass points 
+el norte - north
+el sur - south 
+el este - east
+el oeste - west
+
+[[#Table of Contents]]
 ## el vs él
 El without an accent means ‘the’, and it always comes before an adjective, adverb, or a singular, masculine noun. Él with an accent is the direct translation of ‘he’ or ‘him’. Él is a pronoun, so it doesn’t precede a noun, it replaces it
 
@@ -491,7 +594,7 @@ hace tres años - three years ago
 hace mucho tiempo - a long time ago
 el año pesado - last year 
 cuánto tiempo - how long
-
+de vez en cuando  - from time to time 
 hace media hora - half an hour ago 
 hace tiempo hora - long time ago 
 
@@ -568,6 +671,8 @@ el idioma - the language
 el lápiz - pencil 
 **Some nouns ending in "-ma"  are masculine, rather than feminine**
 
+**Adjectives ending in *e* usually have the same ending when used with a masculine or feminine noun.**
+
 [[#Table of Contents]]
 # por vs para
 ## *por*
@@ -633,8 +738,12 @@ light/heavy - ligero/pesado
 slow/fast - lento/rapido 
 - slowly - despacio 
 cheap/expensive - barato(a)/caro(a)
+on/under - encima/debajo 
 upstairs/downstairs - arriba/abajo
 outside/inside - afuera/adentro
+outside/inside - fuera/dendro
+in front/behind - delante/detrás 
+- prepositions of place are always followed by *de*
 next/previous - próximo(a)/previo(a)
 - siguiente - following 
 ## Bein vs bueno
@@ -643,23 +752,10 @@ bueno - modifies noun (good)
 
 [[#Table of Contents]]
 
-# Location related 
-en frente de - in front of, opposite 
-cerca - near to
-al lado de - next to
-lejos de - far from
-
 # Weather
-How is the weather today?
-*¿Qué tiempo hace hoy? OR
-¿Cómo está el tiempo hoy?*
-The weather is good/bad.
-*Hace buen/mal tiempo*
-It's sunny 
-*Hace sol*
-What a cold day!
-¡Qué día tan frío!
 
+## Vocabulary
+ 
 hot - calor
 caluroso - hot (type of weather)
 cold - frio
@@ -679,6 +775,39 @@ windy - ventoso
 temperature - temperatura 
 thermometer - termómetro
 weather - clima
+## Phrases 
+#### Use hace for impersonal statements about the weather 
+How is the weather today?
+*¿Qué tiempo hace hoy? OR
+¿Cómo está el tiempo hoy?*
+The weather is good/bad.
+**Hace buen/mal tiempo**
+It's sunny 
+**Hace sol**
+It's very hot!
+**¡Hace mucho calor!**
+It's going to rain 
+**Va a llover**
+It's very windy 
+**Hace mucho viento**
+#### Use tengo to express your personal perception of the weather 
+I'm hot!
+**¡Tengo calor!**
+What a cold day!
+**¡Qué día tan frío!**
+
+[[#Table of Contents]]
+
+# Colors (Colores)
+rojo - red
+granate - maroon
+azúl - blue
+morado - purple
+amarillo - yellow 
+marrón - brown
+negro - black
+blanco - white 
+ 
 
 # Months (meses)
 January - Enero
@@ -786,6 +915,7 @@ tercer(o/a) - third
 [[#Table of Contents]]
 
 # Pronunciation
+My pronunciation is poor - Mi pronunciación es pobre
 ## Vowels 
 a - ah as the "a's" in 'mama'  (*habla, mala*)
 e - eh as the 'a' in 'say' (*que, de*)
@@ -809,7 +939,7 @@ s - sounds like 's' in English. In Andalusian Spain it is pronounced with a 'th'
 ü - indicates that the 'u' is pronounced???
 *At the beginning of a word or after m or n, the b and v have a hard b sound. I'm all other cases, the b and v are pronounced softer than the English b.*
 v - sounds like a soft 'b' like in 'boy' and 'Ben'.
-y - sounds like Spanish 'i' (*yo, playa*)
+y - sounds like Spanish 'i' if at the end of a word(*hoy, muy*)
 z - sounds like 's' in English (*diez*). In Spain it is pronounced with a 'th' like the English word 'there' 
 ll - sounds like y in English as in "yard" (*llama*)
 ñ - sounds like 'ny' the N in onion (*mañana, señor*)
@@ -839,13 +969,28 @@ she & ch
 4. The combination of T&H  often drops to just a T
 - authorization -> autorización 
 
+# Spanish in Latin America vs Spain 
+English LA/ES
+glass - vaso/copa
+juice - jugo/zumo 
+car - carro/coche 
+husband - esposo/marido 
+wife - esposa/mujer
+your - tu/vuestro(a)
+
+
+
 [[#Table of Contents]]
 # Common Phrases
 I am Craig. What is your name?
 Me llamo Craig. ¿Cómo te llamas? 
 
+Nice to meet you 
+Mucho gusto OR Encantada
+
 I am an American.
 Soy estadounidense.
+Soy de Estados Unidos.
 
 I speak a little Spanish 
 hablo un poco de español
@@ -853,11 +998,32 @@ hablo un poco de español
 I speak a bit of Spanish 
 Yo hablo poquito de español 
 
+Where are you from?
+¿De dónde eres?
+
 Do you hear me?
 ¿me oyes?
 
 Cómo está todo
 How is everything 
+
+¿Que pas?
+What's up? or What's going on?
+
+Hace buen tiempo 
+The weather is nice 
+
+!Genial!
+Great!
+
+¡Caro! ¡Qué alegría!
+Of course!: How great!
+
+¡A verdad! 
+Really! 
+
+¡En serio!
+Really?!? (disbelief)
 
 My Spanish isn't very good.
 Mi español no es muy bueno 
@@ -873,6 +1039,9 @@ Hable más alto, por favor
 
 Have a nice day 
 Que tengas buen dia
+
+Sound good!
+¡Suena genial!
 
 I am a computer programmer 
 Soy programador de computadoras
@@ -930,6 +1099,7 @@ Nos vemos (Nos vemos el lunes)
 
 See:  https://duome.eu/tips/en/es
 
+[[#Table of Contents]]
 ## Short phrases
 Yo también - me too
 Que tal - how are you
