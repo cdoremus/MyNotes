@@ -1,18 +1,15 @@
 ### Current Game 
 PLATE
-ARMED
+CORNS
 
-RAXEX
-XAXER
-XAREX
-RXXEA
+SXXXX
+XSXXX
+XXSXX
+XXXSX
 
-SAVER
-SAFER
-
-
-
-
+WHISK
+MUSKY
+HUSKY
 
 
 
@@ -374,7 +371,7 @@ FLARE
 
 LE both in order 
 CLOVE
-CLOSEyp
+CLOSE
 
 LE both not in order 
 LEVER

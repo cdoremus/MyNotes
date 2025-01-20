@@ -1,7 +1,7 @@
 [[Spanish Verbs]]
 
 Babbel support - support@babbel.com
-q# Table of Contents 
+# Table of Contents 
 [[#Common Adverbs & Adjectives]]
 - [[#Who, what, when...]]
 - [[#Some/Any variations]]
@@ -15,6 +15,8 @@ q# Table of Contents
 [[#Vosotros]]
 [[#this/these, that/those]]
 [[#Commands - Let's get bossy!]]
+[[#Noun gender tips]]
+- [[#Article Gender Noun Exceptions]]
 [[#Comparisons]]
 [[#Bein vs bueno]]
 [[#por vs para]]
@@ -22,7 +24,7 @@ q# Table of Contents
 [[#Home related]]
 [[#Location related words and phrases]]
 [[#Shopping]]
-[[#Body parts]]
+[[#Body parts (partes del cuerpo)]]
 - [[#Face (la cara)]]
 - [[#Body (el cuerpo)]]
 - [[#Organs (los órganos)]]
@@ -66,27 +68,29 @@ todos - every
 todo el mundo - everybody 
 solamente - just/only
 solo - only 
-seguramente - surely
-supemente - supremely 
 listos - ready
 ya - already 
 algo - something 
 a veces - sometimes
 alguno - some
-ambos/ambas - both
-mismo - same
+ambos(as) - both
+mismo(a) - same
 otro(a) - another/other 
 otra vez - again
 a menudo - often 
 demasiado - too
 - demasiados - too much 
+tanto/tantos - so much/so many 
 tal vez - maybe
-  - quizás maybe (ES)
+  - quizás - maybe (ES)
+todavia - still
 porque - because 
 acá - here
 allá - there
 ahí - there 
 verdad - true
+seguramente - surely
+supremamente - supremely
 simplemente - simply/plainly afortunadamente - fortunately 
 desafortunadamente - unfortunately 
 frecuentemente - frequently 
@@ -95,10 +99,10 @@ seguro - sure/safe
 tampoco - either
 - Yo tampoco - Me neither.
 - Context determines if meaning is either or neither.
+
 #### have to
 tengo que - I have to...
 yo creo que - I think that...
-
 ### Who, what, when...
 who - quién
 what - qué
@@ -106,13 +110,14 @@ when - cuando
 where - dónde
 - where are... - dónde están
 how - cómo
-how many - cuántos/cuántas
+- how many - cuántos(as)
+- how much - cuanto(a)
 why - por qué
 which - cuál/qué
 then - entonces 
 
 ### Some/Any variations 
-Some/Any - algún/alguna(f)
+Some/Any - algún(a)
 Something/Anything - algo
 Someone/Somebody/Anyone/Anybody - alguien 
 #### Nobody/Nothing 
@@ -136,7 +141,7 @@ Nothing - nada
 | nosotros | nos                 | nos                   | nos       |
 | ellos    | los/les(ES)*        | les(se)**             | se        |
 | ellas    | las                 | les(se)**             | se        |
-| ustedes  | los/las             | les(se)               | se        |
+| ustedes  | los/las             | les(se)**             | se        |
 | vosotros | os                  | os                    |           |
 \*(ES) = Spain dialect 
 \*\*(se) = If both direct and indirect objects are used in the same sentence, the indirect object pronouns *le* and *les* become *se* as shown in the parentheses. Remember that the indirect object pronoun will come before the direct object pronoun.
@@ -146,7 +151,7 @@ If direct and indirect objects become nouns, they precede the verb in the indica
 
 [[#Table of Contents]]
 ## Direct Object Pronouns 
-A direct object pronoun (*un pronombre de objeto directo*) replaces a direct object, which is a noun that directly receives the action of a verb in a sentence.
+A direct object pronoun (*un pronombre de objeto directo*) replaces a direct object, which is **a noun that directly receives the action of a verb** in a sentence.
 A way to remember them is to note the article that is used with the noun that will be replaced by a pronoun:
 - la, las (f) & los (m) articles are the same when used as direct object pronouns 
 - el (m) becomes lo when used as a direct object pronoun.
@@ -166,7 +171,7 @@ See https://www.spanishdict.com/guide/direct-object-pronouns-in-spanish
 [[#Table of Contents]]
 ## Indirect Object Pronouns 
 
-An indirect object pronoun tells you to whom or for whom something is done.  It is often used for receiving and giving.
+An indirect object pronoun tells you **to whom or for whom something is done**.  It is often used for receiving and giving.
 
 In simple terms, the indirect object pronoun answers the questions:
 - To who/what
@@ -261,6 +266,9 @@ casado(a) - married
 divorciado(a) - divorced
 adolescente - teenager
 vecino(a) - neighbor 
+el colega - collegue
+la reunión - meeting 
+la cita - date (going out)
 
 Also see [[#Possesive pronouns (singular/plural)]]
 
@@ -326,7 +334,7 @@ Pneumonic: **THIS AND THESE HAVE Ts**
 
 [[#Table of Contents]]
 
-# Body parts
+# Body parts (partes del cuerpo)
 ## Face (la cara)
 la cabeza - head
 la boca - mouth 
@@ -378,22 +386,18 @@ el zapato - shoe
 lechazo - roast lamb
 jamón - ham
 arroz - rice
+patatas - potatoes (ES)
+  - papas - LA
 morcilla - blood sausage 
-cereza - cherry 
 mantequilla - butter
 churros - fried dough sticks that are dipped into dark chocolate 
-jugo/zumo(ES) - juice
 dulce - sweet 
 harina - flour
 masa - dough
 caffeine - cafeína (sin cafeína - decaf)
-la piña - pineapple 
 el yogur - yogurt 
 el huevo - egg
-+ la yema - yolk
-el limón - lemon
-- lime in some LA countries (lima=lemon)
-- limonada - lemonade 
++ la yema - yolk 
 la verdura - vegetable (food)
 - vegetal - vegetable (plant)
 la fruta - fruit
@@ -410,6 +414,18 @@ onion - cebolla
 zanahoria - carrot
 tómate - tomato
 pimiento - pepper
+aguacate - avocado 
+
+### Fruit (fruta)
+cereza - cherry 
+la piña - pineapple 
+plátano - banana 
+el limón - lemon
+- lime in some LA countries (lima=lemon)
+- limonada - lemonade
+fresa - strawberry 
+
+jugo/zumo(ES) - juice
 
 [[#Table of Contents]]
 ### Cooking related 
@@ -464,6 +480,13 @@ What time do you have breakfast?
 - precios - prices
 - comprar - buy
 - pagar - pay
+- moneda - currency 
+### Shopping phrases 
+- ¿Cuánto cuesta? - How much does it cost?
+  - Use *`cuestan`* fot múltiple items
+  - Alternatively you can say *Cuánto vale* (how much is it worth) or *Cuánto es* 
+- ¿En efectivo o con tarjeta? - Cash or credit card?
+- 
 
 # Home related 
 - la habitación - room
@@ -498,7 +521,7 @@ What time do you have breakfast?
 - abajo - downstairs 
 - ... no funciona - ... doesn't work
    - La lámpara no funciona
-
+- madera - wood
 
 [[#Table of Contents]]
 # Location related words and phrases
@@ -636,6 +659,7 @@ Drop the -s from the normal tú verb form to tell someone what to do.
 
 In formal situations, you do things a little differently. You swap out the normal usted vowel ending. Basically, if there's normally an -e, use an -a. And if there's usually an -a, it'll turn into an -e!
 
+[[#Table of Contents]]
 # Noun gender tips
 1. Masculine (97%): nouns ending in L, O, N, E, R & S
 2. Feminine (98%): Nouns ending in D, ión, Z and A
@@ -652,21 +676,21 @@ la boleto - the ticket
 la mano - the hand 
 
 #### ending in e
-la clase
-la calle
-la llave
-la noche 
-la jefe 
+la clase - class
+la calle - street 
+la llave - key
+la noche - night
+la jefe - boss
 las vacaciones - the vacation 
-la leche
+la leche - milk
 la tarde - the afternoon
 ### masculine 
-el agua
-el avión 
+el agua - water
+el avión - airplane
 el camión - the truck 
 el clima - the weather 
-el dia
-el problema 
+el dia - day
+el problema - problem
 el idioma - the language
 el lápiz - pencil 
 **Some nouns ending in "-ma"  are masculine, rather than feminine**
@@ -870,7 +894,8 @@ Winter - invierno
 70 setenta (setenta y uno = 71)
 80 ochenta
 90 noventa 
-100 ciento
+100 cien
+101 ciento uno
 200 doscientos 
 201 doscientos uno
 250 doscientos cincuenta
