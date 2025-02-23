@@ -1,4 +1,4 @@
-[[Spanish Verbs]]
+[[Spanish Verbs (Verbos)]]
 
 Babbel support - support@babbel.com
 # Table of Contents 
@@ -10,7 +10,6 @@ Babbel support - support@babbel.com
 [[#Possesive pronouns (singular/plural)]]
 [[#Direct Object Pronouns]]
 [[#Indirect Object Pronouns]]
-[[#Relationships]]
 [[#Reflexive verbs and pronouns]]
 [[#Vosotros]]
 [[#this/these, that/those]]
@@ -21,17 +20,31 @@ Babbel support - support@babbel.com
 [[#Bein vs bueno]]
 [[#por vs para]]
 [[#al versus del]]
+[[#Sizes]]
 [[#Home related]]
+- [[#Kitchen]]
+- [[#Bathroom]]
+- [[#Bedroom]]
+[[#Relationships]]
 [[#Location related words and phrases]]
+- [[#Proximity]]
+- [[#Directions]]
 [[#Shopping]]
 [[#Body parts (partes del cuerpo)]]
 - [[#Face (la cara)]]
 - [[#Body (el cuerpo)]]
 - [[#Organs (los órganos)]]
+[[#Feelings & Emotions]]
 [[#Clothing (la ropa)]]
 [[#Food]]
 - [[#Cooking related]]
+- [[#Salad (ensalada)]]
+- [[#Non-Salad Vegetables]]
+- [[#Meat (carne)]]
+- [[#Seafood]]
+- [[#Desserts (postres)]]
 - [[#Meals]]
+- [[#Drinks]]
 - [[#Spanish Dishes]]
 - [[#Ordering at a restaurant]]
 [[#Noun gender tips]]
@@ -43,6 +56,7 @@ Babbel support - support@babbel.com
 - [[#Consonants]]
 - [[#Sounds nearly the same in Spanish as English]]
 - [[#Stressed syllables]]
+[[#Cognate tricks for translating English to Spanish]]
 
 [[#Numbers (números)]]
 - [[#Years(años)/Dates(fechas)]]
@@ -54,6 +68,7 @@ Babbel support - support@babbel.com
 - [[#Vocabulary]]
 - [[#Phrases]]
 [[#Colors (Colores)]]
+
 [[#Holiday Greetings]]
 [[#Cognate tricks for translating English to Spanish]]
 [[#Spanish in Latin America vs Spain]]
@@ -71,34 +86,60 @@ solo - only
 listos - ready
 ya - already 
 algo - something 
-a veces - sometimes
-alguno - some
+alguno(a) - some
+- alguna vez - ever
 ambos(as) - both
 mismo(a) - same
 otro(a) - another/other 
 otra vez - again
 a menudo - often 
+a veces - sometimes
+un par de veces - a couple of times 
+aún - yet 
+ - No, aún no he estado allí - I haven't been there yet.
+never - nunca
 demasiado - too
 - demasiados - too much 
 tanto/tantos - so much/so many 
 tal vez - maybe
   - quizás - maybe (ES)
-todavia - still
+todavia - still, yet (something that didn't take place or wasn't completed)
 porque - because 
 acá - here
-allá - there
+- aquí 
+allá - over there
 ahí - there 
 verdad - true
+realmente - really 
 seguramente - surely
 supremamente - supremely
+sumamente - highly, extremely 
+extremadamente - extremely 
+increíblemente - incredibly 
+altamente - highly 
 simplemente - simply/plainly afortunadamente - fortunately 
 desafortunadamente - unfortunately 
 frecuentemente - frequently 
+inmediatamente - immediately 
+rápidamente - quickly, rapidly 
+híper - hyper
 por fin - finally 
+- finalmente 
+bastante - quite
 seguro - sure/safe
 tampoco - either
 - Yo tampoco - Me neither.
 - Context determines if meaning is either or neither.
+feo(a) - ugly
+cómodo(a) - comfortable 
+incómodo(a) - uncomfortable
+en lugar de - in place of, instead of 
+estupendo - stupendous, wonderful 
+fantástico - fantastic
+excelente - excellent 
+
+
+[[#Table of Contents]]
 
 #### have to
 tengo que - I have to...
@@ -113,7 +154,7 @@ how - cómo
 - how many - cuántos(as)
 - how much - cuanto(a)
 why - por qué
-which - cuál/qué
+which - cuál
 then - entonces 
 
 ### Some/Any variations 
@@ -126,8 +167,9 @@ Nothing - nada
 
 # Prepositions
 - so .... as ... - tan ... como ...
-- so - entonces 
+- so, then - entonces 
 - pero - but
+- pero que+ because 
 
 [[#Table of Contents]]
 # Pronouns
@@ -142,7 +184,7 @@ Nothing - nada
 | ellos    | los/les(ES)*        | les(se)**             | se        |
 | ellas    | las                 | les(se)**             | se        |
 | ustedes  | los/las             | les(se)**             | se        |
-| vosotros | os                  | os                    |           |
+| vosotros | os                  | os                    | os        |
 \*(ES) = Spain dialect 
 \*\*(se) = If both direct and indirect objects are used in the same sentence, the indirect object pronouns *le* and *les* become *se* as shown in the parentheses. Remember that the indirect object pronoun will come before the direct object pronoun.
 
@@ -193,7 +235,7 @@ Tell it to her (*her (se)* is the IOP)
 
 See https://www.spanishdict.com/guide/indirect-object-pronouns
 
-
+[[#Table of Contents]]
 ### Attach Indirect Object Pronouns to Verbs
 1. If your sentence has an infinitive verb, you can attach these little words to the end of that instead!
 	1. Ella se quiere quedar en Nueva York.
@@ -233,6 +275,71 @@ I bought flowers for my girlfriend
 Like a direct object pronoun, you DO NOT put an indirect object pronoun before a preposition 
 
 [[#Table of Contents]]
+## Reflexive verbs and pronouns 
+A reflexive pronoun (pronombre reflexivo) is used as part of a reflexive verb (verbo reflexivo) to indicate that someone or something is performing an action on or for itself.
+
+The reflexive pronoun is placed before the verb.
+
+See https://www.spanishdict.com/guide/reflexive-verbs-and-reflexive-pronouns
+
+[[#Table of Contents]]
+## Possesive pronouns (singular/plural)
+### Used before the object/noun
+yo - mi/mis - my (si/pl)
+tú - tu/tus - your (si/pl) (LA)
+- vuestro(a)/vuestros(as) - ES
+el/ella/usted - su/sus - his/her (si/pl)
+ellos/ellas/ustedes - su/sus - their
+nosotros - nuestro/nuestros - our
+### Used after the object/noun
+yo - mio/mia,míos/mías - mine
+tú - tuyo(os)/tuya(as) - yours
+el/ella - suyo(os)/suya(as)* - his/hers
+ellos/ellas/ustedes - suyo(os)/suya(as)* - theirs/your
+nosotros - nuestro(os)/nuestra(as) - ours
+* suyo/suya is often ambiguous, so in that case it can  be used with 'de' to identify the particular object/person doing the possession 
+Also see [[#Relationships]]
+Examples: 
+Él es un amigo de señor Smith
+Ella es una amiga de Juan y Ana
+# Vosotros 
+
+***Vosotros* is used instead of *Ustedes* in Spain** 
+
+|               | Singular          | Plural                  |
+| ------------- | ----------------- | ----------------------- |
+| First person  | yo                | nosotros / nosotras     |
+| Second person | tú                | vosotros / vosotras     |
+| Third person  | él / ella / usted | ellos / ellas / ustedes |
+See [[https://blog.duolingo.com/what-is-spanish-vosotros/]]
+
+### Conjugation of vosotros for regular verbs
+ Remember that vosotros is used for you-all instead of ustedes 
+
+| Verbs | Present | Preterite | Future |
+| ----- | ------- | --------- | ------ |
+| -ar   | -aís    | -asteis   | -aréis |
+| -er   | -éis    | -isteis   | -eréis |
+| -ir   | -ís     | -isteis   | -iréis |
+See [[https://youtu.be/CO0VKeEawtc?si=KUaFu-u2MWnilmzE]]
+
+[[#Table of Contents]]
+## this/these, that/those
+#### Used to indicate distance to an object 
+this - esta (fem) este (masc)
+ - closest object
+- esto when 'this' refers to an unknown object (What is this?, ¿Qué es esto?)
+- What is this? - ¿qué es esto?
+these - estas (fem) estos (masc)!
+those - esas(f) esos(m)
+- aquellas/aquellos also (at a distance) 
+that - esa (fem) ese (masc)
+- further away than ***this***
+- aquella/aquello  at a distance (over there)
+- What is that? - ¿qué es eso?
+Pneumonic: **THIS AND THESE HAVE Ts**
+
+[[#Table of Contents]]
 
 # Relationships
 la madre - the mother 
@@ -264,6 +371,7 @@ la mujer - the wife (ES)
 el hombre - the man
 casado(a) - married 
 divorciado(a) - divorced
+soltero(a) - single 
 adolescente - teenager
 vecino(a) - neighbor 
 el colega - collegue
@@ -271,74 +379,16 @@ la reunión - meeting
 la cita - date (going out)
 
 Also see [[#Possesive pronouns (singular/plural)]]
-
-[[#Table of Contents]]
-## Reflexive verbs and pronouns 
-Reflexive refers to something happening in the past.
-A reflexive pronoun (pronombre reflexivo) is used as part of a reflexive verb (verbo reflexivo) to indicate that someone or something is performing an action on or for itself.
-See https://www.spanishdict.com/guide/reflexive-verbs-and-reflexive-pronouns
-
-[[#Table of Contents]]
-## Possesive pronouns (singular/plural)
-### Used before the object/noun
-yo - mi/mis - my (si/pl)
-tú - tu/tus - your (si/pl) (LA)
-- vuestro(a)/vuestros(as) - ES
-el/ella/usted - su/sus - his/her (si/pl)
-ellos/ellas/ustedes - su/sus - their
-nosotros - nuestro/nuestros - our
-### Used after the object/noun
-yo - mio/mia,míos/mías - mine
-tú - tuyo(os)/tuya(as) - yours
-el/ella - suyo(os)/suya(as)* - his/hers
-ellos/ellas/ustedes - suyo(os)/suya(as)* - theirs/your
-nosotros - nuestro(os)/nuestra(as) - ours
-* suyo/suya is often ambiguous, so in that case it can  be used with 'de' to identify the particular object/person doing the possession 
-Also see [[#Relationships]]
-Examples: 
-Él es un amigo de señor Smith
-Ella es una amiga de Juan y Ana
-## Vosotros 
-
-***Vosotros* is used instead of *Ustedes* in Spain** 
-
-|               | Singular          | Plural                  |
-| ------------- | ----------------- | ----------------------- |
-| First person  | yo                | nosotros / nosotras     |
-| Second person | tú                | vosotros / vosotras     |
-| Third person  | él / ella / usted | ellos / ellas / ustedes |
-See [[https://blog.duolingo.com/what-is-spanish-vosotros/]]
-
-### Conjugation of vosotros for regular verbs
- Remember that vosotros is used for you-all instead of ustedes 
-
-| Verbs | Present | Preterite | Future |
-| ----- | ------- | --------- | ------ |
-| -ar   | -aís    | -asteis   | -aréis |
-| -er   | -éis    | -isteis   | -eréis |
-| -ir   | -ís     | -isteis   | -iréis |
-See [[https://youtu.be/CO0VKeEawtc?si=KUaFu-u2MWnilmzE]]
-
-[[#Table of Contents]]
-## this/these, that/those
-this - esta (fem) este (masc)
-- esto when 'this' refers to an unknown object (What is this?, ¿Qué es esto?)
-- What is this? - ¿qué es esto?
-these - estas (fem) estos (masc)!
-those - esas(f) esos(m)
-- aquellas/aquellos also (at a distance) 
-that - esa (fem) ese (masc)
-- aquella/aquello  also (at a distance) 
-- What is that? - ¿qué es eso?
-Pneumonic: **THIS AND THESE HAVE Ts**
-
-[[#Table of Contents]]
-
 # Body parts (partes del cuerpo)
 ## Face (la cara)
+el rostro - face (ES)
 la cabeza - head
+- dolor de cabeza - headache 
+el cuello - neck
 la boca - mouth 
 - los labios - lips
+carrillera - cheek
+sonrisa - smile
 el ojo - eye
 - los lentes - glasses
 - llorar - to cry
@@ -355,66 +405,147 @@ la nariz - nose
 el cabello - hair (caballo - horse)
 - cabello largo (long hair)
 la barba - beard 
+la garganta - throat 
+- tos - cough
 ## Body (el cuerpo)
 la mano - hand (las manos)
 el brazo - arm
 la pierna - leg
 el pie - foot
+el pecho - chest
+- pechuga - breast
 la espalda - back
+- dolor de espalda - back pain 
+- lumbago - lower back
+ventresca - belly
+blood - sangre
 ## Organs (los órganos)
 el corazsón - heart
 el estómago - stomach
 
 [[#Table of Contents]]
 
+
+# Feelings & Emotions
+good - bien
+love - amor
+sad - triste
+tired - cansado(a) 
+worried - preocupado(a)
+afraid - miedo(a)
+nervous - nervioso(a)
+upset - molesto(a)
+calm,quiet - tranquilo(a)
+kind - amable
+disgust - asco
+surprised - sorprendido 
+dizzy - mareado
+sick - enfermo(a)
+pain - el dolor 
+tango malestar - i'm not feeling well 
+relajarte - to relax 
+
 # Clothing (la ropa)
 la camesa - shirt
 la camiseta - T-shirt
-la gorra - cap
 el calcetín - sock
+la gorra - cap
 el sombrero - hat
+el kepis - baseball cap
 los vaqueros - jeans
 el vestido - dress
 la falda - skirt 
 los pantalones - pants 
 el zapato - shoe
+vestirse - to get dressed 
 
 ¿Qué lleva puesto tu padre? - What is your father wearing?
 - lleva puesto - wearing 
+
+[[#Table of Contents]]
 # Food 
 
-lechazo - roast lamb
-jamón - ham
-arroz - rice
-patatas - potatoes (ES)
-  - papas - LA
-morcilla - blood sausage 
 mantequilla - butter
-churros - fried dough sticks that are dipped into dark chocolate 
+aceite de oliva - olive oil 
 dulce - sweet 
 harina - flour
 masa - dough
-caffeine - cafeína (sin cafeína - decaf)
+bocadillo - sandwich made with a baguette (ES)
+caffeine - cafeína 
+- sin cafeína - decaf
 el yogur - yogurt 
 el huevo - egg
 + la yema - yolk 
 la verdura - vegetable (food)
 - vegetal - vegetable (plant)
 la fruta - fruit
+montaditos - sandwiches
+especias - spices
+
 
 hambre - hunger
 + Tengo hambre - I have hunger 
 - hambriento - hungry 
 sed - thirst
 - sediento - thirsty 
+lleno - full
+- estoy lleno - i'm full
+### Seafood 
+pescado/pez - fish
+el pulpo - octopus 
+el camarón - shrimp 
+- la gamba - shrimp (ES)
+boquerones - anchovies 
+vieiras - scallops 
+- zamburiñas (ES)
+calamares - squid
+atún - tuna
+bacalao - codfish 
 
 ### Salad (ensalada)
 la lechuga - (head of) lettuce 
-onion - cebolla 
+cebolla - onion 
 zanahoria - carrot
-tómate - tomato
+el tómate - tomato
 pimiento - pepper
-aguacate - avocado 
+el aguacate - avocado 
+champiñones - mushrooms 
++ setas (ES)
++ cebollas y champiñones salteados - sauteed onions and mushrooms
+### Non-Salad Vegetables 
+vegetales - vegetables 
+vegetariana - vegetarian
+el brócoli - broccoli 
+la berenjena - eggplant 
+las lentejas - lentils
+arroz - rice
+patatas - potatoes (ES)
+  - papas - LA
+ajo - garlic 
+### Meat (carne)
+ternera - beef
+- solomillo de ternera - beef tenderloin 
+rabo de toro - oxtail
+cerdo - pork
+- chuleta de cerdo - pork chop 
+- solomillo de cerdo - pork tenderloin 
+- orejas de cerdo - pigs ears
+- ¿Está hecho con cerdo? - Is it made with pork?
+cordero -  lamb
+ - lechazo - roast lamb
+ - chuletas de cordero - lamb chops
+ - pinchito de cordero - skewared (kebeb) lamb
+jamón de ibérico - Iberian ham
+pollo - chicken 
+ternera - veal
+callos - tripe (cow stomach lining)
+el chorizo - chorizo
+las morcillas - blood sausages
+guiso - stew, casserole 
+frituras - fried food 
+jamon - cured ham
+- jamón serrano - simple flavor
+- jamón ibérica de bellota - top grade ham fed with acorns
 
 ### Fruit (fruta)
 cereza - cherry 
@@ -424,8 +555,7 @@ el limón - lemon
 - lime in some LA countries (lima=lemon)
 - limonada - lemonade
 fresa - strawberry 
-
-jugo/zumo(ES) - juice
+guinda - cherry
 
 [[#Table of Contents]]
 ### Cooking related 
@@ -433,21 +563,71 @@ groceries - compra
 kitchen - cocina
 refrigerator - refrigerador
 - nevera
+butter - mantequilla 
+oil - el aceite 
+
+fried - frito
+grilled/roasted - asado(a)
 
 knife - cuchillo 
 fork - tenedor 
 spoon - cuchara 
 cup - taza/copa(ES)
 glass - vaso
-
 ## Meals
+menu - la carta
+- la carta de vinos - wine list 
+- el menú - fixed price multi-course meal 
+order - el pedido 
+- pedir - to order (ask for, request)
+
 breakfast - el desayuno
 - desayunar - to have breakfast 
+- churros - fried dough sticks that are dipped into dark chocolate 
+- gachas de avena - oatmeal porridge
+  - avena - oatmeal 
+- tortilla de huevos - egg omelette 
+- ?Quieres algo de desayunar? - Do you want some breakfast?
+- ¿nos encontramos para desayunar mañana? - shall we meet for breakfast tomorrow?
+- ¿Ya desayunaste? - Have you had breakfast already?
 lunch - el almuerzo 
 - almorzar - to have lunch 
 dinner - la cena
 - cenar - to have dinner 
+caseros - homemade 
+especias - spices
 ¡Què ricas! - Yummy!
+bien hecho - well done (cooked)
+estoy lleno(a) - i'm full
+algo más - anything else 
+probar - to try
+- pruebas el pescado - try the fish 
+
+### Drinks
+aqua - water 
+hielos - ice
+jugo/zumo(ES) - juice
+café - coffee 
+- café descafeinado - decaf
+- café sin cafeína - decaf 
+té - tea
+zumo - juice (ES)
+refresco - soda
+el jerez - sherry
+- fino - a type of dry sherry 
+el vermut - vermouth
+vino tinto - red wine
+vino blanco - white wine 
+- Que vino tenéis por copa - what wines are available by the glass 
+Licor de Guindas - Liqueur made from sour cherry juice with anise from a small town near Seville 
+### Desserts (postres)
+churros - fried dough (con chocolate)
+helado - ice cream 
+pasteles - pastry 
+pastel - cake 
+mollete - muffin 
+galleta - cookie 
+bollería - pastries 
 ### Spanish Dishes 
 - cocido madrileño - chickpea, meat and vegetable stew (Madrid region)
 - Pringá: A chickpea stew from Seville, served with meat and bread.
@@ -458,19 +638,151 @@ dinner - la cena
 - las croquetas - croquettes
 - las patas bravas - fried potatoes with spicy sauce 
 - unos tacos al pastor - tacos with split-grilled pork
+- ostra gallega - Gallacian oysters
+- tortillas de camarónes- toasted shrimp
+- espinacas con garbanzos - spinach with chickpeas 
+- Tortillitas de camarones - shrimp fritters
+- bocadillo de tortilla de patata- sub-like sandwich with potato omelette inside 
+- polvorones - crumbly cakes served at Christmas 
+- sopa de lentejas - lentil soup (often with chorizo)
+- pistol - vegetable stew made with savory eggplant, green & red peppers, tomatoes and olive oil 
+- callos a la madrileña - slow cooked hearty stew made from tripe spiced with chorizo and morcilla
+- queso de cabrales - tradicional Spanish blue cheese made with cow, sheep and/or goat cheese 
+- oreja a la plancha - sliced or cubed pig eats grilled in olive oil and spices 
+- albóndigas - pork and beef meat balls made with onions, garlic and parsley. Rice or bread coated they are simmered in a tomato sauce with smoked paprika and chili flakes. Prepared as a tapa.
+- gambas al ajillo - garlicky shrimp in olive oil 
+- extra vegetales - extra vegetables 
 
+[[#Table of Contents]]
 ### Ordering at a restaurant 
+
+camarero(a)/mesero(a) - waiter(waitress)
+
+I would like...
+Quisiera...
+
+Can you bring me...?
+¿Me puede traerme...?
+¿Ponme... por favor?
+
+What do you recommend?
+¿Qué me recomiendas?
+
+What's a typical dish here?
+¿Qué es lo más típico de aquí?
+
+What is the special of the day?
+¿Qual es el especial del día?
+
 When is breakfast served?
-Cuando se sirve el desayuno?
+¿Cuando se sirve el desayuno?
 
 What do you have to eat and to drink today?
 ‽Qué tienes para comer y beber hoy?
 
+We want to order our food now.
+Queremos pedir nuestra comida ahora.
+
+What are the specials today?
+¿Cuáles son las ofertas de hoy?
+
 What is the special today?
-¿Cuál es el especial de hoy?
+¿Cuáles el especial de hoy?
 
 What time do you have breakfast?
 ¿A qué hora desayunas?
+
+What would you like for breakfast?
+¿Qué te gustaría desayunar?
+
+Una mesa para dos, por favor.
+A table for two, please.
+
+Una mesa, por favor.
+A table, please (for one person).
+
+Nos quedamos en la barra.
+We'll stay at the bar.
+
+I don't like anything fried.
+No quiero nada frito.
+
+La carta, por favor.
+Can I have the menu, please?
+
+La carta de vinos, por favor.
+Can I have the wine list, please?
+
+¿Qué vino tenéis por copa?
+What wines do you have by the glass?
+
+Quería una botella de vino tinto, por favor.
+I'd like a bottle of red wine, please.
+
+Una botella de vino blanco, por favor.
+A bottle of wine wine, please.
+
+Una botella de rioja, por favor.
+A bottle of Rioja, please.
+
+Una copa de vino tinto/blanco, por favor.
+A glass of red/white wine, please.
+
+Una caña, por favor.
+A glass of draft beer, please.
+
+Una doble, por favor.
+A large glass of draft beer, please.
+
+Un vaso de agua, por favor.
+A glass of water, please.
+
+Una botella de agua, por favor.
+A bottle of water, please.
+
+Agua de grifo, por favor.
+Tap water, please.
+
+Una ración de calamares/boquerones, por favor.
+A large plate of calamari/fried anchovies, please.
+
+Media ración de boquerones, por favor.
+Half plate of fried anchovies, please.
+
+Una tapa de boquerones, por favor.
+A tapa of fried anchovies, please.
+
+Quería pedir algo más, por favor.
+I'd like to order something else, please.
+
+Otra copa de vino, por favor.
+Another glass of wine, please.
+
+ Otra caña, por favor.
+Another glass of draft beer, please.
+
+ ¿Qué postres tenéis?
+What is there for dessert?
+
+I am very full.
+Estoy muy llenó 
+
+Bring me the check please?
+¿Me traes la cuenta por favor?
+
+Please, when you have a chance, bring me the check?
+¿Por favor, cuando pueda, Me traer la cuenta?
+
+¡Bueno provecho!
+Enjoy your meal!
+
+Everything was delicious, thanks.
+Todo estuvo delicioso, gracy 
+
+Muchas gracias. ¡Estaba muy rico!
+Thanks so much. It was delicious!
+
+See https://youtu.be/rsxaek7BDro?si=j7BeRd5Gb9AJSHxn
 
 [[#Table of Contents]]
 ## Shopping 
@@ -483,49 +795,80 @@ What time do you have breakfast?
 - moneda - currency 
 ### Shopping phrases 
 - ¿Cuánto cuesta? - How much does it cost?
-  - Use *`cuestan`* fot múltiple items
+  - Use *`cuantos cuestan`* for múltiple items
   - Alternatively you can say *Cuánto vale* (how much is it worth) or *Cuánto es* 
 - ¿En efectivo o con tarjeta? - Cash or credit card?
-- 
+- aquí tiene - here you are 
+- ¿En qué le puedo ayudar? - how can I help you?
+- ¿Que precio tiene...? - What is the price...?
 
+# Sizes 
+pequeño(a) - small
+grande - large 
+estrecho(a) - narrow
+anchor(a) - wide
+
+[[#Table of Contents]]
 # Home related 
 - la habitación - room
-- la cocina - kitchen 
-- la nevera - refrigerator 
-  - el refrigerador - refrigerator 
-  - el frigorífico - refrigerator (ES)
-- el fogón - stove 
-- el horno - oven
 - la sala - living room (or just room)
   - la sala de estar - the living room (ES)
   + el sofá - sofa
-- el dormitorio - bedroom
-  - habitacion 
-  - cuarto 
+
 - el armario - closet 
-- la mesita de noche - night table 
 - la televisión (tele) -  TV
 - la lámpara - lamp
 - la pared - wall
 - el piso - floor 
 - los muebles - the furniture(pl)
 - la ventana - window
-- el baño - bathroom 
-- la ducha - shower 
-- el lavabo - sink
-- el espejo - mirror 
-- el inodoro - toilet 
+- la aspiradora - vacuum 
+- aire acondicionado - air conditioner 
 - el césped - the grass/lawn
 - seguro - safe/sure 
 - arriba - upstairs 
 - abajo - downstairs 
 - ... no funciona - ... doesn't work
    - La lámpara no funciona
-- madera - wood
-
-[[#Table of Contents]]
+- de madera - made of wood
+- desordenado(a) - messy
+- ordenado(a) - tidy
+- luminoso/oscuro - light/dark 
+- cómodo/incómodo - comfortable/uncomfortable 
+## Kitchen 
+- la cocina - kitchen
+- la nevera - refrigerator 
+  - el refrigerador - refrigerator 
+  - el frigorífico - refrigerator (ES)
+- el fogón - stove 
+- el horno - oven
+- la microonda - microwave 
+- la tostadora - toaster 
+- la batidora - blender 
+- la cafetera - coffee maker 
+## Bathroom 
+- el baño - bathroom 
+- la ducha - shower 
+- el lavabo - sink
+- el espejo - mirror 
+- el inodoro - toilet 
+- la plancha - iron
+## Bedroom 
+el dormitorio - bedroom
+ - habitacion 
+  - cuarto 
+  la cama - bed
+  - dormir - to sleep, to be asleep 
+  - acuestarse - to go to bed
+  - despertar - to wake up 
+  - levantar - to get up 
+ la mesita de noche - night table 
+- 
+[[#Table of Cont ents]]
 # Location related words and phrases
+## Proximity 
 - al lado de.... next to 
+  - junto (ES)
 - cerca de ... close to or nearby 
 - lejos de... far from 
 - más cercano(a) ... nearest to
@@ -533,46 +876,54 @@ What time do you have breakfast?
 - encima de ... on top of
 - debajo de ... underneath 
 - adentro de ... inside 
-- más cercano/a ... nearest/closest 
+  - dendro ... inside 
+- más cercano(a) ... nearest/closest 
 - por aquí ... around here 
+- desde aquí ... from here 
 - enfrente ... in front or across 
 - delante ... in front of 
+- detrás ... behind or after
 - atrás ... in (the) back
-- detrás ... behind or after 
 - entre ... between or through 
-- dentro ... inside 
-- mejor sigue ... better continue 
+- afuera - out or outside (on the outskirts)
+- abajo - downstairs 
+- arriba - upstairs 
+ 
 - la parada del autobús ... the bus stop 
 (use del when noting the location of a masculine word)
+## Directions 
+dirección - address 
 izquierda - left 
 derecho - right (or straight)
 gira a la derecha - turn right 
 giras a la izquierda - you turn left 
 donde giro - where do I turn? 
+- girar - to turn
+seguir - to continue (on a road or street)
+- [[Spanish Verbs (Verbos)#seguir - to continue on]]
+mejor sigue ... better continue
+calle - Street
+- calle principal - main street 
+carretera - highway 
+
 Aquí o ahi - Here or there 
-girar - to turn
 ahí - there 
 allá - there (or over there)
 - alli - ES
+
 tomar - to take (train, bus)
-afuera - out or outside (on the outskirts)
-dentro - inside 
-abajo - downstairs 
-arriba - upstairs 
-atrás - in the back 
-carretera - highway 
 buscando - to look or search for 
 encontrar - to find
-dirección - address 
 sitio - place
-seguir - to continue (on a road or street)
-- [[Spanish Verbs#seguir - to continue on]]
-desordenado(a) - messy
-ordenado(a) - tidy
-luminoso/oscuro - light/dark 
-cómodo/incómodo - comfortable/uncomfortable 
+paso de peatones - crosswalk 
 
-### Travel
+
+[[#Table of Contents]]
+
+
+### Travel related 
+pasta de dientes - toothpaste 
+cepillo de dientes - toothbrush 
 aparcar - parking
 peligro - danger 
 paso de peatones - crosswalk
@@ -610,6 +961,7 @@ tomorrow - mañana
 
 date - la fecha 
 
+[[#Table of Contents]]
 # Time
 a qué hora... - what time...
 hace un año - a year ago
@@ -617,12 +969,18 @@ hace tres años - three years ago
 hace mucho tiempo - a long time ago
 el año pesado - last year 
 cuánto tiempo - how long
-de vez en cuando  - from time to time 
+de vez en cuando  - once in a while, from time to time  
 hace media hora - half an hour ago 
-hace tiempo hora - long time ago 
+hace mucho tiempo - long time ago 
+jamás - never
+ahora mismo - right now 
+tanto tiempo - so much time 
+casi nunca - almost never 
+de vez en cuando - once in a while 
 
 el años pasado - last year 
 el mes pasado - last month 
+
 ## Telling time
 la/las "number" y media - half past ...
 la/las "number" y cuarto - quarter after ... 
@@ -655,7 +1013,11 @@ For more details see: https://www.spani
 
 [[#Table of Contents]]
 # Commands - Let's get bossy! 
-Drop the -s from the normal tú verb form to tell someone what to do.
+Drop the -s from the normal tú verb form to tell someone what to do. There are a few exceptions including:
+- haga for [[Spanish Verbs (Verbos)#hacer - to make/to do/to ask]]
+- ponga for [[Spanish Verbs (Verbos)#poner - to put, to give]]
+- vaya for [[Spanish Verbs (Verbos)#ir - to go]]
+- venga for [[Spanish Verbs (Verbos)#venir - to come]]
 
 In formal situations, you do things a little differently. You swap out the normal usted vowel ending. Basically, if there's normally an -e, use an -a. And if there's usually an -a, it'll turn into an -e!
 
@@ -753,11 +1115,14 @@ nuestro/nuestra - our
   
 # Comparisons
 more ... than ... - màs ... que ...
-as .... as ... - tan ... cómo ...
+as .... as ... - tan ... como ...
+- tan pequeña como aquella - as small as that
 more or less - más o menos 
 best(better)/worse - mejor/peor
+older/younger than - mayores/menores que
 tall/short - alto(a)/bajo(a)
 thin/fat - delgado(a)/gordo(a)
+narrow/wide - estrecho(a)/ancho(a)
 light/heavy - ligero/pesado 
 slow/fast - lento/rapido 
 - slowly - despacio 
@@ -770,6 +1135,8 @@ in front/behind - delante/detrás
 - prepositions of place are always followed by *de*
 next/previous - próximo(a)/previo(a)
 - siguiente - following 
+success/failure - éxito/falla
+verdadero/falso - true/false 
 ## Bein vs bueno
 bien - modifies verb (well)
 bueno - modifies noun (good)
@@ -788,7 +1155,7 @@ to rain - llover
 it rains... - llueve...
 raining - lloviendo 
 snow - nieve 
-* ski - esquí
+* ski - el esquí
 * I like to ski - me gusta esquiar
 to snow - nevar
 snowing - nevando
@@ -950,13 +1317,17 @@ u - oo as the two "o's" in 'boot' (*tu, su*)
 ## Consonants 
 b - see v below 
 c - sounds like k (*como*) when followed by A, O or U ('k' in 'bake'). If it is followed by the letters 'e' or 'i' then it sounds like 's' ('th' in Spain)(*hacer, cierra*)
+cc - is always followed by an 'i' or 'e' and sounds like an 'x' in taxi.
 d - somewhat like a soft 'th' with tongue resting on the front teeth (*donde, nada*) except after 'n' or 'l' or after a break (start of word) where the sound is a hard 'd' like the 'd' in Den.
 g - a hard g sound like 'g' in 'go' (*agua, guapo*)(when before an A, O or U) When  before an 'e' or 'i' it sounds like a strong English 'h' (*página, gente*)
+gui/gue - the 'u' is silent ang pronounced like 'g' in guitar: *la guerra* (war).
+gu - if before 'a' or 'o', the 'u' is pronounced: *el aqua* (water)
+gü - appears before 'e' or 'i' and pronounced like good in good 
 h - is silent. (*habla, hola*)
 j - sounds like an gutteral h in English. (*Javier, pájaro*)
 t - sounds like a soft English 't', but with tongue forward (*tu, tengo*)
 L - like 'L' in English but a shorter sound (*la, playa*)
-q - almost always is followed by a 'u', but sounds like a 'k' as in 'koala' ('quiere')
+q - almost always is followed by a 'u', but sounds like a 'k' as in 'koala or kiss' ('quiere'). 'qu' is always followed by an 'i' or 'e'.
 r - sounds like a soft English 'd' as in 'muddy' (*para, pero*) if it is in the middle of a word. When it is at the beginning of a word, it is rolled or trilled like the double 'r'.
 rr - is rolled trilled. Blow air over tongue (*perro, carro*)
 s - sounds like 's' in English. In Andalusian Spain it is pronounced with a 'th' like the English word 'there'. When followed by a consonant, a soft e sound is placed before it.
@@ -964,6 +1335,7 @@ s - sounds like 's' in English. In Andalusian Spain it is pronounced with a 'th'
 ü - indicates that the 'u' is pronounced???
 *At the beginning of a word or after m or n, the b and v have a hard b sound. I'm all other cases, the b and v are pronounced softer than the English b.*
 v - sounds like a soft 'b' like in 'boy' and 'Ben'.
+x - sounds like an 'x' in taxi except when used for a name where it sounds like an 'h' (México).
 y - sounds like Spanish 'i' if at the end of a word(*hoy, muy*)
 z - sounds like 's' in English (*diez*). In Spain it is pronounced with a 'th' like the English word 'there' 
 ll - sounds like y in English as in "yard" (*llama*)
@@ -982,18 +1354,57 @@ she & ch
 [[#Table of Contents]]
 # Cognate tricks for translating English to Spanish 
 1. s -> es
-- English tion word starts with an s followed by a consonant which becomes ES 
+- English *tion* word starts with an s followed by a consonant which becomes ES 
 -- station -> estación 
 -- speculation -> especulación 
 2. double letters that do not change the pronunciation often dropped to a single letter: mm -> m or ss -> s
-- recommendation -> Recomendación
+- recommendation -> recomendación
 - communication -> comunicación 
 3. In cases where the double letter is pronounced in English, the two letters are maintained in Spanish 
 - cooperation -> cooperación 
 - narration -> narración (pattern is often the case with two rs
 4. The combination of T&H  often drops to just a T
 - authorization -> autorización 
-
+5. ic -> ico
++ fantastic + fantástico 
++ basic + básico 
++ electric - eléctrico
++ classic - clásico 
+6. ty -> dad
+- activity - actividad 
+- quality -> calidad
+- quantity -> cantidad 
+- society -> sociedad 
+7. ous -> oso
+- famous -> famoso 
+- delicious -> delicioso
+- nervous -> nervioso
+- generous -> generoso
+8. ble -> ble
+- possible-> posible
+- terrible -> terrible
+- probable -> probable
+- flexible -> flexible
+- visible -> visible 
+9. al -> al
+- normal -> normal
+- total -> total 
+- final -> final 
+- brutal -> brutal 
+- original -> original 
+10. tion -> ción
+- invitation -> invitación 
+- action -> acción
+- station -> estación 
+- situation -> situación 
+11. ment -> mento
++ document +> documento 
++ argument -> argumento 
++ fragment -> fragmento 
++ experiment -> experimento 
+# Spanish Alphabet 
+!["Alphabet"](./Spanish_Alphabet.png)
+See ["From this YouTube video"](https://youtu.be/dlazjKbt40Q?si=S0eZoP6I5Xolt5HL)
 # Spanish in Latin America vs Spain 
 English LA/ES
 glass - vaso/copa
@@ -1002,11 +1413,22 @@ car - carro/coche
 husband - esposo/marido 
 wife - esposa/mujer
 your - tu/vuestro(a)
-
-
+cell phone - celular/móvil 
+computer - computadora/ordenador
+television - televisión/televisor
 
 [[#Table of Contents]]
 # Common Phrases
+
+OK!
+¡Vale
+
+I travel to Spain at the end of March 
+Viajo a España al final de marzo.
+
+I'm going to my niece's wedding (in Seville)
+Voy a la boda de mi sobrina (en Sevilla)
+
 I am Craig. What is your name?
 Me llamo Craig. ¿Cómo te llamas? 
 
@@ -1020,14 +1442,26 @@ Soy de Estados Unidos.
 I speak a little Spanish 
 hablo un poco de español
 
+I speak a little Spanish so be patient with me 
+Hablo un poco de español así que ten paciencia conmigo.
+
 I speak a bit of Spanish 
 Yo hablo poquito de español 
+
+Do you hear me?
+¿me oyes?
+
+Hopefully you will understand me
+Ojalá me entiendas
+
+Excuse me, I didn't understand what you said.
+Disculpe, no he entendido lo que ha dicho 
 
 Where are you from?
 ¿De dónde eres?
 
-Do you hear me?
-¿me oyes?
+The other side of the street is a lake.
+Al otro lado de la calle hay un lago.
 
 Cómo está todo
 How is everything 
@@ -1035,20 +1469,32 @@ How is everything
 ¿Que pas?
 What's up? or What's going on?
 
-Hace buen tiempo 
+What did you do..
+¿Qué hiciste....?
+
+What are you doing? 
+- today
+¿Qué harás hoy?
+- tomorrow 
+¿Qué harás mañana?
+
+What do you want to do today?
+¿Qué quieres hacer hoy?
+
+What do you want to do tomorrow?
+¿Qué quieres hacer mañana?
+
+What are your plans for tomorrow?
+¿Cuales son tus planes para mañana?
+
 The weather is nice 
+Hace buen tiempo 
 
-!Genial!
-Great!
+Have a nice day.
+Que tengas un buen día.
 
-¡Caro! ¡Qué alegría!
-Of course!: How great!
-
-¡A verdad! 
-Really! 
-
-¡En serio!
-Really?!? (disbelief)
+Me gusta muchimismo.
+I like it very much.
 
 My Spanish isn't very good.
 Mi español no es muy bueno 
@@ -1068,8 +1514,11 @@ Que tengas buen dia
 Sound good!
 ¡Suena genial!
 
-I am a computer programmer 
-Soy programador de computadoras
+I was a software engineer 
+Yo era ingeniero de software 
+
+I am retired now.
+Ya estoy jubilado 
 
 I don't understand 
 Yo no entiendo 
@@ -1089,12 +1538,6 @@ El mío o el tuyo
 I would like...
 Quisiera...
 
-Of course 
-Por supuesto 
-
-How good (great)!
-Qué bueno 
-
 OK/Okay
 está bien 
 
@@ -1103,9 +1546,6 @@ Cómo se dice ... en español
 
  What did you say?
  ¿Qué dijiste?
- 
-I don't know 
-No, sé
 
 I think so
 Creo que si 
@@ -1116,11 +1556,43 @@ Creo que no
 We think so 
 Pensamos que si 
 
-have something to drink 
-tomar algo
+Can I have something to drink?
+¿Puedo tomar algo?
 
 See you  (see you on Monday )
 Nos vemos (Nos vemos el lunes)
+
+## Exclamations
+!Genial!
+Great!
+
+
+
+How good (great)!
+¡Qué bueno!
+
+Of course!
+¡Por supuesto!
+¡Pues claro!
+
+¡Por supuesto! ¡Qué alegría!
+Of course!: How great!
+
+¡A verdad! 
+¡De verdad!
+Really! 
+
+¡En serio!
+Really?!? (disbelief)
+
+¡De ninguna manera!
+no way!
+
+¡Ya mismo!
+Right now!
+
+¡Ya voy!
+I'm on my way!
 
 See:  https://duome.eu/tips/en/es
 

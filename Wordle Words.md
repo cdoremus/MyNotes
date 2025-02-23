@@ -1,15 +1,16 @@
-### Current Game 
+### Current Game
 PLATE
-CORNS
+ARMED
 
-SXXXX
-XSXXX
-XXSXX
-XXXSX
+XREAM
+MREAX
+AREMX
+AREXM
 
-WHISK
-MUSKY
-HUSKY
+CREAM
+
+
+
 
 
 
@@ -47,7 +48,6 @@ DRONE
 E in 2nd place
 REIGN
 NERVE
-
 
 L in 1st place
 LYRIC
@@ -368,6 +368,11 @@ RENAL
 LAE all in order 
 BLARE
 FLARE
+GLARE
+
+LAE with E in order 
+ANGLE
+SABLE
 
 LE both in order 
 CLOVE
@@ -416,6 +421,10 @@ AT not in order
 TAINT
 TAROT
 
+AT in order 
+WRATH
+SWATH
+
 ATE not in order 
 TREAD
 TREAT
@@ -435,10 +444,10 @@ LAT not in order
 NATAL
 TAILS
 
-LAE all in order 
-BLARE
-FLARE
-GLARE
+LAT with A in order 
+TRAIL
+STALL
+STALK
 
 LA in order 
 CLANS
@@ -447,6 +456,7 @@ SLACK
 LA with A in order 
 CRAWL
 SHALL
+
 
 LA not in order 
 SOLAR
@@ -470,6 +480,10 @@ PL both in order
 PLUCK
 PLUMP
 PLUMB
+
+PL with P in order 
+POLIO
+POLIS
 
 PT not in order 
 TROMP
@@ -511,6 +525,15 @@ PRICE
 ATE with A in 3rd place 
 TEARY
 ENACT
+
+PLAE with P in order 
+PEDAL
+PANEL
+PENAL
+
+PTE nota in order 
+CREPT
+SWEPT
 
 [[#Current Game]]
 

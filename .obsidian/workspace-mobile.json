@@ -55,16 +55,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Microcontrollers.md",
+                "file": "Spanish Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Microcontrollers"
+              "title": "Spanish Notes"
+            }
+          },
+          {
+            "id": "765467bc70a1dd1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spanish Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spanish Notes"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -79,7 +93,8 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "alphabetical",
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -91,7 +106,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "file:sp",
+            "query": "tag:#Spanish",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -126,7 +141,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "cd276cd5d50ab977",
@@ -190,30 +205,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d70c23c74076df5a",
+  "active": "421c4e15a195fc57",
   "lastOpenFiles": [
-    "Wordle Words.md",
-    "Spanish Verbs.md",
+    "image_url.md",
     "Spanish Notes.md",
+    "Wordle Words.md",
+    "Spanish Verbs (Verbos).md",
+    "Personal.md",
+    "Temp Notes.md",
+    "Haiku.md",
+    "Sabbathday Lake Association.md",
+    "Vocabulary.md",
+    "Deno Notes.md",
+    "5 Letter Words.md",
     "Microcontrollers.md",
+    "Blood Pressure.md",
+    "Health.md",
     "Computer.md",
     "Canon Pixma TR8520 Printer.md",
-    "Temp Notes.md",
-    "Blood Pressure.md",
     "Soup Kitchen.md",
-    "Deno Notes.md",
-    "Health.md",
-    "Sabbathday Lake Association.md",
     "Spanish Mass.md",
     "Spanish common filler phrases and tag questions.md",
     "comenzar - to start.md",
     "and need a ride on Tuesday.md",
     "[.md",
     "Github Notes.md",
-    "5 Letter Words.md",
     "Deno Blog Ideas.md",
-    "Haiku.md",
-    "Vocabulary.md",
     "NYT 7-minute workout.md"
   ]
 }
