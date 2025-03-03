@@ -1,4 +1,5 @@
-[[Spanish Verbs (Verbos)]]
+
+[[Spanish Verbs]]
 
 Babbel support - support@babbel.com
 # Table of Contents 
@@ -30,6 +31,7 @@ Babbel support - support@babbel.com
 - [[#Proximity]]
 - [[#Directions]]
 [[#Shopping]]
+[[#Computer related]]
 [[#Body parts (partes del cuerpo)]]
 - [[#Face (la cara)]]
 - [[#Body (el cuerpo)]]
@@ -43,6 +45,7 @@ Babbel support - support@babbel.com
 - [[#Meat (carne)]]
 - [[#Seafood]]
 - [[#Desserts (postres)]]
+- [[#Snacks]]
 - [[#Meals]]
 - [[#Drinks]]
 - [[#Spanish Dishes]]
@@ -56,6 +59,7 @@ Babbel support - support@babbel.com
 - [[#Consonants]]
 - [[#Sounds nearly the same in Spanish as English]]
 - [[#Stressed syllables]]
+[[#Spanish Alphabet]]
 [[#Cognate tricks for translating English to Spanish]]
 
 [[#Numbers (números)]]
@@ -111,7 +115,7 @@ allá - over there
 ahí - there 
 verdad - true
 realmente - really 
-seguramente - surely
+seguramente - surely, probably 
 supremamente - supremely
 sumamente - highly, extremely 
 extremadamente - extremely 
@@ -121,6 +125,7 @@ simplemente - simply/plainly afortunadamente - fortunately
 desafortunadamente - unfortunately 
 frecuentemente - frequently 
 inmediatamente - immediately 
+irreproachable - irreproachable 
 rápidamente - quickly, rapidly 
 híper - hyper
 por fin - finally 
@@ -379,6 +384,20 @@ la reunión - meeting
 la cita - date (going out)
 
 Also see [[#Possesive pronouns (singular/plural)]]
+
+# Computer related 
+ordenador - computer
+- computadora 
+ordenador portátil - laptop 
+aplicación - app
+un línea - online
+- universidad en línea - online college
+ingeniero de software - software engineer
+correo electrónico - email 
+texto del mensaje - text message
+enviar un mensaje - send a text
+
+[[#Table of Contents]]
 # Body parts (partes del cuerpo)
 ## Face (la cara)
 el rostro - face (ES)
@@ -481,6 +500,7 @@ la verdura - vegetable (food)
 la fruta - fruit
 montaditos - sandwiches
 especias - spices
+saludable - healthy
 
 
 hambre - hunger
@@ -501,6 +521,7 @@ vieiras - scallops
 calamares - squid
 atún - tuna
 bacalao - codfish 
+el salmón - salmon
 
 ### Salad (ensalada)
 la lechuga - (head of) lettuce 
@@ -515,6 +536,7 @@ champiñones - mushrooms
 ### Non-Salad Vegetables 
 vegetales - vegetables 
 vegetariana - vegetarian
+el elote/maize - corn 
 el brócoli - broccoli 
 la berenjena - eggplant 
 las lentejas - lentils
@@ -558,6 +580,13 @@ fresa - strawberry
 guinda - cherry
 
 [[#Table of Contents]]
+
+### Snacks
+los cacahuetes - peanuts
+las almendras - almonds
+helado - ice cream 
+patatas fritas - fries
+
 ### Cooking related 
 groceries - compra
 kitchen - cocina
@@ -565,6 +594,8 @@ refrigerator - refrigerador
 - nevera
 butter - mantequilla 
 oil - el aceite 
+parsley - el perejil
+
 
 fried - frito
 grilled/roasted - asado(a)
@@ -602,7 +633,7 @@ estoy lleno(a) - i'm full
 algo más - anything else 
 probar - to try
 - pruebas el pescado - try the fish 
-
+[[#Table of Contents]]
 ### Drinks
 aqua - water 
 hielos - ice
@@ -612,6 +643,7 @@ café - coffee
 - café sin cafeína - decaf 
 té - tea
 zumo - juice (ES)
+sidra - cider
 refresco - soda
 el jerez - sherry
 - fino - a type of dry sherry 
@@ -822,6 +854,7 @@ anchor(a) - wide
 - el piso - floor 
 - los muebles - the furniture(pl)
 - la ventana - window
+  - la cortina - curtain 
 - la aspiradora - vacuum 
 - aire acondicionado - air conditioner 
 - el césped - the grass/lawn
@@ -862,9 +895,15 @@ el dormitorio - bedroom
   - acuestarse - to go to bed
   - despertar - to wake up 
   - levantar - to get up 
- la mesita de noche - night table 
-- 
-[[#Table of Cont ents]]
+la mesilla de noche - night table 
+la lámpara de noche - night light 
+el armario - closet 
+el escritorio - desk
+- una mesa de estudio 
+- cajones - drawers 
+
+
+[[#Table of Contents]]
 # Location related words and phrases
 ## Proximity 
 - al lado de.... next to 
@@ -900,7 +939,7 @@ giras a la izquierda - you turn left
 donde giro - where do I turn? 
 - girar - to turn
 seguir - to continue (on a road or street)
-- [[Spanish Verbs (Verbos)#seguir - to continue on]]
+- [[Spanish Verbs#seguir - to continue on]]
 mejor sigue ... better continue
 calle - Street
 - calle principal - main street 
@@ -916,6 +955,7 @@ buscando - to look or search for
 encontrar - to find
 sitio - place
 paso de peatones - crosswalk 
+iglesia - church 
 
 
 [[#Table of Contents]]
@@ -1014,10 +1054,10 @@ For more details see: https://www.spani
 [[#Table of Contents]]
 # Commands - Let's get bossy! 
 Drop the -s from the normal tú verb form to tell someone what to do. There are a few exceptions including:
-- haga for [[Spanish Verbs (Verbos)#hacer - to make/to do/to ask]]
-- ponga for [[Spanish Verbs (Verbos)#poner - to put, to give]]
-- vaya for [[Spanish Verbs (Verbos)#ir - to go]]
-- venga for [[Spanish Verbs (Verbos)#venir - to come]]
+- haga for [[Spanish Verbs#hacer - to make/to do/to ask]]
+- ponga for [[Spanish Verbs#poner - to put, to give]]
+- vaya for [[Spanish Verbs#ir - to go]]
+- venga for [[Spanish Verbs#venir - to come]]
 
 In formal situations, you do things a little differently. You swap out the normal usted vowel ending. Basically, if there's normally an -e, use an -a. And if there's usually an -a, it'll turn into an -e!
 
@@ -1062,10 +1102,14 @@ el lápiz - pencil
 [[#Table of Contents]]
 # por vs para
 ## *por*
+
+Refers to something looking backwards 
 ### Duration - how long to do something 
 - Camino para veintiocho minutos (I walk for 28 minutes)
-### Motivation - why someone is doing something 
+### Motivation - why someone is doing something  (cause or reason)
 -  Lol voy hacer por ti (I'll do it for you)
+- No fuimos al parque por la lluvia. (We didn't go to the park because of the rain)
+- Las tiendas cerraron temprano por la tormenta. (The stores closed early because of the storm)
 ### Exchange - trading one thing for another 
 - Te doy tres dólares por dos botellas de agua 
 ### Mode of travel and/or communication 
@@ -1073,15 +1117,21 @@ el lápiz - pencil
 - Pasamos por el rio (We passed by the river)
 
 ## *para*
+
+Refers to something moving forward, in the future or recipients
 ### Destination - going somewhere 
 - Voy para el museo (I'm going to the museum)
-### Goals - achieving something 
+- Estoy saliendo para allá. (I'm leaving for there)
+### Goals - achieving something (...in order to...)
 - Estoy llamando para hablar contigo (I'm calling to talk to you)
+- Estoy lavando el coche para ir a dar una vuelta. (I'm washing the car in order to go for a ride)
+- Es un buen libro para aprender español. (It's a good book in order to learn/for learning Spanish)
+- Es una máquina para hacer queso.  (It's a machine for making cheese)
 ### Recipients - giving to somebody
 - La comida es para tu madre
 - Yo traigo la manzana para ti (I bring the apple for you)
 ### Deadline - do something by a date 
-- Necesito el dinero para lunes (I need the money for Monday)
+- Necesito el dinero para lunes. (I need the money for Monday)
 
 # al versus del
 Both al and del are Spanish contractions of definite articles and prepositions. The difference between these words is that 
@@ -1405,6 +1455,9 @@ she & ch
 # Spanish Alphabet 
 !["Alphabet"](./Spanish_Alphabet.png)
 See ["From this YouTube video"](https://youtu.be/dlazjKbt40Q?si=S0eZoP6I5Xolt5HL)
+deletrear - to spell
+- deletrea la palabra - spell the word 
+[[#Table of Contents]]
 # Spanish in Latin America vs Spain 
 English LA/ES
 glass - vaso/copa
@@ -1420,8 +1473,41 @@ television - televisión/televisor
 [[#Table of Contents]]
 # Common Phrases
 
+## Greetings 
+
 OK!
-¡Vale
+¡Vale!
+
+What's going on? (What happens?)
+¿Qué pasa?
+
+Have a good day.
+Que tengas un buen día.
+
+Welcome 
+Bienvenido(a)
+
+I am Craig. What is your name?
+Me llamo Craig. ¿Cómo te llamas? 
+
+Nice to meet you 
+Mucho gusto OR Encantado(a)
+
+Pleased to meet you 
+Encontado(a) de conocerte 
+
+
+I speak a bit of Spanish 
+Yo hablo poquito de español 
+
+Do you hear me?
+¿me oyes?
+
+Hopefully you will understand me
+Ojalá me entiendas
+
+Excuse me, I didn't understand what you said?
+¿Disculpe, no he entendido lo que ha dicho?
 
 I travel to Spain at the end of March 
 Viajo a España al final de marzo.
@@ -1429,11 +1515,9 @@ Viajo a España al final de marzo.
 I'm going to my niece's wedding (in Seville)
 Voy a la boda de mi sobrina (en Sevilla)
 
-I am Craig. What is your name?
-Me llamo Craig. ¿Cómo te llamas? 
 
-Nice to meet you 
-Mucho gusto OR Encantada
+Where are you from?
+¿De donde eres?
 
 I am an American.
 Soy estadounidense.
@@ -1445,17 +1529,10 @@ hablo un poco de español
 I speak a little Spanish so be patient with me 
 Hablo un poco de español así que ten paciencia conmigo.
 
-I speak a bit of Spanish 
-Yo hablo poquito de español 
+I am trying to speak Spanish, but I only know a little Spanish.
+Estoy intentando hablar español, pero sólo sé un poco de español
+aid.
 
-Do you hear me?
-¿me oyes?
-
-Hopefully you will understand me
-Ojalá me entiendas
-
-Excuse me, I didn't understand what you said.
-Disculpe, no he entendido lo que ha dicho 
 
 Where are you from?
 ¿De dónde eres?
@@ -1473,7 +1550,7 @@ What did you do..
 ¿Qué hiciste....?
 
 What are you doing? 
-- today
+- tod
 ¿Qué harás hoy?
 - tomorrow 
 ¿Qué harás mañana?
@@ -1496,6 +1573,12 @@ Que tengas un buen día.
 Me gusta muchimismo.
 I like it very much.
 
+A pleasure /Your welcome
+Un placer/ de nada
+
+Maybe
+Quizás/Quizá 
+
 My Spanish isn't very good.
 Mi español no es muy bueno 
 
@@ -1513,6 +1596,9 @@ Que tengas buen dia
 
 Sound good!
 ¡Suena genial!
+
+I think so.
+Pienso que si.
 
 I was a software engineer 
 Yo era ingeniero de software 
@@ -1562,11 +1648,41 @@ Can I have something to drink?
 See you  (see you on Monday )
 Nos vemos (Nos vemos el lunes)
 
+Who is he/she?
+¿Quien es él/ella?
+
+What do you think?
+¿Qué opinas?/¿Qué piensas?
+
+Good luck!
+¡Buena suerte!
+
+Don't worry 
+No te preocupes
+
+I miss you!
+¡Te echo de menos! (ES)
+¡Te extraño! (LA)
+
+This is for you 
+Esto es para ti 
+
+It hurts!
+¡Me duele!
+
+What is this?
+¿Qué es esto?
+
+Blando, characterless, very simple (people or things)
+Ñoño
+
+Scoundrel 
+Sinvergüenza 
+
+[[#Table of Contents]]
 ## Exclamations
 !Genial!
 Great!
-
-
 
 How good (great)!
 ¡Qué bueno!
@@ -1574,6 +1690,9 @@ How good (great)!
 Of course!
 ¡Por supuesto!
 ¡Pues claro!
+
+Wow!
+¡Guau!
 
 ¡Por supuesto! ¡Qué alegría!
 Of course!: How great!
@@ -1585,6 +1704,9 @@ Really!
 ¡En serio!
 Really?!? (disbelief)
 
+Are you saying that for real?/
+¿Lo dices en serio?
+
 ¡De ninguna manera!
 no way!
 
@@ -1593,6 +1715,9 @@ Right now!
 
 ¡Ya voy!
 I'm on my way!
+
+Congratulations!
+¡Felicidades!
 
 See:  https://duome.eu/tips/en/es
 

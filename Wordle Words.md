@@ -1,13 +1,9 @@
 ### Current Game
 PLATE
-ARMED
+TESTY
 
-XREAM
-MREAX
-AREMX
-AREXM
+XEXTY
 
-CREAM
 
 
 
