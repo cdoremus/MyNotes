@@ -1,5 +1,12 @@
 
+# Lynne 
 
+We saw this on our trip and thought it was a perfect birthday gift for you. So we guess you're going to have to find your own vodka, wine, cheese and chocolate. 
+
+Instead we are sending you bour early birthday wishes and the knowledge that you are loved.
+Love, c&d
+
+and hope that you can find a cool spot in the shade to fan yourself and enjoy your new puppy.
 
 # Diana
 ## Leg problem 7/3/25 
@@ -10,7 +17,7 @@ back of right leg in lower calf muscle
 Warmer than other leg
 Suspects blood clot 
 
-
+[Welcome to Jurassic Park: A Comprehensive Study of Security Risks in Deno and its Ecosystem](https://cispa.de/en/research/publications/84103-welcome-to-jurassic-park-a-comprehensive-study-of-security-risks-in-deno-and-its-ecosystem)
 # Azalea propagation 
 
 Michael Kinkade wild azalea propagation  on YouTube 
@@ -28,7 +35,7 @@ https://youtu.be/hyrjnM6OnDE?si=caCoKylXoULUbjwb
 
 ---
 
-
+https://www.wunderground.com/dashboard/pws/KMENEWGL31
 
 
 

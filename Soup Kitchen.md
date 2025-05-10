@@ -1,6 +1,6 @@
 
 Jeff - Tuesday leader, kitchen dishwasher  
-Ray Fogg - cook
+Ray Fogg - cook - Gray
 
 Don - rinsing (biker)
 Charlie - Argentina 
@@ -9,7 +9,7 @@ Christian - African
 Paula - dishwasher - helps Jeff
 
 Brittany - server 
-Chantel - dark, curly reddish hair
+Chantel - dark, curly reddish hair - server
 
 Charlie - Argentina 
 Larry - jack-of-all-trades, teeth 
@@ -24,8 +24,10 @@ Carol - server (Secret Heart) - silver hair
 Jean - Sacred Heart member, Carol's friend 
 Taylor - arm tattoo 
 Ed - silver hair and beard 
-Elsa - Spanish 
+Elsa - Spanish with ponytail 
 Vicky - Lipstick and ponytail 
+Anna - Brit/Orthodox - server
+
 
 
 Evelyn (Ph: 447-1086) - put announcement in the church bulletin 

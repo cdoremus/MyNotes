@@ -5,7 +5,7 @@ Aroline Hanson, Ph.D.
 
 *Use these expressions to make your Spanish more natural!*
 
-We all need a bit of help sometimes—learners included! When it comes to language, speakers use lots of strategies to connect ideas, let your listener know how you feel about what you're saying, and buy you time. In Spanish, these are called **muletillas**, or "crutches"! 
+We all need a bit of help sometimes—learners included! When it comes to language, speakers use lots of strategies to connect ideas, let your listener know how you feel about what you're saying, and buy you time. In Spanish, these are called **muletillas**, or "crutches"! g
 
 Here are some ways you can prop up your Spanish for more natural conversations.
 

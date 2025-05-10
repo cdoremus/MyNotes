@@ -91,7 +91,7 @@ right bundle branch block
 -     can help with ADHD 
 	- Adomoxitine
 - SSRI MRD
-	- Lexipro
+	- Lexipro 
 	
 ## 10/24/24 Appointment 
 

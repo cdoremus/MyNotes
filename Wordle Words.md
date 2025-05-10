@@ -1,10 +1,19 @@
 ### Current Game
+
 PLATE
-TESTY
 
-XEXTY
+XPTXE
+TXXPE
+XTPXE
+XTXPE
+TXPXE
+
+TRIPE
+TROPE
 
 
+
+ 
 
 
 
@@ -18,10 +27,10 @@ XEXTY
 ---------------------
 
 ## LEAST as first word 
-
+ 
 If no letters in LEAST
 CRONY (Wodlebot)
-PRION
+PRION 
 
 not LEAST or CRONY
 HUMID
@@ -37,7 +46,7 @@ CHARD
 CHARM
 GRAND
 
-if only E
+if only E not in order 
 DINER
 DRONE
 
@@ -357,6 +366,12 @@ CORNS
 COINS
 CRONY
 
+PLATE + CORNS with no matches 
+FUDGY
+
+PAE not in order 
+CAPER
+
 LAE not in order 
 REGAL
 RENAL
@@ -409,13 +424,13 @@ AE with A in order
 HEARD
 HEADY
 
-AT with A in order 
-SCANT
-TRANS
-
 AT not in order 
 TAINT
 TAROT
+
+AT with A in order 
+SCANT
+TRANS
 
 AT in order 
 WRATH
@@ -510,6 +525,11 @@ PAT with P in order
 PATCH
 PAINT
 
+PAT with A in order 
+APART
+ADAPT
+INAPT
+
 PE not in order 
 SPEED
 SPIED
@@ -527,9 +547,16 @@ PEDAL
 PANEL
 PENAL
 
-PTE nota in order 
+PTE none in order 
 CREPT
 SWEPT
+
+PTE with TE in order 
+SPITE
+
+LATE with L in order 
+CLEAT
+BLEAT
 
 [[#Current Game]]
 
