@@ -2,24 +2,35 @@
 [[Spanish Verbs]]
 
 Babbel support - support@babbel.com
+ 
 # Table of Contents 
 [[#Common Phrases]]
+- [[#Greetings]]
+- [[#Small talk]]
 - [[#Exclamations]]
 - [[#Short phrases]]
 - [[#Holiday Greetings]]
 [[#Common Adverbs & Adjectives]]
 - [[#Turning verbs into adjectives]]
+- [[#Adjectives Before vs. After the Noun]]
 - [[#Who, what, when...]]
 - [[#Some/Any variations]]
 [[#Prepositions]]
 [[#Pronouns]]
-[[#Possesive pronouns (singular/plural)]]
-[[#Direct Object Pronouns]]
-[[#Indirect Object Pronouns]]
-[[#Reflexive verbs and pronouns]]
+- [[#Direct Object Pronouns]]
+  - [[#it and them]]
+- [[#Indirect Object Pronouns]]
+  - [[#Attach Indirect Object Pronouns to Verbs]]
+- [[#Reflexive verbs and pronouns]]
+- [[#Possessive pronouns (singular/plural)]]
 [[#Vosotros]]
 [[#this/these, that/those]]
-[[#Commands - Let's get bossy!]]
+[[#Expressing that something still hasn't happened, just happened and keeps happening]]
+- [[#Still hasn't happened]]
+- [[#Just happened or finished]]
+- [[#Keeps happening repeatedly]]
+[[#Conditional sentences]]
+[[#Commands]]
 [[#Noun gender tips]]
 - [[#Article Gender Noun Exceptions]]
 [[#Comparisons]]
@@ -32,13 +43,21 @@ Babbel support - support@babbel.com
 - [[#Bathroom]]
 - [[#Bedroom]]
 [[#Relationships]]
+- [[#Nationality]]
 [[#Occupations]]
+[[#Small and cute - los diminutivos]]
 [[#Location related words and phrases]]
 - [[#Proximity]]
 - [[#Directions]]
 - [[#Transportation and travel]]
 - [[#Weather]]
 [[#Computer related]]
+[[#Soccer (fútbol)]]
+- [[#Field Positions]]
+- [[#Plays]]
+- [[#Non-playing positions]]
+- [[#Field layout]]
+- [[#Fútbol equipment]]
 [[#Body parts (partes del cuerpo)]]
 - [[#Face (la cara)]]
 - [[#Body (el cuerpo)]]
@@ -61,6 +80,7 @@ Babbel support - support@babbel.com
 - [[#Drinks]]
 - [[#Spanish Dishes]]
 - [[#Ordering at a restaurant]]
+[[#Animals (animales)]]
 [[#Shopping]]
 [[#Commands]]
 [[#Noun gender tips]]
@@ -68,6 +88,7 @@ Babbel support - support@babbel.com
 [[#por vs para]]
 [[#al versus del]]
 [[#Use of the personal 'a' in Spanish]]
+
 [[#Pronunciation]]
 - [[#Vowels]]
 - [[#Consonants]]
@@ -78,10 +99,11 @@ Babbel support - support@babbel.com
 [[#Spanish in Latin America vs Spain]]
 
 [[#Numbers (números)]]
+- [[#Ordinals (Rank)]]
 - [[#Years(años)/Dates(fechas)]]
 [[#Time]]
  - [[#Telling time]]
- - [[#Using desde and desde hace with time]]
+ - [[#Using *desde* and *desde hace* and *hace* to talk about time]]
 [[#Days of the week]]
 [[#Months (meses)]]
 [[#Weather]]
@@ -92,9 +114,12 @@ Babbel support - support@babbel.com
 [[#Holiday Greetings]]
 [[#Common Phrases]]
 
----
-## Common Adverbs & Adjectives
+[[#Spanish learning resources]]
 
+---
+# Common Adverbs & Adjectives
+
+***Note: Adjectives always come after the noun they refer to.***
 
 cada - each/every
 todos - every
@@ -113,6 +138,8 @@ alguien - someone
 a veces - sometimes
 ambos(as) - both
 mismo(a) - same
+- yo mismo(a) - myself
+- mi mismo(a) - myself
 otro(a) - another/other 
 otra vez - again
 a menudo - often 
@@ -126,7 +153,11 @@ never - nunca
 almost - casi
 demasiado - too
 - demasiados - too much 
-tanto/tantos - so much/so many 
+tanto(a)/tantos(as) - so much/so many 
+- tan - so
+tan...como - as ... as
+- tanto(a)...como -as much/many ... as
+bastante - quite, quite a lot of
 tal vez - maybe 
 - quizás - maybe (ES)
 - posible - possible
@@ -140,7 +171,7 @@ allá - over there
 ahí - there 
 verdad - true
 realmente - really 
- - verdaderamente 
+ - verdaderamente - really, truly 
 seguramente - surely, probably 
 supremamente - supremely
 sumamente - highly, extremely 
@@ -152,12 +183,17 @@ desafortunadamente - unfortunately
 - lamentablemente - unfortunately 
 frecuentemente - frequently 
 inmediatamente - immediately 
+actividad - activity 
+oportunidad - opportunity 
+calidad - quality
+cantidad - quantity
 irreproachable - irreproachable 
 rápidamente - quickly, rapidly 
 adrede - intentionally, deliberately, on purpose 
 híper - hyper
-por fin - finally 
-- finalmente 
+por fin - finally, at last 
+- finalmente - finally 
+en fin - anyway 
 bastante - quite
 seguro - sure/safe
 tampoco - either/neither 
@@ -174,6 +210,7 @@ excelente - excellent
 hermosísimo(a) - really beautiful 
 bellísimo(a) - really beautiful 
 carisimo - really expensive 
+así - this way, that way, like this, like that
 #### Turning verbs into adjectives 
 In English, we can use verbs (like to haunt) as adjectives. For example, in The house is haunted, haunted describes the word house.
 
@@ -195,9 +232,35 @@ The men are lost.
 
 [[#Table of Contents]]
 
-#### have to
-tengo que - I have to...
-yo creo que - I think that...
+#### Adjectives Before vs. After the Noun
+
+In Spanish, adjectives can come either after or before the noun — and that can be pretty confusing. So below I’ve explained what actually determines the order of nouns and adjectives in a sentence.
+
+***AFTER the noun → Literal, descriptive, factual***
+
+This is the default and most common word order in Spanish. When you place the adjective after the noun, you’re usually describing a real, objective, or physical quality of the thing you're talking about.
+
+Un coche grande → A big car.
+
+Una casa nueva → A house that was just built.
+
+Un amigo viejo → A friend who is old.
+
+Una historia cierta → A story that is true.
+
+***Adjective BEFORE the noun → Figurative, emotional, subjective***
+
+Placing the adjective before the noun often adds an emotional, figurative, or interpretive twist. You’re not just describing — you’re expressing something: a feeling, a personal judgment, or a commonly accepted quality.
+
+Una gran sorpresa. → A great surprise.
+
+Un dulce recuerdo → A sweet (emotional) memory.
+
+Un viejo amigo → A longtime friend.
+
+**From**: https://www.reddit.com/r/SpanishAIlines/s/ssupchRLld
+
+[[#Table of Contents]]
 ### Who, what, when...
 who - quién
 - quiénes - who (a group)
@@ -222,53 +285,55 @@ Nobody - nadie
 Nothing - nada
 
 # Prepositions
-- so .... as ... - tan ... como ...
-- so, then - entonces 
+See this video for a complete list and meanings: https://youtu.be/RLnwem941ok?si=TKTQBlWQNqM3fKHK
+
+- durante - during, for (an amount of time)
+- a - to 
+- por - for and others 
+- para - others and for
+- contra - against 
+- con - with
+- sin - without
+- de - of, from (refers to possession) 
+- desde - from, since (implies motion)
+- entre - between, among 
+- sobre - over, above, on top, on top of, about
+  - el sobre - envelope (noun)
+- en - in, on, at, into
+- antes de - before 
+- después de - after
+- debajo de - under
+- dentro de - inside, inside of 
+- encima de - on top, on top of
+- cerca de - close to, near. around 
+- alrededor de - around 
+- a través de - through (end to end)
+- acerca de - about (a subject)
+
+- tan ... como ... - so .... as ...
+- entonces - so, then
 - pero - but
 - pero que - because 
 
 [[#Table of Contents]]
 # Pronouns
 
-| [[##Direct Object]] | [[##Indirect Object]] | Reflexive |
-| ------------------- | --------------------- | --------- |
-| me                  | me                    | me        |
-| os                  | os                    | os        |
-| los/las             | les(se)**             | se        |
-| te                  | te                    | te        |
-| nos                 | nos                   | nos       |
-| los/les(ES)*        | les(se)**             | se        |
-| las                 | les(se)**             | se        |
-| la                  | le(se)                | se        |
-| lo/le(ES)           | le(se)                | se        |
+| **Personal Pronoun**                                | **[[#Direct Object Pronouns]]** | **[[#Indirect Object Pronouns]]** |
+| --------------------------------------------------- | ------------------------------- | --------------------------------- |
+| **Yo** (I)                                          | Me                              | Me                                |
+| **Tú** (You, informal)                              | Te                              | Te                                |
+| **Él / Ella / Usted** (He/She/You formal)           | Lo / La                         | Le (*se* before lo/la/los/las)    |
+| **Nosotros / Nosotras** (We)                        | Nos                             | Nos                               |
+| **Vosotros / Vosotras** (You all, informal Spain)   | Os                              | Os                                |
+| **Ellos / Ellas / Ustedes** (They / You all formal) | Los / Las                       | Les (*se* before lo/la/los/las)   |
 
-*(ES) = Spain dialect 
-\*\*(se) = ***If both direct and indirect objects are used in the same sentence, the indirect object pronouns le and les become se*** as shown in the parentheses. Remember that the indirect object pronoun will come before the direct object pronoun.
+***Direct object pronouns answer what? or whom***? (e.g., *Lo vi* → "I saw him/it.")
 
-Remember, little words like *me or te* generally come before the verb, like in *Me llamo Duo.*
-If direct and indirect objects become nouns, they precede the verb in the indicative and follow the verb in the infinitive.
+***Indirect object pronouns answer to whom***? or for whom? (e.g., *Le di el libro* → "I gave him/her the book.")
 
-### Good video explaining the use of pronouns 
-https://youtu.be/TUmuavAKLEI?si=BkIswqXo0SlwUSrZ
-## From ChatGPT
-Here's a chart that shows the subject pronouns along with their corresponding direct and indirect object pronouns in Spanish.
+When both object pronouns are used together ***the indirect object pronoun comes before the direct object pronoun***. If "le/les" comes before "lo/la/los/las," "le/les" changes to se (*Se lo di* instead of *Le lo di*). 
 
-| **Subject Pronoun**                                 | **Direct Object Pronoun** | **Indirect Object Pronoun**     |
-| --------------------------------------------------- | ------------------------- | ------------------------------- |
-| **Yo** (I)                                          | Me                        | Me                              |
-| **Tú** (You, informal)                              | Te                        | Te                              |
-| **Él / Ella / Usted** (He/She/You formal)           | Lo / La                   | Le (*se* before lo/la/los/las)  |
-| **Nosotros / Nosotras** (We)                        | Nos                       | Nos                             |
-| **Vosotros / Vosotras** (You all, informal Spain)   | Os                        | Os                              |
-| **Ellos / Ellas / Ustedes** (They / You all formal) | Los / Las                 | Les (*se* before lo/la/los/las) |
-
-### Notes on the chart:
-
-Direct object pronouns answer what? or whom? (e.g., *Lo vi* → "I saw him/it.")
-
-Indirect object pronouns answer to whom? or for whom? (e.g., *Le di el libro* → "I gave him/her the book.")
-
-When both object pronouns are used together the indirect object pronoun comes before the direct object pronoun. If "le/les" comes before "lo/la/los/las," "le/les" changes to se (*Se lo di* instead of *Le lo di*).
+Remember, little words like *me or te* generally come before the verb, like in *Me llamo Duo.
 
 [[#Table of Contents]]
 ## Direct Object Pronouns 
@@ -281,7 +346,7 @@ Direct object placement follows the following rules:
 - Attached to a gerund (ing word): comiendo (eating) becomes comiendola (eating it)
 - Attached to an affirmative command: hazlo (Do it) or hágalo ([you (formal:usted)]do it)
 - Before a conjugated verb: put the pronoun before the verb: lo hago (I do it) Él los quiere ver (He wants to see it)
-Don't use a direct object pronoun with a preposition. DO NOT do this: 
+Don't use a direct object pronoun with a preposition. **DO NOT do this**: 
 ~~para la~~ - for it/him
 ~~sobre la~~ - about it/her
 ~~en las~~ - in them
@@ -290,7 +355,7 @@ See https://www.spanishdict.com/guide/direct-object-pronouns-in-spanish
 
 ### it and them
 Often used as direct object pronouns when *it* and *them* refer to objects 
-### it
+#### it
 lo - a masculine object 
 la - a feminine object 
 lo/la tengo - I have it (lo or la depending on what gender *it* is)
@@ -375,19 +440,33 @@ nosotros - nos
 vosotros - os
 ellos/ellas/ustedes - se
 
+### Reflexive verbs
+- ducharse - shower oneself  
+- lavarse - wash oneself
+- vestirse - get dressed 
+- maquillarse - put on makeup 
+- peinarse - comb oneself
+- cepillarse - brush (teeth or hair)
+- acostarse - go to bed 
+- despertarse  - wake up
+- levantarse - get up (from reclining)
+- enfadarse - get angry 
+- llamarse - call oneself
+
 See https://www.spanishdict.com/guide/reflexive-verbs-and-reflexive-pronouns
 
 [[#Table of Contents]]
-## Possesive pronouns (singular/plural)
-### Used before the object/noun
+## Possessive pronouns (singular/plural)
+
+***Note: possessive pronouns always agree in gender and number (singular/plural) to the noun they refer to.***
+### Used before the object/noun 
 yo - mi/mis - my (sing/pl)
 tú - tu/tus - your (sing/pl) (LA)
-- vuestro(a)/vuestros(as) - ES
+- vuestro(a)/vuestros(as) - ES pl
 el/ella/usted - su/sus - his/her (sing/pl)
 ellos/ellas/ustedes - su/sus - their
 nosotros - nuestro/nuestros - our
-
-### Used after the object/noun
+### Possessives used after the object/noun
 yo - mio/mia,míos/mías - mine
 tú - tuyo(os)/tuya(as) - yours
 el/ella - suyo(os)/suya(as)* - his/hers
@@ -398,7 +477,7 @@ vosotros(ES) - vuestro(os)/vuestra(as)
 \* suyo/suya is often ambiguous, so in that case it can  be used with 'de' to identify the particular object/person doing the possession 
 Also see [[#Relationships]]
 
-Stressed possessive pronouns can also come straight after the noun. In this case you emphasize things and people which belong to a group.
+**Stressed possessive pronouns can also come straight after the noun. In this case you emphasize things and people which belong to a group.**
 
 ***Una amiga mía habla muy bien inglés.***
 A friend of mine speaks very good English.
@@ -406,7 +485,7 @@ A friend of mine speaks very good English.
 ***¡Esos discos tuyos de rock son viejísimos!***
 These rock records of yours are ancient!
 
-You can use the definite article el, la, los, las before a stressed possessive pronoun in the place of a noun, provided that the noun has already been mentioned.
+**You can use the definite article el, la, los, las before a stressed possessive pronoun in the place of a noun, provided that the noun has already been mentioned.**
 
 ***Esta es tu cartera. La mía está en casa.***
 That's your wallet. Mine (lit. The mine) is at home.!
@@ -414,6 +493,7 @@ That's your wallet. Mine (lit. The mine) is at home.!
 ***Me gustan estos cuadros, pero los tuyos son más bonitos.***
 I like these pictures, but yours (lit. the yours) are nicer.
 
+[[#Table of Contents]]
 # Vosotros 
 
 **In Spain, *Vosotros* is an informal 'you all'
@@ -438,7 +518,7 @@ See [[https://blog.duolingo.com/what-is-spanish-vosotros/]]
 See [[https://youtu.be/CO0VKeEawtc?si=KUaFu-u2MWnilmzE]]
 
 [[#Table of Contents]]
-## this/these, that/those
+# this/these, that/those
 #### Used to indicate distance to an object 
 this - esta (fem) este (masc)
  - closest object
@@ -455,6 +535,74 @@ Pneumonic: **THIS AND THESE HAVE Ts**
 
 [[#Table of Contents]]
 
+# Expressing that something still hasn't happened, just happened and keeps happening 
+
+## Still hasn't happened
+
+**The formulation of *seguir sin***
+
+By using the irregular verb ***seguir (to continue, to follow) and sin (without) + the infinitive of a verb***, you express that something still hasn't been done.
+
+*Siguen sin resolver el problema.*
+They still haven't resolved (lit. continue without resolving) the problem.
+
+*Sigo sin pagar el recibo de teléfono.*
+I still haven't paid (lit. continue without paying) the telephone bill.
+
+Also see: [[Spanish Verbs#seguir - to continue, to follow]]
+## Just happened or finished 
+
+**The formulation of *acabar de***
+
+You use acabar de + the infinitive of a verb to express that something has just been done.
+
+*Pedro acaba de desayunar.*
+Pedro has just had breakfast.
+
+It is ***often used to say if something is finished or not.***
+
+*Todavía no he acabado de limpiar.*
+I still haven't finished cleaning.
+
+*¿Cuándo acabas de cocinar?*
+When will you finish cooking?
+
+Also see: [[Spanish Verbs#acabar - to finish, end, complete]]
+***Note:*** acabar is a regular verb
+
+## Keeps happening repeatedly 
+
+**The formulation of *volver a***
+
+You use volver a + the infinitive of a verb for something that ***keeps happening or for an activity that happens again***. Volver literally means to return.
+
+*Volvemos a ver la película.*
+We are seeing the film again.
+
+*Vuelven a arrojar basura.*
+They keep throwing trash out.
+
+[[#Table of Contents]]
+
+# Conditional sentences 
+### The sequence of tenses in real conditional clauses (si-clauses)
+
+Conditional sentences always have a fixed sequence of tenses.
+
+The first verb in the sentence with Si is in the present tense. In the next sentence after the comma, the second verb is in the present tense or alternatively in the future. There can also be conditional sentences that start in the future and end in the past too.
+
+*Si tienes 18 años, ya eres mayor de edad.*
+If you are 18 years old, you are already of legal age.
+
+*Si estudias mucho, aprobarás el examen.*
+If you study a lot, you will pass the exam.
+
+The compound future tense with ir a + the infinitive is also possible.
+
+*Si estudias mucho, vas a aprobar el examen.*
+If you study a lot, you're going to pass the exam.
+
+[[#Table of Contents]]
 # Relationships
 la madre - the mother 
 el padre - the father 
@@ -494,7 +642,72 @@ la reunión - meeting
 la cita - date (going out)
 el beso - kiss
 
-Also see [[#Possesive pronouns (singular/plural)]]
+Also see [[#Possesive pronouns (singular/plural)]]]
+
+## Nationality 
+US American - estadounidense 
+Spaniard - español(a)
+Mexican - mexicano(a)
+English - inglés(a)
+French - frances(a)
+Italian - italiano(a)
+Chinese - chino(a)
+
+[[#Table of Contents]]
+# Small and cute - los diminutivos
+
+## The diminutive with -ito
+
+***The ending -ito is added to nouns, adjectives and adverbs to form the diminutive in Spanish***. This makes everyday Spanish alive and expressive.
+
+*Espera un momentito.*
+Wait a second (lit. a little moment).
+
+*Ella tiene un perro pequeñito.*
+She has a tiny (lit. very small) dog.
+
+*La niña corre rapidito.*
+The girl runs quite fast.
+
+***Just as with the adjectives, the form of the ending agrees with the noun in gender and number. The masculine singular ending is -ito, the feminine is -ita. In the plural you add an -s to those endings.***
+
+*Mi casa es pequeñita, pero hermosa.*
+My house is quite small, but pretty.
+
+*Manuelito juega con sus primitos y primitas.*
+Little Manuel plays with his little cousins 
+
+## Forming the diminutive
+
+***If the word ends with a consonant then -ito is usually added.***
+
+*El hámster es un animalito pequeño. (el animal)*
+The hamster is a little animal.
+
+***With words ending with -o or -a the -ito replaces these endings.***
+
+*Nuestra abuelita se llama Rosalía. (la abuela)*
+Our little granny is called Rosalía.
+
+*Mis hermanitos tienen 5 y 3 años. (el hermano)*
+My little brothers are 5 and 3 years old.
+
+## More about the diminutive
+
+***With words ending with -e, -r, or -n, -ito isn't added, but instead -cito.***
+
+¿Te preparo un cafecito? (el café)
+Shall I make a little coffee for you?
+
+Mi amorcito, ¡cuánto te quiero! (el amor)
+My little darling, how much I love you!
+
+Quiero comprar un pantaloncito rojo para el bebé. (el pantalón)
+I would like to buy a little red pair of pants for the baby.
+
+***If the word has a z before the ending, then the z is dropped and -cito is used:***
+taza -> tacita (small cup)
+pedazo -> pedacito (small slice)
 
 [[#Table of Contents]]
 
@@ -524,6 +737,7 @@ ordenador - computer
 - computadora 
 ordenador portátil - laptop 
 - portátil - laptop 
+- la pantalla - screen
 cargador - charger
 aplicación - app
 un línea - online
@@ -533,24 +747,133 @@ correo electrónico - email
 texto del mensaje - text message
 enviar un mensaje - send a text
 borrar - to delete 
+archivos - files
 
 [[#Table of Contents]]
+
+# Soccer (fútbol)
+Names can be different in different Spanish speaking countries 
+
+Home game - partido de casa 
+Away game - partido fuera de casa 
+## Field Positions
+Goalie
+- el portero - defends the *porteria*
+- el arquero - defends the *arco* (arch)
+- el guardamenta - translates to goalkeeper
+- el goleador (ES)
+Defenders (defensas or defensores)
+- defensas centrales - central defenderse
+- laterales o carrileros - outside defenders or fullbacks 
+- carrilero - wingbacka
+Midfielders (mediocampistas/volantesi)
+- medio de contención - defensive midfielder
+  - pevote
+  - mediocampista defensivo
+- medio creativo - offensive midfielder (el diez)
+  - mediocampista central 
+Forwards (delanteros)
+- delantero centro, ariete - central forward, striker
+- extremo, puntero o interior - wingers
+Substitute players
+- el sublimente
+- los reservas
+- el suplente (ES)
+- el banquillo - the bench 
+## Plays
+game tactics - las tácticas de juego 
+kick off - saque inicial 
+corner kick - saque de esquina o sacar de córner
+free kick - toro libre 
+center the ball - centrar el balón 
+pass the ball - pasar el balón 
+- make a pass - hacer un pase 
+tackle - derribar
+shoot - tirar o lanzar o chitat
+- shoot a goal - meter un gol
+aimed at the goal - apuntó al arco
+header - rematar de cabeza
+throw in - saque lateral o saque de banda
+goal kick - saque de puerta 
+penalty - penalti 
+score a goal - marca un gol
+- hacer un gol 
+equalizer goal - gold de empate 
+tie the game - empatar el partido 
+tie, draw - empate
+win the game - ganar el partido 
+lose the game - perder el partido 
+offsides - fuera de juego 
+to be on the bench - estar en el banquillo 
+Score a goal - meter un gol
+
+first half - el primer tiempo
+half-time - descanso o medio tiempo 
+second half - segundo tiempo 
+additional/injury time - tiempo adicional
+extra/over time - prórroga
+## Field layout 
+Stadium - estadio 
+Pitch - campo
+Goal (la portería (ES) o el arco)
+- la red - net
+- los postes o los palos - goalposts
+- el vaquero o el travesaño - crossbar
+Goal box - àrea chica o àrea de meta
+Penalty area or 16 yard box - àrea grande o àrea de penal (ES)
+Corner - el toro de esquina o el área de esquina (ES)
++ corner flag - banderín
+Midfield line - la línea de medio campo
+- central circle - el circulo central 
+Sidelines - la línea de banda o la línea lateral  
+Goaline - la línea de meta
+## Non-playing positions
+Referee - el árbitro 
+- first warning - advertencia 
+- yellow card - la tarjeta amarilla 
+- red card - la tarjeta roja 
+- signal a foul - señalar una falta 
+- sending off - expulsión 
+- expell from the game - expulsar del partido 
+Offsides referee, linesman
+- juez de línea 
+- abanderado 
+Coach - el entrenador
+Trainer 
+- preparador físico
+- detector téchnico
+Fan - hincha, afición, fan o fanático 
+## Fútbol equipment 
+Ball - la pelota o el balón  
+Whistle - el silbato, pitar
+Fútbol shoes - los botines o las zapatillas 
+Studs/cleats - los tacos o los taquetes
+Shin guards - las espinilleras o las canilleras
+Jersey - la camiseta o el jersey 
+Shorts - los pantalones cortos 
+Goalkeeper gloves - los guantes del portero 
+
+[[#Table of Contents]]
+
 # Body parts (partes del cuerpo)
 ## Face (la cara)
 la mente - mind
 el rostro - face (ES)
 la cabeza - head
 - dolor de cabeza - headache 
-el cuello - neck
+el cuello - neck, throat 
 la boca - mouth 
 - los labios - lips
+- voz - voice
 la carrillera - cheek
 la sonrisa - smile
+- sonreir - to smile (irregular)
 el ojo - eye
 - los lentes - glasses
 - llorar - to cry
 la oreja - the (outer) ear
 - el oido - inner ear 
+- el tímpano - eardrum 
 - los pendientes - earrings
 - oìr (irregular) - to hear 
 - el ruido - noise 
@@ -565,6 +888,7 @@ el cabello - hair (caballo - horse)
 - pelo (ES)
 la barba - beard 
 la garganta - throat 
+- garganta irritada - sore throat 
 - tos - cough
 el cuello - neck
 ## Body (el cuerpo)
@@ -583,21 +907,27 @@ la espalda - back
 ventresca - belly
 blood - sangre
 la rodilla - knee
+el culo - ass
+entrenar - to train, work outq
+
 
 ## Organs (los órganos)
-el corazsón - heart
+el corazón - heart
 el estómago - stomach
 
 ## Sickness and Injury 
 enfermo(a) - sick/ill
+te ves muy mal - You look really bad 
 tos - cough
 - Tango tos - I have a cough 
 la nariz congestionada - stuffed nose 
 dolor de cabeza - headache 
 el resfriado - the cold 
 la gripe - flu
+el accidente - accident
 doler - to hurt (irregular: [[Spanish Verbs#doler - to hurt]])
 - el dolor - the pain  
+- dolorosa - painful  
   - dolor de cabeza - headache 
 el médico - doctor
 - Doctor (Dr.) - male doctor (Dr.)
@@ -610,7 +940,9 @@ cuidar - to take care of
 la pastilla - pill
 la aspirina - aspirin
 el accidente - accident
-
+cuidar - to take care of (regular verb)
+cigarillos - cigarettes 
+- Fumar no es bueno para la salud. - Smoking is not good for your health.
 
 [[#Table of Contents]]
 # Bedtime activities 
@@ -630,6 +962,9 @@ happy - feliz
 sad - triste
 tired - cansado(a) 
 - descansado(a) - rested
+restless - inquieto(a)
+patient - paciente 
+timid, shy - tímidos 
 worried - preocupado(a)
 afraid - miedo(a)
 nervous - nervioso(a)
@@ -662,6 +997,9 @@ desanimado(a) - discouraged
 pena - shame
 - es una pena - it's a shame
 parece - seems (think)
+sonrojarse - to blush (regular)
+agotado(a) - exhausted 
+vago(a) - lazy 
 
 [[#Table of Contents]]
 ## Verbs used when expressing feelings 
@@ -747,6 +1085,7 @@ pescado/pez - fish
 el pulpo - octopus 
 el camarón - shrimp 
 - la gamba - shrimp (ES)
+el cangrejo - crab
 boquerones - anchovies 
 vieiras - scallops 
 - zamburiñas (ES)
@@ -810,17 +1149,18 @@ la uva - grape
 el arándano - blueberry 
 el albaricoque - apricot 
 la piña - pineapple 
-el limón - lemon
+el limón - lemon 
 - lime in some LA countries (lima=lemon)
 - limonada - lemonade
 la lima - lime
 - la cal
 la fresa - strawberry 
+la frambuesa - raspberry
 la cereza - cherry
 - la guinda 
-
-[[#Table of Contents]]
-
+la sandía - watermelon 
+ 
+[[#Table of Contents]] 
 ### Snacks
 los cacahuetes - peanuts
 las almendras - almonds
@@ -835,11 +1175,13 @@ refrigerator - refrigerador
 butter - mantequilla 
 oil - el aceite 
 parsley - el perejil
-
-
 fried - frito
 grilled/roasted - asado(a)
-
+#### Cooking-related verbs
+cortar - to cut
+mezclar - to mix
+echar - to pour
+#### Kitchen utensils 
 knife - cuchillo 
 fork - tenedor 
 spoon - cuchara 
@@ -969,6 +1311,9 @@ What do you recommend?
 
 What's a typical dish here?
 ¿Qué es lo más típico de aquí?
+
+I want to order something typical of the locale.
+Quiero pedir algo típico del lugar.
 
 What is the special of the day?
 ¿Qual es el especial del día?
@@ -1118,6 +1463,8 @@ tren - train
 - tren de alta velocidad - high-speed train 
 avión - airplane 
 - aeropuerto - airport 
+- la azafata - stewardess 
+- el auxiliar de vuelo - flight attendant 
 taxi - taxi
 hotel - hotel
 - habitación de hotel - hotel room 
@@ -1134,15 +1481,6 @@ retirar - to withdraw
 el crédito - loan
 la tarjeta de crédito - credit card 
 
-## Weather
-soleado(a) - sunny 
-clima caluroso - hot weather 
-clima 
-nublado(a) - cloudy
-lluvioso(a) - rainy
-- llover - to rain 
-tiempo nevado - snowy weather 
-aguacero - downpour/rainstorm 
 
 [[#Table of Contents]]
 # Home related 
@@ -1164,6 +1502,7 @@ aguacero - downpour/rainstorm
 - el piso - floor, apartment 
 - los muebles - the furniture(pl)
 - el sillón - arm chair
+  - la silla - the chair
 - la ventana - window
   - la cortina - curtain 
 - la aspiradora - vacuum 
@@ -1186,6 +1525,9 @@ aguacero - downpour/rainstorm
 - luminoso/oscuro - light/dark 
 - cómodo/incómodo - comfortable/uncomfortable 
  - compañera de cuarto - roommate 
+ - el césped - grass/lawn
+ - el patio - backyard 
+ - los vecinos - neighbors 
 ## Kitchen 
 - la cocina - kitchen
 - la nevera - refrigerator 
@@ -1201,6 +1543,7 @@ aguacero - downpour/rainstorm
 - el comedor - dining room 
 - la parrilla - grill
 - la vajilla - dishes 
+- el tazon - mug
 - la basura - trash
   - saca
   - la basura - take out the trash 
@@ -1244,27 +1587,24 @@ el cargador - charger
 - al lado de.... next to 
   - junto (ES)
 - cerca de ... close to or nearby 
+  - más cercano(a) ... nearest to
 - lejos de... far from 
-- más cercano(a) ... nearest to
 - delante de ...in front of 
 - encima de ... on top of
 - debajo de ... underneath 
 - adentro de ... inside 
   - dendro ... inside 
-- más cercano(a) ... nearest/closest 
-- por aquí ... around here 
-- desde aquí ... from here 
 - enfrente ... in front or across 
 - delante ... in front of 
 - detrás ... behind or after
 - atrás ... in (the) back
 - entre ... between or through 
 - afuera - out or outside (on the outskirts)
-- abajo - downstairs 
-- arriba - upstairs 
- 
-- la parada del autobús ... the bus stop 
-(use del when noting the location of a masculine word)
+- abajo - down, downstairs 
+- arriba - up, upstairs 
+
+- por aquí ... around here 
+- desde aquí ... from here 
 ## Directions 
 dirección - address 
 izquierda - left 
@@ -1274,12 +1614,16 @@ giras a la izquierda - you turn left
 donde giro - where do I turn? 
 - girar - to turn
 seguir - to continue (on a road or street)
-- [[Spanish Verbs#seguir - to continue on]]
+- [[Spanish Verbs#seguir - to continue, to follow]]
+- [[#Still hasn't happened]]
 alrededor - around or about 
 mejor sigue ... better continue
 calle - Street
 - calle principal - main street 
 carretera - highway 
+la parada del autobús ... the bus stop 
+- use del when noting the location of a masculine word
+desde aquí ... from here
 
 Aquí o ahi - Here or there 
 ahí - there 
@@ -1289,13 +1633,12 @@ allá - there (or over there)
 tomar - to take (train, bus)
 buscando - to look or search for 
 encontrar - to find
-sitio - place
+sitio, lugar - place
 paso de peatones - crosswalk 
 iglesia - church 
 
 
 [[#Table of Contents]]
-
 
 ### Travel related 
 pasta de dientes - toothpaste 
@@ -1305,12 +1648,29 @@ peligro - danger
 paso de peatones - crosswalk
 salida de emergencia - emergency exit
 
-
 ### Compass points 
 el norte - north
 el sur - south 
 el este - east
 el oeste - west
+
+[[#Table of Contents]]
+
+## Animals (animales)
+el perro - dog
+el gato - cat
+- la gata - female cat
+el cabello - horse 
+cerdo(a) - pig
+la vaca - cow
+- toro - bull
+el pollo - chicken 
+el conejo - rabbit 
+el mamífero - mammal
+el pájaro - bird
+el oso - bear
+el insecto - insect
+el dinosaurio - dinosaur
 
 [[#Table of Contents]]
 ## el vs él
@@ -1349,6 +1709,7 @@ hace media hora - half an hour ago
 mediodia - noon
 medianoche - midnight 
 hace mucho tiempo - long time ago 
+hace un rato - a while ago 
 jamás - never
 ahora mismo - right now 
 tanto tiempo - so much time 
@@ -1359,6 +1720,19 @@ dos veces por semana - twice a week
 cara quince días - every fifteen days 
 el años pasado - last year 
 el mes pasado - last month 
+seminal - each/every week, weekly 
+está semana - this week 
+la semana pasada - last week 
+la próxima semana - next week 
+el próximo mes - next month 
+el mes que viene  - next month (the month that is coming)
+hoy mismo - today, this very day 
+mañana mismo - the first thing tomorrow 
+ahora mismo - right now 
+aquí mismo - right here 
+antier - The day before yesterday
+anoche - last night 
+cada tercer dia - every other day
 
 [[#Table of Contents]]
 ## Telling time
@@ -1370,9 +1744,11 @@ las "number" en la tarde - "number" in the afternoon
 abrir (command: abre; formal: abra) - open
 cerrar (command: cierre; formal: cierra) - close
 
-## Using *desde* and *desde hace* with time 
+## Using *desde* and *desde hace* and *hace* to talk about time 
 
-***Desde hace*** refers to something that began in the past and is **translated as for.** It is used to describe a period of time.
+### desde hace (for \<a time period\>) 
+
+***Desde hace*** refers to something that began in the past and is **translated as for.** It is ***used to describe a period of time.***
 
 *Desde hace dos semanas estoy mejor.*
 I have been better for two weeks.
@@ -1380,7 +1756,10 @@ I have been better for two weeks.
 *No voy al médico desde hace cuatro meses.*
 I haven't gone to the doctor for four months.
 
-A specific point in time in the past is indicated by the word ***desde*** **(since)**:
+**Expression:** ***Desde hace \<time period\> \<action or behavior\>***
+### desde (since)
+
+A specific point in time in the past is indicated by the word desde (since):
 
 *No fumo desde el año pasado.*
 I haven't smoked since last year.
@@ -1388,9 +1767,9 @@ I haven't smoked since last year.
 *Desde el sábado estoy enfermo.*
 I've been ill since Saturday.
 
-How to talk about time with hace
+### hace (ago)
 
-**Hace by itself functions a bit like the English word ago. It describes completed actions in the past.**
+***Hace*** by itself functions a bit like the English word ago. It ***describes completed actions in the past.***
 
 *Hace dos semanas fui al gimnasio*.
 I went to the gym two weeks ago.
@@ -1424,6 +1803,29 @@ Amo a México. – I love Mexico.
 For more details see: https://www.spani
 
 [[#Table of Contents]]
+
+## Use ir + a + the infinitive to talk about plans
+
+***To talk about what you plan to do in the near future in Spanish, you use the verb ir + a + an infinitive verb***. This is the equivalent of going to in English.
+
+*Este fin de semana vamos a viajar a Barcelona.*
+This weekend we're going to travel to Barcelona.
+
+*¿Qué vas a hacer el viernes?*
+What are you going to do on Friday?
+
+***You can also use ir + a to talk about the distant future if you've made firm plans to do something.***
+
+*Él va a visitar a sus padres el próximo verano.*
+He's going to visit his parents next summer.
+
+***Note that you can use it + a with the infinative ir:***
+
+*Voy a ir a la fiesta.*
+I'm going to go to the party
+
+[[#Table of Contents]]
+
 # Commands 
 Drop the -s from the normal tú verb form to tell someone what to do. There are a few exceptions including:
 - haga for [[Spanish Verbs#hacer - to make/to do/to ask]]
@@ -1433,11 +1835,81 @@ Drop the -s from the normal tú verb form to tell someone what to do. There are 
 
 In formal situations, you do things a little differently. You swap out the normal usted vowel ending. Basically, if there's normally an -e, use an -a. And if there's usually an -a, it'll turn into an -e!
 
+## The Imperative: regular verbs with-ar
+
+The Imperative is used to ask someone something directly or to give an instruction or command. If you are on familiar terms with someone, you simply use the 3rd person singular form of the verb.
+
+*Jordi no canta bien, canta tú.*
+Jordi doesn't sing well. You sing!
+
+If you are addressing a group of people you know well, the ending -ad is added to the stem of the verb.
+
+*No podéis jugar aquí. Jugad en el parque.*
+You can't play here. Play in the park!
+
+In Latin America you use the form ustedes (you), e.g. *Jueguen en el parque* (Play in the park). Here we will be concentrating on the forms with -ad which is used in Spain.
+
+Jorai aoesn't sing well. You sing!
+
+If you address more than one person and include yourself, you use the ending -emos.
+
+*Ellos no saben cómto limpiar, limpiemos la casa.*
+They don't know how to clean. Let's clean the house.
+
+## The Imperative: regular verbs with -er
+
+If you are familiar with someone, then you use the 3rd person singular of the verb.
+
+*Lee ese libro, es muy bueno. (leer)*
+Read this book, it's very good.
+
+If you are addressing a group of people you know well, then the ending -ed is added to the verb stem.
+
+*Niños, comed el pescado, jes muy saludable! (comer)*
+Children, eat (your) fish, it's very healthy!
+
+If you are addressing a group of people and include yourself, then the ending -amos is used.
+
+*Vamos a llegar tarde, ¡corramos! (correr)*
+We're going to arrive late, let's run!
+
+## The Imperative: regular verbs with -ir
+
+The endings of the regular verbs with -ir are the same as those for verbs with -er.
+
+*Vive saludablemente, te hace bien.* 
+Live healthily, that will do you good.
+
+*Abramos las ventanas para que entre aire fresco.* 
+Let's open the window, to let fresh air in.
+
+If you address a group of people you are familiar with, the ending -id is added to the stem.
+
+*Para llegar a mi casa, subid al autobús número 14.* 
+To get to my house, get on (the) bus number 14.
+
 [[#Table of Contents]]
 
 # Noun gender tips
-1. Masculine (97%): nouns ending in L, O, N, E, R & S
-2. Feminine (98%): Nouns ending in D, ión, ez, ed, Z and A
+### Masculine 
+- (97%): nouns ending in L, O, N, E, R & S
+#### Common  masculine noun endings
+- -aje
+- -án, -er, -or
+- -ate, -ete, -ote
+- -és
+- -miento
+### Feminine 
+- (98%): Nouns ending in D, ión, ez, ed, Z and A
+#### Common feminine noun endings
+- -ción, -sión, -zón
+- dad
+- -ed
+- -ez, -eza
+- -ia, -ie
+- -ncia
+- -tud
+
 - la canción - the song 
 - la estación - the station 
 
@@ -1499,34 +1971,74 @@ el esquema - The scheme
 
 Refers to something looking backwards 
 ### Duration - how long to do something 
-- Camino para veintiocho minutos (I walk for 28 minutes)
+- *Camino por veintiocho minutos* (I walk for 28 minutes)
+- Por la noche veo la tele   (At night, I watch TV)
 ### Motivation - why someone is doing something  (cause or reason)
--  Lol voy hacer por ti (I'll do it for you)
-- No fuimos al parque por la lluvia. (We didn't go to the park because of the rain)
-- Las tiendas cerraron temprano por la tormenta. (The stores closed early because of the storm)
+-  *Lol voy hacer por ti* (I'll do it for you)
+- *No fuimos al parque por la lluvia.* (We didn't go to the park because of the rain)
+- *Las tiendas cerraron temprano por la tormenta*. (The stores closed early because of the storm)
 ### Exchange - trading one thing for another 
-- Te doy tres dólares por dos botellas de agua 
+- *Te doy tres dólares por dos botellas de agua* (I'll give you three dollars for two bottles of water)
+- *Tomé un café en Starbucks por 5 euros*. (I had a coffee at Starbucks for 5 euros)
 ### Mode of travel and/or communication 
-- Me habló por celular (He talked to me by cell phone)
-- Pasamos por el rio (We passed by the river)
+- *Me habló por celular* (He talked to me by cell phone)
+- *Pasamos por el rio* (We passed by the river)
+### Set phrases or idiomatic expressions
+- *por supuesto* - of course 
+- *por cierto* - by the way 
+- *por los menos* - at least 
+- *por Dios* - for God's sake 
+- *por lo que yo sé* - as far as I know 
+- *por completo* - completely 
+- *por si acaso* - just in case 
+### Summary: the preposition por
 
+***Por***, on the other hand, is used ***to emphasize reasons, prices and time***.
+
+Por tu demora vamos a llegar tarde.
+Because of your delay we are going to arrive late.
+
+*Lo compraron por poco dinero.*
+They bought it for little money.
+
+*¿No ves televisión por la mañana?*
+You don't watch television in the morning?
+
+***Also, por can indicate how/by which means something is done.***
+
+*Te llamé por teléfono.*
+mI called you on the telephone.
 ## *para*
 
 Refers to something moving forward, in the future or recipients
 ### Destination - going somewhere 
-- Voy para el museo (I'm going to the museum)
-- Estoy saliendo para allá. (I'm leaving for there)
+- *Voy para el museo* (I'm going to the museum)
+- *Estoy saliendo para allá*. (I'm leaving for there)
 ### Goals - achieving something (...in order to...)
-- Estoy llamando para hablar contigo (I'm calling to talk to you)
-- Estoy lavando el coche para ir a dar una vuelta. (I'm washing the car in order to go for a ride)
-- Es un buen libro para aprender español. (It's a good book in order to learn/for learning Spanish)
-- Es una máquina para hacer queso.  (It's a machine for making cheese)
+- *Estoy llamando para hablar contigo* (I'm calling to talk to you)
+- *Estoy lavando el coche para ir a dar una vuelta*. (I'm washing the car in order to go for a ride)
+- *Es un buen libro para aprender español.* (It's a good book in order to learn/for learning Spanish)
+- *Es una máquina para hacer queso*.  (It's a machine for making cheese)
 ### Recipients - giving to somebody
-- La comida es para tu madre
+- *La comida es para tu madre* (The food is for your mother)
 - Yo traigo la manzana para ti (I bring the apple for you)
 ### Deadline - do something by a date 
-- Necesito el dinero para lunes. (I need the money for Monday)
+- *Necesito el dinero para lunes*. (I need the money for Monday)
 
+### Summary: the preposition para
+
+***To emphasize a goal, a recipient or a destination***, you use the preposition ***para.***
+
+Necesito gafas para ver mejor.
+I need glasses to see better.
+
+*Esto es para tu hermana.*
+This is for your sister.
+
+*Vamos para Madrid.* 
+We're going to Madrid.
+
+[[#Table of Contents]]
 # al versus del
 Both al and del are Spanish contractions of definite articles and prepositions. The difference between these words is that 
 - **del is used to talk about possession or the origin of an object or person**. 
@@ -1590,26 +2102,33 @@ bueno - modifies noun (good)
 # Weather
 
 ## Vocabulary
- 
-hot - calor
-caluroso - hot (type of weather)
-cold - frio
-rain - lluvia
-to rain - llover
-it rains... - llueve...
-raining - lloviendo 
-snow - nieve 
-* ski - el esquí
+
+el clima/el tiempo - weather
+- ¿Como está el tiempo? - How's the weather?
+la temperatura - temperature  
+- el termómetro - thermometer 
+soleado(a) - sunny 
+el calor - hot/heat
+- clima caluroso - hot weather 
+el frio - cold
+- clima frío - cold weather 
+wind - el viento 
+- windy - ventoso
+nublado(a) - cloudy
+oscuro - dark
+el nubarró - storm clouds
+la lluvia - rain
+- to rain - llover
+- it rains... - llueve...
+- raining - lloviendo 
+- lluvioso(a) - rainy
+- aguacero - downpour/rainstorm
+la nieve - snow
+- to snow - nevar
+- snowing - nevando
+- tiempo nevado - snowy weather
+el esqui - ski
 * I like to ski - me gusta esquiar
-to snow - nevar
-snowing - nevando
-cloudy - nublado
-dark - oscuro 
-wind - viento 
-windy - ventoso
-temperature - temperatura 
-thermometer - termómetro
-weather - clima
 ## Phrases 
 #### Use hace for impersonal statements about the weather 
 How is the weather today?
@@ -1642,7 +2161,6 @@ amarillo - yellow
 marrón - brown
 negro - black
 blanco - white 
- 
 
 # Months (meses)
 January - Enero
@@ -1707,6 +2225,8 @@ Winter - invierno
 90 noventa 
 100 cien
 101 ciento uno
+135 ciento treinta y cinco
+169 ciento sesenta y nueve
 200 doscientos 
 201 doscientos uno
 250 doscientos cincuenta
@@ -1719,7 +2239,7 @@ Winter - invierno
 800 ochocientos 
 900 novecientos
 1000 mil
-1000000 millón
+1000000 un millón
 2000000 dos millones
 ## Ordinals (Rank)
 first - primero(a) 
@@ -1736,17 +2256,22 @@ After 10, the actual numbers are used for the ordinal (e.g. *la once día* = the
 
 last - último(a)
 
-Ordinal numbers, like adjectives, agree with the nouns that they describe. In singular the masculine ending is usually -o, and the feminine ending is -a.
+***Ordinal numbers, like adjectives, agree with the nouns that they describe. In singular the masculine ending is usually -o, and the feminine ending is -a.***
 
 *Me gusta la primera canción de su segundo disco.*
 I like the first song of his second record.
 
-An exception to the rule are the masculine singular forms of primero (first) and tercero (third), which drop the -o before the noun.
+***An exception to the rule are the masculine singular forms of primero (first) and tercero (third), which drop the -o before the noun.***
 
 *Prefiero el primer al tercer disco.*
 I prefer the first to the third record.
 
-The plural ending has -os with masculine nouns and -as with feminine nouns.
+***In this case, the form tercero doesn't stand before a noun and therefore the o isn't omitted, unlike, e.g. el tercer disco (the third record).***
+
+*Mi primer hijo será médico, el tercero será cantante.*
+My first son will be a doctor, the third will be a singer.
+
+***The plural ending has -os with masculine nouns and -as with feminine nouns.***
 
 *Enero y febrero son los primeros meses del año.*
 January and February are the first months of the year.
@@ -1754,13 +2279,16 @@ January and February are the first months of the year.
 *Son las segundas vacaciones que paso en Sevilla.*
 These are the second vacations that I'm spending in Seville.
 
+***Unlike adjectives, ordinal numbers always come before the noun (if it is used with a noun).***
+
 [[#Table of Contents]]
 ## Years(años)/Dates(fechas)
 the year 1820 - el año mil ochocientos veinte
-(the year) 2000 - dos mil año  
 the year 1798 - el año mil setecientos noventa y ocho 
 1953 - mil novecientos cincuenta y tres 
-1949 - mil novecientos cuarenta y nueve 
+1949 - mil novecientos cuarenta y nueve
+2000 - dos mil año  
+2006 - el año dos mil seis
 2014 - el año dos mil catorce
 2024 - el año dos mil veinticuatro
 
@@ -1794,7 +2322,7 @@ o - oh but said softly with a round mouth like a soft 'no' in English (*no, solo
 u - oo as the two "o's" in 'boot' (*tu, su*)
 ## Consonants 
 b - see v below 
-c - sounds like k (*como*) when followed by A, O or U ('k' in 'bake'). If it is followed by the letters 'e' or 'i' then it sounds like 's' ('th' in Spain)(*hacer, cierra*). When c comes before a, o and u within a word, these consonants are pronounced the same as if it was at the beginning of a word.
+c - sounds like k (*como*) when followed by A, O or U ('k' in 'bake'). If it is followed by the letters 'e' or 'i' then it sounds like 's' ('th' in Spain)(*hacer, cierra*). When c comes before a, o and u within a word, these consonants arve pronounced the same as if it was at the beginning of a word.
 cc - is always followed by an 'i' or 'e' and sounds like an 'x' in taxi.
 d - somewhat like a soft 'th' with tongue resting on the front teeth (*donde, nada*) except after 'n' or 'l' or after a break (start of word) where the sound is a hard 'd' like the 'd' in English "den".
 g - a hard g sound like 'g' in 'go' (*agua, guapo*)(when before an A, O or U) When  before an 'e' or 'i' it sounds like a strong English 'h' (*página, gente*)
@@ -1818,7 +2346,7 @@ t - spoken crispy with no follow up breath as in English when followed by 'a', '
 *At the beginning of a word or after m or n, the b and v have a hard b sound. I'm all other cases, the b and v are pronounced softer than the English b.*
 v - sounds like a soft 'b' like in 'boy' and 'Ben'.
 x - sounds like an 'x' in taxi except when used for a name where it sounds like an 'h' (México).
-y - sounds like Spanish 'i' if at the end of a word(*hoy, muy*)
+y - sounds like Spanish 'i' if at the end of a word(*hoy, muy*). At other times it sounds like a soft 'j' as in the English 'jet'. The pronunciation can have varied regional differences. In Argentina and Uruguay, it sounds like an 's' in measure.
 z - sounds like 's' in English (*diez*). In Spain it is pronounced with a 'th' like the English word 'there' 
 ll - sounds like y in English as in "yard" (*llama*)
 ñ - sounds like 'ny' the N in onion (*mañana, señor*)
@@ -1924,6 +2452,9 @@ What's going on? (What happens?)
 What happened?
 ¿Qué pasó?
 
+Take a look.
+Hecha un vistazo 
+
 How's it going?
 ¿Como te va? (informal)
 ¿Como le va? (formal)
@@ -1936,6 +2467,9 @@ What if...
 Qué tal si...
 Y si...
 Qué te parece si...
+
+Without a doubt
+Sin duda
 
 What do you think?
 ¿Qué te parece?
@@ -1960,6 +2494,10 @@ Tú también.
 
 Welcome 
 Bienvenido(a)
+
+[[#Table of Contents]]
+
+## Small talk
 
 I am Craig. What is your name?
 Me llamo Craig. ¿Cómo te llamas? 
@@ -2026,6 +2564,9 @@ Al otro lado de la calle hay un lago.
 Cómo está todo
 How is everything 
 
+¿Tienes una afición?
+Do you have a hobby?c
+
 ¡No me preguntes!
 Don't ask!
 
@@ -2057,9 +2598,7 @@ What are your plans for tomorrow?
 ¿Cuales son tus planes para mañana?
 
 Once in a while...
-De vez en cuando...
-
-[[#Table of Contents]]
+De vez en cuando...:
 
 The weather is nice 
 Hace buen tiempo 
@@ -2123,6 +2662,9 @@ Quisiera...
 
 OK/Okay
 está bien 
+
+Now that's... (That's what it is.)
+Eso sí que es...
 
 [[#Table of Contents]]
 
@@ -2191,6 +2733,10 @@ Of course!
 Wow!
 ¡Guau!
 
+Congratulations!
+¡Felicitaciones!
+¡Enhorabuena!
+
 ¡Por supuesto! ¡Qué alegría!
 Of course!: How great!
 
@@ -2210,8 +2756,14 @@ What a pity/shame!
 Your kidding me!
 ¡No me digas!
 
+Oh my!, Good heavens!
+¡Cielos!
+
 How wonderful!
 ¡Qué estupendo!
+
+It's true!
+¡Es cierto!
 
 No way!
 ¡De ninguna manera!
@@ -2229,6 +2781,20 @@ Congratulations!
 Glad to hear!
 ¡Me alegro!
 
+Alright!, okay! 
+¡De acuerdo!
+- When followed by *estar, de acuerdo* means "I agree"
+
+I wish!, Hopefully!
+¡Ojalá!
+
+What's wrong!, What's happening!
+¡Qué sucede!
+
+Now that's...!
+¡Eso sí que es...!
+- ¡jEso sí que es un buen café!
+
 See:  https://duome.eu/tips/en/es
 
 [[#Table of Contents]]
@@ -2244,6 +2810,8 @@ ahora mismo - right now
 no hay problema - no problem
 - no pasa nada (ES)
 ¡guàcala! - gross!
+quedar chico - used in phrases about outgrowing 
+seguir adelante - to move on, go ahead 
 
 ### Holiday Greetings 
 
@@ -2265,5 +2833,16 @@ Happy Easter!
 Happy Thanksgiving!
 ¡Feliz Día de Acción de Gracias!
 
+Happy birthday!
+¡Feliz cumpleaños!
+
 [[#Table of Contents]]
 
+
+# Spanish learning resources 
+
+## Preply
+tutors
+https://preply.com/en/online/spanish-tutors
+
+[[#Table of Contents]]

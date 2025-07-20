@@ -1,23 +1,13 @@
 ### Current Game
 
 PLATE
+CORNS
+FROSH
 
-XPTXE
-TXXPE
-XTPXE
-XTXPE
-TXPXE
+SXORX
+SXOXR
 
-TRIPE
-TROPE
-
-
-
- 
-
-
-
-
+U
 
 
 
@@ -372,6 +362,11 @@ FUDGY
 PAE not in order 
 CAPER
 
+PA in order 
+PRANK
+PIANO
+
+
 LAE not in order 
 REGAL
 RENAL
@@ -384,6 +379,10 @@ GLARE
 LAE with E in order 
 ANGLE
 SABLE
+
+LAE with A & E in order 
+SCALE
+SHALE
 
 LE both in order 
 CLOVE
@@ -498,6 +497,8 @@ POLIS
 
 PT not in order 
 TROMP
+TROOP
+SPURT
 
 T in order 
 SOFTY
@@ -535,7 +536,7 @@ SPEED
 SPIED
 
 PE in order 
-*PRONE
+\*PRONE
 PRICE
 
 ATE with A in 3rd place 
@@ -553,6 +554,9 @@ SWEPT
 
 PTE with TE in order 
 SPITE
+
+PTE with P&T in order 
+PETTY
 
 LATE with L in order 
 CLEAT

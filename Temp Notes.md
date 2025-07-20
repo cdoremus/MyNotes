@@ -1,3 +1,51 @@
+# Water Filter
+
+Viqua AWP40B-V
+made by Big Blue
+OR40-50 O-ring
+
+Viqua phone on label: 1-800-265-7246
+# Favorite movies of 2000's
+Interstellar 
+Silver Linings Playbook  
+Boyhood 
+Oppenheimer
+Good Night and Good Luck 
+Tinker Tailor Soldier Spy
+Woman in Gold
+Hidden Figures
+Spotlight 
+Moneyball
+
+Inception 
+The Martian 
+
+
+## Other Favs
+October Sky 
+The Big Lebowski
+Sense and Sensibility
+The Shawshank Redemption
+
+# Protest slogans 
+Dump the Chump Trump
+
+The King Must Go
+
+The USA IS NOT A Kingdom 
+
+Trump is a Don not a President
+
+USA == Democracy 
+Not a Kingdom 
+
+IMPEACH TRUMP (7
++5+1=13)
+DEPORT MUSK (6+4+1=11)
+
+DO(2)
+SOMETHING (9)
+DEMS (4)
 
 # Lynne 
 

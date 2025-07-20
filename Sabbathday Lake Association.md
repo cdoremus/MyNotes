@@ -5,7 +5,7 @@ Mike Cloutier - IPP
 Lauri Allen - web site 
 Cheryl Fortier - newsletter editor 
 Anne  - treasurer 
-Paula (Anne's sister) - social director 
+Paula (Anne's sister) - social director 712-6489
 Ruthie York - host of board meetings
 - 17 Braley Rd
 - secretary
@@ -59,8 +59,39 @@ BB
 
 August 10 - Shaker mill tour
 
+## SDLA Board Meeting 6/23/25
+- Catherine
+- Ruth
+- Paula
+- Lori 
+- Catherine 
+- Melissa 
+- Ann
+- Bill
+- Chris
+- Mike
+
+### Budget
+- approved 
+
+### 50th Party 
+
+
+### Newsletter 
+- Price of newsletter 
+  - extra time 
+  -  extra printing done
+  - price might be different next time 
+- Graphics person needed 
+- 
+### CBI Update 
+
+### Meeting planning (7/9/25)
+- Me - NGX press release 
+
 
 ## SDLA Board Meeting 8/8/24
+
 ### Members 
 - Bill - new
 - Catherine - new
@@ -175,37 +206,14 @@ Bill
 - Tom Johnson sent me an email in September detailing the early history of the SDLA. Will send to Chris 
 - Ice out records
 
-## 50th Anniversary Newsletter Issue Announcement 
+# Cost estimate for printing newsletter via online vendor
 
-This spring's issue of the Sabbathday Lake Association newsletter will focus on our 50th anniversary. With that in mind, we would like to see historical articles and photos from our members and anyone else having a history with the lake.
+The online quote for 12 page - full color saddle stitched (so more like a magazine) premium 32/80# text smooth, for 150 copies is $341.86 without the 15% off coupon.  Price would be less with different quality paper.   This would not be folded in half but mailed magazine style - which would be kind of cool for our 50th Anniversary Edition.
+We would also have to factor in approximately $40 for envelopes.  Mailing would cost more - first class flat is $1.22.per unit.  So $183 for mailing 150 units.
+Total for 150 mailed would be approximately $565.
 
-The articles should focus on the writer's personal history.  Some ideas along these lines include:
-- Your fond lake remembrances and/or funny stories.
-- A recollection of family members who inspired you to love the lake. 
-- A favorite or inspiring encounter with lake wildlife.
-- Memories of helping to monitor the lake for invasive plants or water quality.
 
-We're not looking for your memoirs, just an article of 3-6 paragraphs. If you're not the writerly type, just send us some notes (as bullet points) that we will turn into an article.
 
-Also solicited are photos of past times at the lake. These photos do not have to illustrate your article, just something that shows a fun time or fond lake remembrance. Make sure you identify people in the photos (in order). We can accept electronic copies, preferably of jpg format, or original photos that we can digitize and send back to you.
-
-Please send all items to newsletter editor Craig Doremus at cdoremus@gmail.com or 28 Black Point Road, New Gloucester 04260. Submission deadline is April 30th. If possible, please include your phone number just in case we need to contact you for further clarification. And if you have any questions, please contact Craig via email. Thank you.
-
-## Melissa True 50th article 
-
-### Multigenerational SDL recollections
-
-The families of Melissa (Thurston) and George True are multigenerational residents of Sabbathday Lake. Melissa remembers her grandmother fishing on the lake. "She really loved to fish," Melissa recalled from her lakeside residence built by her dad in 1946.
-
-People use to help each other out, she noted. Melissa remembers her dad helping a group erect a screen so the culvert under Outlet Road would not clog with debris. Her dad William Thurston - a founding member of the SDLA who recently passed away - lived next door to Melissa and George on Outlet Road.
-
-Her grandmother Gladys and grandfather Chas Errold Thurston families summered in adjacent lake cottages "The met here and fell in love", said Melissa. Her parents were also paired together at Sabbathday Lake as were Melissa and George.
-
-Melissa said her parents seem to know a lot of people around the lake. She described "float parties" that they used to have where they went from float to float at residences around the lake, stopping for refreshments along the way. "People just knew each other", she said.
-
-There were poker games, her dad told Melissa, where people would wager their lake "shacks" as collateral. Just think what that bet would be worth today! 
-
-foobar
 # Corrections to Winter spring newsletter 
 ### Chris Ricardi's article 
 - The last line in the first full paragraph in the second column contains "that we can be made". Just remove the "we" from that sentence.

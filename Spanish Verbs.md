@@ -10,18 +10,19 @@ vosotros
 ellos/ellas/ustedes 
 
 # Table of Contents 
+
 ## [[#Regular Verb Conjugations]]
 
 ### Present tense endings
 | Person              | -ar   | -er   | -ir   |
 | ------------------- | ----- | ----- | ----- |
-| yo                  | -o    | -o    | -í    |
+| yo                  | -o    | -o    | -o    |
 | tú                  | -as   | -es   | -es   |
 | él/ella/usted       | -a    | -e    | -e    |
 | nosotros            | -amos | -emos | -imos |
 | vosotros            | -áis  | -éis  | -ís   |
 | ellos/ellas/ustedes | -an   | -en   | -en   |
-
+ *Notice that most of the **present tense** endings for -er and -ir verbs are the same. **Only the nosotros and vosotros endings are different.***
 ### Preterite tense endings
 
 | Person              | -ar     | -er     | -ir     |
@@ -33,14 +34,15 @@ ellos/ellas/ustedes
 | vosotros            | -asteis | -isteis | -isteis |
 | ellos/ellas/ustedes | -aron   | -ieron  | -ieron  |
 
- *Notice that most of the **present tense** endings for -er and -ir verbs are the same. **Only the nosotros and vosotros endings are different.***
- 
-In the **preterite tense** the -er and -ir endings are the same.
-b
+----
+
+Note that in the ***preterite tense*** the ***-er and -ir endings are the same***.
+### Common Regular Verbs
 **[[#-ar verbs]]**
-- [[#acabar - to finish]]
+- [[#acabar - to finish, end, complete]]
 - [[#acompañar - to accompany]]
 - [[#adelgazar - to loose weight]]
+- [[#cambiar - to change]]
 - [[#casar - to marry]]
 - [[#desayunar - to have breakfast]]
 - [[#descansar - to rest]]
@@ -50,7 +52,8 @@ b
 - [[#esperar - to wait, hope]]
 - [[#gustar - to like]]
 - [[#hablar - to speak]]
-- [[#intendar - to try]]
+- [[#mezclar - to mix]]
+- [[#intentar - to try]]
 - [[#llamar - to call]]
 - [[#llegar - to arrive]]
 - [[#levantar - to raise, get up]]
@@ -62,24 +65,31 @@ b
 - [[#olvidar - to forget]]
 - [[#parar - to stop]]
 - [[#pasar - to give/pass (an item), to spend/pass (time), to pass/stop by]]
+- [[#pegar - to stick, glue, to hit]]
 - [[#preferir - to prefer]]
 - [[#preparar - to prepare]]
 - [[#prestar - to lend]]
 - [[#quedar - to meet]]
 - [[#regalar - to gift]]
+- [[#sonrojarse - to blush]]
+- [[#terminar - to finish]]
 - [[#tomar - to take/to drink]]
 - [[#viajar - to travel]]
 - [[#visitar - to visit ]]
 **[[#-er verbs]]**
-- [[#aprender - to learn]]
+- [[#aprender - to learn]] 
 - [[#comer - to eat]]
 - [[#cometer - to commit]]
+- [[#correr - to run]]
 - [[#deber - to owe, should/must]]
 - [[#responder - to answer, respond]]
+- [[#nacer - to be born]]
+- [[#vender - to sell]]
 **[[#-ir verbs]]**
 - [[#abrir - to open]]
 - [[#compartir - to share]]
 - [[#cumplir - to fulfill, to turn (age as in 'turn 60')]]
+- [[#escribir - to write]]
 - [[#permitir - to allow, permit]]
 - [[#recibir - to receive]]
 - [[#sufrir - to suffer]]
@@ -93,11 +103,12 @@ b
 [[#almorzar - to have lunch]]
 [[#apetecer - to feel like]]
 [[#buscar - to look for or search]]
+[[#caer - to fall]]
 [[#coger - to take (Spain)]]
 [[#comenzar - to start]]
 [[#conocer - to know or to meet a person or place for the first time]]
 [[#conseguir - to get or obtain]]
-[[#contar - to count]]
+[[#contar - to count, to tell]]
 [[#compartir - to share]]
 [[#dar - to give]]
 [[#decir - to say, to tell]]
@@ -119,6 +130,7 @@ b
 [[#llegar - to arrive]]
 [[#levantar - to get up]]
 [[#llover - to rain]]
+[[#mover - to move]]
 [[#oir - to hear]]
 [[#pasar - to give/pass (an item), to spend/pass (time), to pass/stop by]]
 [[#pedir - to ask for, order]]
@@ -135,11 +147,13 @@ b
 [[#quedar - to meet]]
 [[#quedarse - to stay, remain]]
 [[#recordar - to remember]]
+[[#reír - to laugh]]
 [[#repetir - to repeat]]
 [[#saber - to know information or how to do something, to taste]]
 [[#salir - to leave, go out]]
-[[#seguir - to continue on]]
+[[#seguir - to continue, to follow]]
 [[#sentir - to feel]]
+[[#sonreír - to smile]]
 [[#tener - to have]]
 [[#tocar - to touch, knock, tap, play (instrument)]]
 [[#traer - to bring]]
@@ -166,7 +180,7 @@ b
 [[#Estar]]
 - [[#Pneumonic PLACE]]
 - [[#Conjugation of Estar]]
-[[#es vs está (is)]]
+[[#he/she/it is - es (ser) vs está (estar)]]
 [[#Rule of thumb ser & estar differences]]
 ## [[#Gerunds]]
 [[#Gerunds (ing verbs)]]
@@ -183,7 +197,14 @@ b
 
 ## Future Tense
 - [[#Simple future tense]]
+  - [[#Irregular simple future forms]]
 - [[#Near future tense]]
+- [[#Common uses of simple and near future tenses]]
+- [[#Future perfect tense]]
+
+## Conditional
+
+[[#Conditional Tense]]
 
 ---
 # Regular Verb Conjugations
@@ -208,8 +229,9 @@ tú -aste (hablaste)
 nosotros -amos (hablamos)
 vosotros	-áis (habláis)
 ellos, ellas/ustedes -aron (hablaron)
-#### acabar - to finish 
-
+b#### acabar - to finish, end, complete 
+With, *de*, it means that something was just completed.
+- see: [[Spanish Notes#Just happened or finished]]
 #### acompañar - to accompany 
 
 #### adelgazar - to loose weight 
@@ -224,11 +246,15 @@ ellos, ellas/ustedes -aron (hablaron)
 #### disfrutar - to enjoy 
 
 #### encantar - to love
+#### endulzar - to sweeten
+- ***Preterite (exception)***
+ - yo endulcé
 #### enseñar - to teach 
 #### esperar - to wait, hope
 
 #### gustar - to like 
-#### intendar - to try
+
+#### intentar - to try
 - See [[#probar - to prove,test, try on, taste]]
 ### llamar - to call
 ### llegar - to arrive
@@ -241,19 +267,30 @@ ellos, ellas/ustedes -aron (hablaron)
 
 ### mandar - to send 
 
+#### mezclar - to mix
+
 ### mirar - to look, watch 
 - Command: mira
+- **Note**: Use [[#ver - to see]] when talking about: 
+   - watching TV shows, movies and games
+   - when you refer to how someone looks. In this case you use the reflexive version (*se ve*)
+   - when talking about analysing something (e.g. to look at a report = *vemos el informe*)
 ### odiar - to hate
 ### olvidar - to forget 
 ### parar - to stop 
 #### #pasar - to give/pass (an item), to spend/pass (time), to pass/stop by
 
+### pegar - to stick, glue, to hit
+- **Preterite:** yo pegué (others are regular)
 #### preparar - to prepare
 #### prestar - to lend
 #### quedar - to meet
 - See [[#conocer - to know or to meet a person or place for the first time]]
 - quedarse=to stay
 #### regalar - to gift 
+#### terminar - to finish 
+
+#### sonrojarse - to blush
 #### tomar - to take/to drink
 - See [[#coger - to take (Spain)]]
 #### viajar - to travel 
@@ -261,8 +298,8 @@ ellos, ellas/ustedes -aron (hablaron)
 #### visitar - to visit 
 ___
 [[#Table of Contents]]
-### -er verbs
 
+## -er verbs
 
 ### Endings (comer - to eat)
 #### Present
@@ -282,10 +319,11 @@ tú comiste (-iste)
 nosotros comimos (-imos)
 vosotros comistes (-isteis)
 ellos, ellas comieron (-ieron)
-
 ### aprender - to learn
 
 ### cometer - to commit
+
+#### correr - to run
 
 ### deber - to owe, should/must
 - #### to owe
@@ -319,11 +357,15 @@ I shouldn't watch TV now.
 *Hoy no tengo que ayudar.*
 Today I don't have to help.
 
+### nacer - to be born
 ### responder - to answer, respond 
+
+#### vender - to sell
 
 ___
 
 [[#Table of Contents]]
+
 ## -ir verbs
  
 ### vivir - to live
@@ -349,34 +391,21 @@ ellos, ella, ustedes vivieron (-ieron)
 ### cumplir - to fulfill, to turn (age as in 'turn 60')
 - ¿Y cuántos años cumples? - and how old will you be?
 - Cumplo 30 años - I am turning (fulfilling) 30
+
+### escribir - to write 
 ### permitir - to allow, permit 
 ### recibir - to receive 
 
 ### sufrir - to suffer 
+
 
 [[#Table of Contents]]
 
 ---
 ## Irregular Verbs
 
-
-### abrir - to open 
-#### Present 
-yo abro
-tú abres 
-el/ella/usted abre
-nosotros abrimos 
-vosotros abris
-ellos/ellas/ustedes abren 
-#### Preterite
-yo abri
-tú abriste 
-el/ella/usted abrió 
-nosotros abrimos 
-vosotros abristeis
-ellos/ellas/ustedes abrieron 
-
 [[#Table of Contents]]
+
 #### acordar - to agree
 #### Present
 yo acuerdo 
@@ -456,14 +485,42 @@ el busca
 nosotros buscamos 
 ellos buscan
 See [[#encontrar - to find]]
+
+### caer - to fall
+#### Present
+yo caigo
+tú caes
+él/ella/usted cae
+nosotros caemos 
+vosotros caéis
+ellos/ellas/ustedes caen
+#### Preterite 
+yo caí
+tú caiste 
+él/ella/usted cayó 
+nosotros caímos 
+vosotros caisteis
+ellos/ellas/ustedes cayeron 
+
+[[#Table of Contents]]
 ### cambiar - to change 
+***Note: this is a regular verb***
+#### Present 
 yo cambio
 tú cambias 
 el/ella/usted cambia 
 nosotros cambiamos 
 vosotros cambiáis
 ellos/ellas/ustedes cambian 
+#### Pretérito 
+yo cambié 
+tú cambiaste 
+él/ella/usted cambió 
+nosotros cambiamos 
+vosotros cambiastes
+ellos/ellas/ustedes cambiaron 
 
+[[#Table of Contents]]
 ### cerrar - to close 
 #### Present 
 yo cierro 
@@ -554,7 +611,7 @@ vosotros conseguisteis
 ellos/ellas/ustedes consiguieron 
 
 [[#Table of Contents]]
-### contar - to count 
+### contar - to count, to tell
 #### Present
 yo cuento 
 tú cuentas
@@ -569,6 +626,7 @@ tú contaste
 nosotros contamos 
 vosotros contasteis
 ellos/ellas/ustedes contaron 
+
 [[#Table of Contents]]
 ### dar - to give
 #### Present 
@@ -854,13 +912,15 @@ tú fuiste
 nosotros fuimos 
 vosotros fuisteis 
 Ellos/Ellas/Ustedes fueron 
+***Note: Conjugación of ir in the preterite is the exact same as ser.***
+See [[#Ser]]
 
 [[#Table of Contents]]
 ### levantar - to get up
 
 #### levantarse - get up
 #### Present 
-yo levanto 
+yo levan to 
 tú levantas 
 él/ella/usted 
 nosotros levantamos 
@@ -882,6 +942,26 @@ tú llueves
 nosotros llevemos 
 vosotros llovéis 
 ellos/ellas/ustedes llueven 
+
+[[#Table of Contents]]
+
+### mover - to move
+#### Present 
+Yo muevo 
+Tú mueves
+Él/Ella/Usted mueve
+Nosotros/Nosotras movemos
+Vosotros/Vosotras movéis
+Ellos/Ellas/Ustedes mueven
+#### Pretérito 
+Yo moví
+Tú moviste
+Él/Ella/Usted movió
+Nosotros/Nosotras movimos
+Vosotros/Vosotras movisteis
+Ellos/Ellas/Ustedes movieron 
+
+See [[#Stem changing irregular verb patterns]]
 
 [[#Table of Contents]]
 ### oir - to hear 
@@ -1089,6 +1169,23 @@ ellos/ellas/ustedes recordaran
 **recuerdo** - memory
 
 [[#Table of Contents]]
+### reír - to laugh 
+***Note***: The same conjugations ending as [[#sonreír - to smile]]
+#### Present 
+yo río
+tú ríes
+usted/él/ella ríe
+nosotros/as reímos, vosotros/as reís
+ustedes/ellos/ellas ríen
+#### Pretérito 
+yo reí
+tú reíste
+usted/él/ella rió
+nosotros/nosotras reímos
+vosotros/vosotras reísteis
+ustedes/ellos/ellas rieron
+
+[[#Table of Contents]]
 ### repetir - to repeat 
 #### Present 
 yo repito
@@ -1142,14 +1239,24 @@ vosotros salisteis
 el/ella/usted salieron
 
 [[#Table of Contents]]
-### seguir - to continue on
+### seguir - to continue, to follow 
+#### Present 
 yo sigo
 tu sigues
 el/ella/usted sigue
 nosotros seguimos 
 vosotros seguís 
 ellos/ellas/ustedes siguen 
-[[Spanish Notes#Location related phrases]]
+#### Pretérito 
+yo seguí
+tú seguiste
+él/ella/usted seguió
+nosotros seguimos 
+vosotros seguisteis
+ellos/ellas/ustedes siguieron 
+
+Also see: [[Spanish Notes#Location related words and phrases]]
+Also see: [[Spanish Notes#Still hasn't happened]]
 
 ### sentir - to feel 
 #### sentirse - reflexivo 
@@ -1169,6 +1276,24 @@ vosotros sentisteis
 ellos/ellas/ustedes sintieron 
 
 [[#Table of Contents]]
+### sonreír - to smile
+***Note***: The same conjugations ending as [[#reír - to laugh]]
+#### Present 
+yo sonrío
+tú sonríes
+usted/él/ella sonríe
+nosotros/as sonreímos
+vosotros/as sonreís
+ustedes/ellos/ellas sonríen
+#### Pretérito 
+yo sonreí
+tú sonreíste
+usted/él/ella sonrió
+nosotros/nosotras sonreímos
+vosotros/vosotras sonreísteis
+ustedes/ellos/ellas sonrieron
+
+[[#Table of Contents]]
 ### tener - to have 
 #### Present 
 yo tengo 
@@ -1185,6 +1310,15 @@ nosotros tuvimos
 vosotros tuvisteis
 ellos/ellas/ustedes tuvieron 
 
+***Tener + que*** = have to, need to
+**Tengo que...** - I have/need to...
+**Tienes que...** - You have/need to...
+**Tenemos que...** - We have/need to...
+**Tuve que...** - I had/needed to...
+**Tuvimos que...** - We had/needed to...
+
+
+[[#Table of Contents]]
 ### tocar - to touch, knock, tap, play (instrument)
 yo toco
 tú tocas
@@ -1281,10 +1415,22 @@ ellos/ellas/ustedes volaron
 
 [[#Table of Contents]]
 ### volver - to come back 
+#### Present 
 yo vuelvo 
 tu vuelves 
+él/ella/usted vuelve
 nosotros volvemos 
-ellos vuelven 
+vosotros volvéis
+ellos/ellas/ustedes vuelven 
+#### Pretérito 
+yo volví 
+tú volviste 
+él/ella/usted volvió 
+nosotros volvimos 
+vosotros volvisteis
+ellos/ellas/ustedes volvieron 
+
+Also see: [[Spanish Notes#Keeps happening repeatedly]]
 
 [[# Table of Contents]]
 
@@ -1326,14 +1472,15 @@ impedir - to impede
 [[#poder- be able to / can]]
 [[#acordar - to agree]]
 [[#acordarse - to remember]] 
+[[#doler - to hurt]]
 [[#recordar - to remember]]
 [[#almorzar - to have lunch]]
 [[#probar - to prove,test, try on, taste]]
 [[#encontrar - to find, to meet up]]
 [[#doler - to hurt]]
 [[#dormir - to sleep]]
+[[#mover - to move]]
 [[#volar - to fly]]
-mover - to move 
 ### u -> ue
 [[#jugar - to play]]
 ### ue -> ie
@@ -1368,6 +1515,9 @@ tú fuiste
 Nosotros/Nosotras fuimos
 Vosotros/Vosotras fuisteis 
 Ellos/Ellas/Ustedes fueron 
+***Note: Conjugación of ser in the preterite is the exact same as ir.***
+See: 
+[[#ir - to go]]
 #### Imperfect
 yo era
 tú eras
@@ -1409,6 +1559,14 @@ tú estuviste
 Nosotros estuvimos 
 Vosotros estuvisteis 
 Ellos/Ellas/Ustedes estuvieron 
+***Note: Conjugación of estar in the preterite is the same as tener, but with an es prefix***
+- tener -> estar
+- yo tuve -> yo estuve
+- tu tuviste -> tu estuviste 
+- él/ella/usted tuvo -> él/ella/usted estuvo 
+- nosotros tuvimos -> nosotros estuvimos 
+- vosotros tuvisteis -> vosotros estuvisteis
+- ellos/ellas/ustedes tuvieron -> ellos/ellas/ustedes estuvieron 
 #### Imperfect
 yo estaba
 tú estabas 
@@ -1425,19 +1583,20 @@ vosotros estaréis
 ellos/ellas/ustedes estarán
 
 [[#Table of Contents]]
-### es vs está (is)
-- **es: describe the qualities of a person or thing**
-  ...es bonito
+### he/she/it is - es (ser) vs está (estar)
+
+- ***es: describe the qualities of a person or thing***
+  ...es bonitob
   ...es bien
   ...es mi esposa 
-- **está: where something is located, for an emotion or for something that is temporarily true**
-  ... está aqui
-  ...está cerrado
+- ***está: where something is located, for an emotion or for something that is temporarily true***
+  ...está aqui
+  ...está cerrado (closed)
   ...está en Madrid
-  ... está enseñando 
+  ... está enseñando  (is teaching)
 
 ### Rule of thumb ser & estar differences
-The easiest rule of thumb to use when remembering the difference between *ser* and *estar* is the state of permanence regarding your subject matter. Characteristics such as relations would fall under the *ser* category, while conditions and actions would fall under the *estar* category.
+The easiest rule of thumb to use when remembering the difference between *ser* and *estar* is ***permanence (ser) vs a temporary state (estar)***. ***Characteristics such as relations would fall under ser***, while ***conditions and actions would fall under  estar***.
 
 See: https://blog.duolingo.com/ser-vs-estar/
 
@@ -1482,31 +1641,89 @@ After -ll or -ñ, the -ibis dropped in -iendo
 - escabullendo (sneaking away) for escabullir 
 #### Other exceptions 
 - viendo (watching) for ver
+- oyendo (listening) for escuchar
 
 [[#Table of Contents]]
-## Preterite (pretérito indefinido)
-Most irregular verbs and some regular verbs have irregular endings that are shown with the verb above. Here are the regular endings (Note that **endings for -er and -ir verbs are the same**).
-### -ar verbs
-yo -é (hablé)
-tú -aste (hablaste)
-él/ella/usted -ó (habló)
-nosotros -amos (hablamos)
-vosotros -asteis (hablasteis)
-ellos/ellas/ustedes -aron (hablaron)
-### -er verbs
-yo -í (comí)
-tú -iste (comiste)
-él/ella/usted -ió (comió) 
-nosotros -imos (comimos)
-vosotros -isteis (comisteis)
-ellos/ellas/ustedes -ieron (comieron)
-### -ir verbs
-yo -í (viví)
-tú -iste (viviste)
-él/ella/usted -ió (vivió)
-nosotros -imos (vivimos)
-vosotros -isteis (vivisteis)
-ellos/ellas/ustedes -ieron (vivieron)
+## Preterite (pretérito indefinido
+
+***The pretérito indefinido is used to talk about events in the past that have been completed. They often use the time specifier pasado or ayer. Those sentences can also use hace when it refers to 'ago'.***
+
+*Ayer comí un melocotón.*
+Yesterday I ate a peach.
+
+*Nació en 1976.*
+He was born in 1976.
+
+*Estudiaste en Salamanca.*
+You studied in Salamanca.
+
+Most irregular verbs and some regular verbs have irregular endings in The preterite tense. Each of the listed imperfect verbs above notes both the present and preterite tense conjunctions. 
+
+### Regular Preterite Endings
+Here are the regular endings (Note that ***endings for -er and -ir verbs are the same****):
+#### -ar verbs
+yo -**é** (hablé)
+tú -**aste** (hablaste)
+él/ella/usted -**ó** (habló)
+nosotros -**amos** (hablamos)
+vosotros -**asteis** (hablasteis)
+ellos/ellas/ustedes -**aron** (hablaron)
+#### -er verbs
+yo -**í** (comí)
+tú -**iste** (comiste)
+él/ella/usted -**ió** (comió) 
+nosotros -**imos** (comimos)
+vosotros -**isteis** (comisteis)
+ellos/ellas/ustedes -**ieron** (comieron)
+#### -ir verbs
+yo -**í** (viví)
+tú -**iste** (viviste)
+él/ella/usted -**ió** (vivió)
+nosotros -**imos** (vivimos)
+vosotros -**isteis** (vivisteis)
+ellos/ellas/ustedes -**0** (vivieron)
+
+### Irregular Preterite Conjugation Patterns
+
+See : 
+https://www.cliffsnotes.com/study-guides/spanish/spanish-i/the-preterite-tense/irregulars-in-the-preterite-tense/
+
+https://baselang.com/blog/advanced-grammar/irregular-preterite-verbs/
+#### Different stems, but follow the same endings;
+- -e for yo
+- -iste for tú
+- -o for él/ella/usted
+- -imos for nosotros 
+- -isteis for vosotros 
+- -eiron for ellos/ellas/ustedes 
+#### Preterites with U Stem change
+- estuv for estar
+- tuv for [[#tener - to have]]
+- pus for [[#poner - to put, to give]]
+- pud for [[#poder- be able to / can]]
+- cup for caber
+- anduv for andar
+####  Preterites with I Stem change
+Certain verbs have an irregular stem with the letter i in it. It is extremely important to remember that these verbs are not considered stem changers in the preterite tense although some of them may have been stem changers in the present tense. Just like the u‐stem verbs, i‐stem verbs do not follow the rules of a stem‐changing verb in the preterite and do not use the normal endings a stem‐changing verb uses. The verbs in the following list have a completely different stem that is used for every form of the preterite. Because they are irregular, they use the irregular endings from
+
+- [[#hacer - to make/to do/to ask]] - hic- (except 3rd person singular which is hiz-)
+- [[#querer - to want]] - quis-
+- [[#venir - to come]] - vin-
+#### Preterites with J Stem change
+
+- dij- for [[#decir - to say, to tell]]
+- traj- for [[#traer - to bring]]
+- conduj- for [[#conducir]]
+- produj- for producir
+- traduj- for traducir 
+
+The irregular verbs that end in the letter j use the same endings as the other irregular preterite verbs with one exception. In this case, the third person plural ending of the verb decir is –eron. Any time the irregular stem ends in j, the ellos, ellas, and ustedes endings will lose the letter i and become –jeron.
+
+### Preterite Summary 
+Use the preterite in the context of the past to: 
+- say what someone did in the past 
+- say that a new action suddenly occurred 
+- say that actions occurred one after the other
 
 [[#Table of Contents]]
 ## Imperfect tense (pretérito imperfecto)
@@ -1529,6 +1746,16 @@ It can also be used by itself:
 4. For talking about time and dates
 
 5. Descriptions in the past
+### Summary:
+The imperfect tense is translated by preceeding the verb with "was" or "use to".
+Both
+I ***was*** working and
+I ***use to*** work 
+is translated to *Trabajaba* in the Spanish imperfect tense.
+
+In the preterite you would not need any other words.
+I worked would just be *Trabajé* 
+
 ### Regular endings
 
 | Subject               | **-ar** Verbs | **-er** and **-ir** Verbs |
@@ -1549,8 +1776,9 @@ Only used for Ir (to go),	Ser (to be)	and Ver (to see).
 | tú                    | ibas       | eras        | veías        |
 | él, ella, usted       | iba        | era         | veía         |
 | nosotros              | ibamos     | éramos      | veíamos      |
-| vosotros              | ibais      | erais       | veías        |
+| vosotros              | ibais      | erais       | veíais       |
 | ellos, ellas, ustedes | iban       | eran        | veían        |
+
 ### The pretérito imperfecto described in Babbel
 
 ***By using the pretérito imperfecto, you describe the characteristics of people or things.***
@@ -1571,10 +1799,19 @@ My father earned a lot, and we used to live in a big house.
 *Tenía malas notas y pensaba siempre en chicas lindas.*
 I had bad grades, and I used to always think about pretty girls.
 
+**Review the use of the pretérito imperfecto**
+
+Use the pretérito imperfecto in the past to:
+- describe what someone was doing in the past
+- describe actions that were already in progress
+- describe actions that occur at the same time
+- 
+
 [[#Table of Contents]]
+
 # Present Perfect (pretérito perfecto)
 
-The pretérito perfecto, also known as the Spanish present perfect tense, is ***used to describe actions in the past that have a connection to the present moment***. This tense is formed by conjugating the verb "haber" in the present tense and adding the past participle of the main verb. For example, "He comido paella hoy" (I have eaten paella today) illustrates an action that is part of recent experiences and still connected to the present.
+The pretérito perfecto, also known as the Spanish present perfect tense, is ***used to describe actions in the past that have a connection to the present moment***. This ***tense is formed by conjugating the verb "haber" in the present tense and adding the past participle of the main verb***. For example, "He comido paella hoy" (I have eaten paella today) illustrates an action that is part of recent experiences and still connected to the present.
 
 ### Haber present tense conjugación
 yo he
@@ -1584,9 +1821,20 @@ nosotros hemos
 vosotros habéis 
 ellos/ellas/ustedes han
 
+ ***Note that the conjugated form of haber is often translated as "I/you/he/she/we/they has/have"***
+
 In Spain, the pretérito perfecto is commonly used to talk about recent past events even if they occured today. However, in many Latin American countries, the pretérito indefinido is more frequently used for such past events, regardless of their proximity to the present.
 
-The ***conjugation of the pretérito perfecto involves the verb "haber" in the present tense and the past participle of the main verb***. For ***regular verbs, the past participle is formed by removing the infinitive ending (-ar, -er, -ir) and adding -ado, -ido, -ido, respectively***. For irregular verbs, the past participle uses a different form.
+The ***conjugation of the pretérito perfecto involves the verb "haber" in the present tense and the past participle of the main verb***. 
+
+***Time indicators that use este/está, hoy and ya always require the pretérito perfecto.***
+### Regular past participle endings
+For regular verbs, the past participle is formed by removing the infinitive ending (-ar, -er, -ir) and adding -ado, -ido, -ido, respectively. 
+- ***-ar verbs have -ado endings*** 
+- ***-er verbs have -ido endings***
+- ***-ir verbs have -ido endings***
+For irregular verbs, the past participle uses a different form.
+
 - Yo: **he** comido - I have eaten 
 - Tú: **has** comido - You have eaten 
 - Él/Ella/Usted: **ha** comido
@@ -1595,6 +1843,19 @@ The ***conjugation of the pretérito perfecto involves the verb "haber" in the p
 - Ellos/Ellas/Ustedes: **han** comido
 
 Note that "have been" is expressed using *estado* like *he estado* for "I have been "
+
+### Past Participle Exceptions
+- hacer - hecho
+  - to do - done
+- ir - ido
+  - to go - gone
+- volver - vuelto
+  - to come back - come back
+- ver visto
+  - to see - seen
+- decir - dicho
+  - to say - said
+
 
 [[#Table of Contents]]
 
@@ -1638,29 +1899,35 @@ nosotros -emos
 vosotros -éis
 ellos/ellas/ustedes -án
 
-No trabajaremos en diciembre.
+*No trabajaremos en diciembre.*
 We won't work in December.
 
-¿Comerás paella?
+*¿Comerás paella?*
 Will you eat paella?
 
-Mañana dormiré hasta las 11.
+*Mañana dormiré hasta las 11.*
 Tomorrow I will sleep until 11.
 
-Ellos me llamarán pronto.
+*Ellos me llamarán pronto.*
 You will call me soon.
 
+[[#Table of Contents]]
 ### Irregular simple  future forms
 
-***For some verbs the infinitive is slightly changed to build the futuro simple. For example, `hacer` and `decir` turn into har- and dir-.***
+***For some verbs the infinitive is slightly changed to build the futuro simple***. For example, `hacer` and `decir` turn into har- and dir-
+**hacer -> har-** (will do)
+**decir -> dir-** (will say)
 
-El viernes hará sol.
+*El viernes hará sol.*
 On Friday it will be sunny (lit. it will make sun).
 
-Nosotros no diremos nada.
+*Nosotros no diremos nada.*
 We won't say anything.
 
 ***With the verbs `tener`, `salir` and `venir` a dr is attached to the root.***
+**tener -> tendr-**
+**salir -> saldr-**
+**venir -> vendr**
 
 Ella próximamente tendrá exámenes.
 She will have exams soon.
@@ -1672,6 +1939,8 @@ We will go out on Friday.
 Will you come soon?
 
 ***`Saber` and `poder` drop the e.***
+**saber -> sabr-**
+**poder -> podr-**
 
 ¡Tú sabrás mucho! 
 You will know a lot!
@@ -1681,14 +1950,61 @@ They will not be able to come.
 
 [[#Table of Contents]]
 ## Near future tense
-Another way to express the future is using the near future tense, which ***involves the construction "ir + a + infinitive form of the verb."*** This is often used to express actions that will be completed in the near future, such as "Voy a terminar mis deberes antes de la cena," which means "I'm going to finish my homework before dinner" 
+Another way to express the future is using the near future tense, which ***involves the construction "ir + a + infinitive form of the verb."*** This is often used to express actions that will be completed in the near future, such as 
+*Voy a terminar mis deberes antes de la cena.*
+I'm going to finish my homework before dinner
+## Common uses of simple and near future tenses
 
+***Both the simple future and the near future are commonly used***, and their usage can vary depending on the context and the speaker's preference. Some English speakers learning Spanish might find the ir + a + infinitive form easier to use initially, but the simple future is also widely used and considered one of the easiest conjugation patterns to learn 
+
+[[#Table of Contents]]
 ## Future perfect tense
-Additionally, the future perfect tense is used to express actions that will have been completed before a certain point in the future. It ***is formed with "haber" in the future form plus the past participle***. For instance, "Habré terminado el trabajo" means "I will have finished the work" 
 
-## Common uses
+The future perfect tense is used to express actions that will have been completed before a certain point in the future. It ***is formed with "haber" in the future form plus the past participle***. For instance:
+
+*Habré terminado el trabajo.*
+I will have finished the work
+
+## Common uses of simple and near future tenses
+
 ***Both the simple future and the near future are commonly used***, and their usage can vary depending on the context and the speaker's preference. Some English speakers learning Spanish might find the ir + a + infinitive form easier to use initially, but the simple future is also widely used and considered one of the easiest conjugation patterns to learn 
 
 [[#Table of Contents]]
 
+# Conditional tense
+
+The conditional tense in Spanish is ***used to express hypothetical situations, probabilities, and polite requests***. It is formed by adding specific endings to the infinitive form of a verb. 
+
+***The endings for the conditional tense are the same as those for the -er and -ir forms of the imperfect tense, but they are attached to the infinitive*** rather than the stem. For example, the verb "viajar" (to travel) conjugates in the conditional as "viajaría" for "yo" (I), "viajarías" for "tú" (you), and "viajaría" for "usted, él, ella" (you, he, she).
+
+***Regular verbs follow a standard set of endings:***
+-ía for "yo" (I)
+-ías for "tú" (you)
+-ía for "usted, él, ella" (you, he, she)
+-íamos for "nosotros" (we)
+-íais for "vosotros" (you all)
+-ían for "ustedes, ellos, ellas" (you all, they).
+
+**Irregular verbs** in the conditional tense use the same stems as in the future tense. Common irregular verbs include 
+"decir" (to say)
+"hacer" (to do/make)
+"venir" (to come)
+"tener" (to have)
+"poder" (to be able to).
+
+The ***conditional tense is also used to express wishes, preferences, and to make polite requests***. For instance, 
+## Gustar
+The verb gustar which normally means **to like** in the conditional tense it means ***would like***. The phrase "me gustaría" (I would like) is commonly used to express what you would like to do in the future or to make polite requests. 
+
+## Deber
+The verb "deber" has a wholly different meaning in the conditional tense. It normally means ***to owe***, but in the conditional tense it means ***must or should.***
+
+
+In addition, ***the conditional is used in reported speech to express future events from a past perspective,***  such as "Dijo que vendría a la fiesta" (He said he would come to the party).
+
+The ***conditional tense can also be used to express hypothetical situations with "si" (if) clauses***. For example, "Si tuviera mucho dinero, iría de vacaciones" (If I had a lot of money, I would go on holiday).
+
+In summary, the conditional tense in Spanish is a versatile tool for expressing hypothetical situations, probabilities, and polite requests, and it is formed using specific endings attached to the infinitive form of the verb.
+
+[[#Table of Contents]]
 

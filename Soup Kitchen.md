@@ -10,11 +10,12 @@ Paula - dishwasher - helps Jeff
 
 Brittany - server 
 Chantel - dark, curly reddish hair - server
-
+Joanne - gray ponytail - server
+Anna - Orthodox 
+b
 Charlie - Argentina 
 Larry - jack-of-all-trades, teeth 
 Colin & Vanessa - 2 yr old daughter 
-Glorian - rinsing & tables (young)
 
 Barbara - St Bridget teacher 
 
