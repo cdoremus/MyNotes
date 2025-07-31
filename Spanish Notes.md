@@ -12,6 +12,7 @@ Babbel support - support@babbel.com
 - [[#Holiday Greetings]]
 [[#Common Adverbs & Adjectives]]
 - [[#Turning verbs into adjectives]]
+- [[#Turning adjectives into adverbs]]
 - [[#Adjectives Before vs. After the Noun]]
 - [[#Who, what, when...]]
 - [[#Some/Any variations]]
@@ -34,6 +35,7 @@ Babbel support - support@babbel.com
 [[#Noun gender tips]]
 - [[#Article Gender Noun Exceptions]]
 [[#Comparisons]]
+[[#Superlatives]]
 [[#Bein vs bueno]]
 [[#por vs para]]
 [[#al versus del]]
@@ -121,6 +123,8 @@ Babbel support - support@babbel.com
 
 ***Note: Adjectives always come after the noun they refer to.***
 
+bien - well (bueno=good)
+mal - badly (malo=bad)
 cada - each/every
 todos - every
 todo el mundo - everybody 
@@ -206,10 +210,10 @@ en lugar de - in place of, instead of
 estupendo - stupendous, wonderful 
 fantástico - fantastic
 excelente - excellent 
-óptimo - optimal
+óptimo(a) - optimal
 hermosísimo(a) - really beautiful 
 bellísimo(a) - really beautiful 
-carisimo - really expensive 
+carisimo(a) - really expensive 
 así - this way, that way, like this, like that
 #### Turning verbs into adjectives 
 In English, we can use verbs (like to haunt) as adjectives. For example, in The house is haunted, haunted describes the word house.
@@ -229,6 +233,15 @@ The coffee maker is off.
 
 *Los hombres están perdidos.*
 The men are lost.
+
+[[#Table of Contents]]
+#### Turning adjectives into adverbs
+
+For adjectives that end in an *e*, add *mente* to the end.
+
+For adjectives that end in an *e* or a consonant, add *mente* to the end.
+
+For adjectives that end in an *o*/*a* add *mente* to the end if the feminine form.
 
 [[#Table of Contents]]
 
@@ -318,14 +331,17 @@ See this video for a complete list and meanings: https://youtu.be/RLnwem941ok?si
 [[#Table of Contents]]
 # Pronouns
 
-| **Personal Pronoun**                                | **[[#Direct Object Pronouns]]** | **[[#Indirect Object Pronouns]]** |
-| --------------------------------------------------- | ------------------------------- | --------------------------------- |
-| **Yo** (I)                                          | Me                              | Me                                |
-| **Tú** (You, informal)                              | Te                              | Te                                |
-| **Él / Ella / Usted** (He/She/You formal)           | Lo / La                         | Le (*se* before lo/la/los/las)    |
-| **Nosotros / Nosotras** (We)                        | Nos                             | Nos                               |
-| **Vosotros / Vosotras** (You all, informal Spain)   | Os                              | Os                                |
-| **Ellos / Ellas / Ustedes** (They / You all formal) | Los / Las                       | Les (*se* before lo/la/los/las)   |
+| (Person)        | English Object Pronouns | Spanish [[#Direct Object Pronouns]] | Spanish [[#Indirect Object Pronouns]] |
+| --------------- | ----------------------- | ----------------------------------- | ------------------------------------- |
+| (Yo)            | Me                      | Me                                  | Me                                    |
+| (Tú)            | You                     | Te                                  | Te                                    |
+| (Él / Ella)     | Him / Her / It          | Lo / La                             | Le (Se before Lo/La)                  |
+| (Usted)         | You (Formal)            | Lo / La                             | Le (Se before Lo/La)                  |
+| (Nosotros)      | Us                      | Nos                                 | Nos                                   |
+| (Vosotros)      | You All                 | Os                                  | Os                                    |
+| (Ellos / Ellas) | Them                    | Los / Las                           | Les (Se before Los/Las)               |
+| (Ustedes)       | You All (Formal)        | Los / Las                           | Les (Se before Los/Las)               |
+
 
 ***Direct object pronouns answer what? or whom***? (e.g., *Lo vi* → "I saw him/it.")
 
@@ -418,14 +434,14 @@ See https://www.spanishdict.com/guide/indirect-object-pronouns
     Le pregunto
     I ask him/her/it
 
-If the indirect object is not specified, you have to add it onto your sentence for clarity:
-Le compré flores
+***If the indirect object is not specified, you have to add it onto your sentence for clarity:***
+*Le compré flores...*
 I bought flowers for...
 becomes:
 Le compré flores *a mi novia*
 I bought flowers for my girlfriend 
 
-Like a direct object pronoun, you DO NOT put an indirect object pronoun before a preposition 
+***Like a direct object pronoun, you DO NOT put an indirect object pronoun before a preposition*** 
 
 [[#Table of Contents]]
 ## Reflexive verbs and pronouns 
@@ -1175,6 +1191,7 @@ refrigerator - refrigerador
 butter - mantequilla 
 oil - el aceite 
 parsley - el perejil
+cinnamon - la canela
 fried - frito
 grilled/roasted - asado(a)
 #### Cooking-related verbs
@@ -1584,7 +1601,7 @@ el cargador - charger
 [[#Table of Contents]]
 # Location related words and phrases
 ## Proximity 
-- al lado de.... next to 
+- al lado de.... next to, alongside
   - junto (ES)
 - cerca de ... close to or nearby 
   - más cercano(a) ... nearest to
@@ -1594,6 +1611,7 @@ el cargador - charger
 - debajo de ... underneath 
 - adentro de ... inside 
   - dendro ... inside 
+- al fuera - outside  
 - enfrente ... in front or across 
 - delante ... in front of 
 - detrás ... behind or after
@@ -1602,6 +1620,7 @@ el cargador - charger
 - afuera - out or outside (on the outskirts)
 - abajo - down, downstairs 
 - arriba - up, upstairs 
+- alrededor - around or about 
 
 - por aquí ... around here 
 - desde aquí ... from here 
@@ -1616,7 +1635,6 @@ donde giro - where do I turn?
 seguir - to continue (on a road or street)
 - [[Spanish Verbs#seguir - to continue, to follow]]
 - [[#Still hasn't happened]]
-alrededor - around or about 
 mejor sigue ... better continue
 calle - Street
 - calle principal - main street 
@@ -1624,6 +1642,8 @@ carretera - highway
 la parada del autobús ... the bus stop 
 - use del when noting the location of a masculine word
 desde aquí ... from here
+
+
 
 Aquí o ahi - Here or there 
 ahí - there 
@@ -1637,12 +1657,14 @@ sitio, lugar - place
 paso de peatones - crosswalk 
 iglesia - church 
 
-
 [[#Table of Contents]]
 
 ### Travel related 
 pasta de dientes - toothpaste 
 cepillo de dientes - toothbrush 
+la toalla - towel 
+la regadera - shower (MX)
+- ducha
 aparcar - parking
 peligro - danger 
 paso de peatones - crosswalk
@@ -1973,11 +1995,11 @@ Refers to something looking backwards
 ### Duration - how long to do something 
 - *Camino por veintiocho minutos* (I walk for 28 minutes)
 - Por la noche veo la tele   (At night, I watch TV)
-### Motivation - why someone is doing something  (cause or reason)
+### Reasons - why someone is doing something  (cause or reason)
 -  *Lol voy hacer por ti* (I'll do it for you)
 - *No fuimos al parque por la lluvia.* (We didn't go to the park because of the rain)
 - *Las tiendas cerraron temprano por la tormenta*. (The stores closed early because of the storm)
-### Exchange - trading one thing for another 
+### Price - trading one thing for another 
 - *Te doy tres dólares por dos botellas de agua* (I'll give you three dollars for two bottles of water)
 - *Tomé un café en Starbucks por 5 euros*. (I had a coffee at Starbucks for 5 euros)
 ### Mode of travel and/or communication 
@@ -2029,7 +2051,7 @@ Refers to something moving forward, in the future or recipients
 
 ***To emphasize a goal, a recipient or a destination***, you use the preposition ***para.***
 
-Necesito gafas para ver mejor.
+*Necesito gafas para ver mejor.*
 I need glasses to see better.
 
 *Esto es para tu hermana.*
@@ -2070,6 +2092,73 @@ de verdad - really
 nuestro/nuestra - our
   
 # Comparisons
+
+## Comparison rules 
+
+### Differences 
+ 
+***To form the comparative, you use más...que or menos...que.***
+
+*Más* and *menos* always come before the adjective, and *que* follows it.
+
+*Tú eres más alto que yo.*
+You are taller than me.
+
+*Tú eres menos listo que yo.*
+You are less clever than me.
+
+You can also use *más que* and *menos que* to compare nouns and verbs:
+
+*Yo tengo más libros que tú.*
+I have more books than you.
+
+*Ella lee más que yo.*
+She reads more than me.
+
+*más* and *que* come after verbs
+
+### Equality
+
+#### tan...como
+***To compare things that are equal, use tan...como for nouns (for qualities or characteristics)***
+
+*Yo soy tan rápido como tú.*
+I am as fast as you.
+
+*Tú eres tan listo como él.*
+You are as clever as him.
+#### tanto...como
+
+***With verbs, tan como changes to tanto como (for quantities or amounts)***
+
+With verbs, they are placed after the verb with nothing between them.
+
+*Yo leo tanto como tú.*
+I read as much as you.
+
+For nouns, *tan* changes to *tanto, tanta, tantos, or tantas* to agree with the noun.
+
+*Marcos tiene tanto dinero como Patricia.*
+Marcos has as much money as Patricia.
+
+*Nosotros tenemos tantas plantas como vosotros.*
+We have as many plants as you.
+
+*Adriana tiene tanta suerte como Alejandra.*
+Adriana is as lucky (lit. has as much luck) as Alejandra.
+
+*Tú eres tan guapa como ella.*
+You are as pretty as her.
+
+*Yo tengo tantos libros como tú.*
+I have as many books as you.
+
+#### In summary
+- Use **"tan...como"** with **adjectives or adverbs** to compare **qualities**.
+    
+- Use **"tanto...como"** with **nouns or verbs** to compare **quantities or actions**. 
+## Comparison pairs
+
 more ... than ... - màs ... que ...
 as .... as ... - tan ... como ...
 - tan pequeña como aquella - as small as that
@@ -2099,6 +2188,33 @@ bueno - modifies noun (good)
 
 [[#Table of Contents]]
 
+# Superlatives 
+
+The superlative, the highest degree of comparison, also uses más or menos as well as the articles el, la, los, las. The article always comes before the superlative.
+
+*Yo soy el más listo.* 
+I am the most clever.
+
+*Tú eres la menos egoísta.* 
+You are the least selfish.
+
+Bueno and malo have irregular comparative and superlative forms.
+
+Este libro es mejor que aquel.
+This book is better than that one.
+
+*Esta película es peor que la de ayer.*
+This film is worse than yesterday's one.
+
+Bueno and malo only have one form for the comparative and the superlative. These forms are mejor, peor
+
+*Este libro es el mejor.*
+This book is the best.
+
+*Esta película es la peor.*
+This film is the worst.
+
+[[#Table of Contents]]
 # Weather
 
 ## Vocabulary
@@ -2241,6 +2357,15 @@ Winter - invierno
 1000 mil
 1000000 un millón
 2000000 dos millones
+
+Between 200 and 900, the numbers need to agree with the gender of the things you are enumerating:
+
+doscientos hombres
+doscientas mujeres 
+
+*Tropecientas veces*
+Zillions of times 
+
 ## Ordinals (Rank)
 first - primero(a) 
 second - segundo(a)
@@ -2280,6 +2405,10 @@ January and February are the first months of the year.
 These are the second vacations that I'm spending in Seville.
 
 ***Unlike adjectives, ordinal numbers always come before the noun (if it is used with a noun).***
+
+
+*Por enésima vez...*
+For the umpteenth time...
 
 [[#Table of Contents]]
 ## Years(años)/Dates(fechas)
@@ -2511,11 +2640,14 @@ Encontado(a) de conocerte
 I speak a bit of Spanish 
 Yo hablo poquito de español 
 
-Do you hear me?
-¿me oyes?
+I'm a beginner.
+Soy un principiante.
 
 Hopefully you will understand me
 Ojalá me entiendas
+
+Do you hear me?
+¿me oyes?
 
 Excuse me, I didn't understand what you said?
 ¿Disculpe, no he entendido lo que ha dicho?
@@ -2846,3 +2978,14 @@ tutors
 https://preply.com/en/online/spanish-tutors
 
 [[#Table of Contents]]
+
+
+
+ax
+a
+c
+cx
+a
+cx
+bx
+

@@ -1,3 +1,14 @@
+[[#Newsletters]]
+
+
+# Margo
+
+1984-2006 full time at Beach
+- 82-83 part time 
+,$2 Adult (80s)
+$1 Child 
+
+
 ## SDLA Board
 
 Melissa True - SDLC shirt 
@@ -29,6 +40,25 @@ Bill Fichtel - bill.fichtel@gmail.com
 Catherine Caswell - caswellsfarm@gmail.com
 Melissa True • truelymelissa@icloud.com
 George and Melissa True • Gtrue@maine.rr.com
+
+## Meetings 
+
+### Board Meeting 7/2/25
+
+#### Party Planning 
+
+5:30-6:30 & 7:30-8:00  - sell 50/50 tickets
+
+***Display*** 
+Foam core board 20x30
+Easel 
+Tape - double-sided mounting tape, mounting squares 3M ($4) for photos or scrapbooking 
+Ruth, Catherine & Lori - committee 
+- send them easel requirements (number)
+
+NG Fair - Sept 6
+11:30-2:00 - my shift
+
 ### Board Meeting 9/11/23
 
 Melissa True - SDLC shirt 
@@ -212,9 +242,23 @@ The online quote for 12 page - full color saddle stitched (so more like a magazi
 We would also have to factor in approximately $40 for envelopes.  Mailing would cost more - first class flat is $1.22.per unit.  So $183 for mailing 150 units.
 Total for 150 mailed would be approximately $565.
 
+# Newsletters
+
+## Summer Fall Newsletter 
+### Articles & Pics
+Article on Summer Party 
+- Maybe part of President's report 
+
+Article on local weather stations.
 
 
-# Corrections to Winter spring newsletter 
+Pic by Bill Fichtell
+- Him and granddaughter 
+
+Pics from Chris 
+- IPP group 
+- Water quality sampling
+## Corrections to Winter spring newsletter 
 ### Chris Ricardi's article 
 - The last line in the first full paragraph in the second column contains "that we can be made". Just remove the "we" from that sentence.
 - The last line in the article contains the phrase "in a VP". Change that to "in as VP".
@@ -254,4 +298,7 @@ Total for 150 mailed would be approximately $565.
 ### Photos on back cover 
 - The Driscolls photo: Who is/are TommElaine?  In the last line, what is "y David..."? There seems to be one or more left off of this list of names since it ends with an "and".
 - Water skiers group: Change "...photo is likely Young's and Driscolls" to "...photo is likely of Youngs and Driscolls"
-# 
+
+Newsletter 
+
+### End of SDLA file

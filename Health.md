@@ -1,7 +1,23 @@
 
-## Heart irregularity 
+# Heart irregularity 
 right bundle branch block 
  
+# Scoliosis
+Schroth Method for Scoliosis 
+
+The Barcelona Scoliosis Physical Therapy School - North America
+Maine providers:
+https://www.bsptsnorthamerica-rigoconcept.com/maine-pts.html
+
+
+# Teeth whitening at Patriot Dental 
+
+$95 - 10 days (tray)
+
+$495 - in house whitening 
+
+$595 - gel to take home 
+$20 per syringe 
 
 # Questions for Dr. Gagnon 8/22/24
 1. why are the before surgery and after surgery results different on the spreadsheet?

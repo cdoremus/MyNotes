@@ -1,14 +1,14 @@
 ### Current Game
-
 PLATE
-CORNS
-FROSH
+MANOR
 
-SXORX
-SXOXR
+AXXXX
+XXXAX
+XXXXA
 
-U
-
+FICAK
+CHI
+CHIAG
 
 
 

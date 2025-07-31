@@ -4,6 +4,8 @@
 Ink:
 Black : 280
 Color: 281 CMY
+$63 at Walmart 
+
 
 5 pack
 XL 280 PGBK -2

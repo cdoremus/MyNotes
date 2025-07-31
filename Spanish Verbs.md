@@ -46,6 +46,7 @@ Note that in the ***preterite tense*** the ***-er and -ir endings are the same**
 - [[#casar - to marry]]
 - [[#desayunar - to have breakfast]]
 - [[#descansar - to rest]]
+- [[#detestar - to hate, loathe]]
 - [[#disfrutar - to enjoy]]
 - [[#encantar - to love]]
 - [[#enseñar - to teach]]
@@ -70,9 +71,10 @@ Note that in the ***preterite tense*** the ***-er and -ir endings are the same**
 - [[#preparar - to prepare]]
 - [[#prestar - to lend]]
 - [[#quedar - to meet]]
+- [[#quitar - to remove, take away]]
 - [[#regalar - to gift]]
 - [[#sonrojarse - to blush]]
-- [[#terminar - to finish]]
+- [[#terminar - to finish]] 
 - [[#tomar - to take/to drink]]
 - [[#viajar - to travel]]
 - [[#visitar - to visit ]]
@@ -146,6 +148,8 @@ Note that in the ***preterite tense*** the ***-er and -ir endings are the same**
 [[#querer - to want]]
 [[#quedar - to meet]]
 [[#quedarse - to stay, remain]]
+[[#quitar - to remove, take away]]
+[[#quitarse - to take off]]
 [[#recordar - to remember]]
 [[#reír - to laugh]]
 [[#repetir - to repeat]]
@@ -243,6 +247,8 @@ With, *de*, it means that something was just completed.
 
 #### descansar - to rest
 
+#### detestar - to hate, loathe 
+
 #### disfrutar - to enjoy 
 
 #### encantar - to love
@@ -276,6 +282,7 @@ With, *de*, it means that something was just completed.
    - when you refer to how someone looks. In this case you use the reflexive version (*se ve*)
    - when talking about analysing something (e.g. to look at a report = *vemos el informe*)
 ### odiar - to hate
+- See [[#detestar - to hate, loathe]]
 ### olvidar - to forget 
 ### parar - to stop 
 #### #pasar - to give/pass (an item), to spend/pass (time), to pass/stop by
@@ -287,6 +294,8 @@ With, *de*, it means that something was just completed.
 #### quedar - to meet
 - See [[#conocer - to know or to meet a person or place for the first time]]
 - quedarse=to stay
+#### quitar - to remove, take away 
+- quitarse - to take off 
 #### regalar - to gift 
 #### terminar - to finish 
 
@@ -1149,6 +1158,12 @@ ellos/ellas/ustedes quisieron
 See [[#quedar - to meet]]
 
 [[#Table of Contents]]
+
+### quitar - to remove, take away
+#### quitarse - to take off
+##### This is a regular verb
+
+[[#Table of Contents]]
 ### recordar - to remember 
 #### Present 
 yo recuerdo 
@@ -1823,7 +1838,7 @@ ellos/ellas/ustedes han
 
  ***Note that the conjugated form of haber is often translated as "I/you/he/she/we/they has/have"***
 
-In Spain, the pretérito perfecto is commonly used to talk about recent past events even if they occured today. However, in many Latin American countries, the pretérito indefinido is more frequently used for such past events, regardless of their proximity to the present.
+In Spain, the pretérito perfecto is commonly used to talk about recent past events even if they occured today. Sentences that use *últimamente* (ultimately), *recientemente* (recently),  *ya* (already), *todavía* (still, yet), often *alguna vez* (ever), nunca (never) and siempre (always) will use present perfect verbs.  However, in many Latin American countries, the pretérito indefinido is more frequently used for such past events, regardless of their proximity to the present.
 
 The ***conjugation of the pretérito perfecto involves the verb "haber" in the present tense and the past participle of the main verb***. 
 
@@ -1831,24 +1846,32 @@ The ***conjugation of the pretérito perfecto involves the verb "haber" in the p
 ### Regular past participle endings
 For regular verbs, the past participle is formed by removing the infinitive ending (-ar, -er, -ir) and adding -ado, -ido, -ido, respectively. 
 - ***-ar verbs have -ado endings*** 
-- ***-er verbs have -ido endings***
-- ***-ir verbs have -ido endings***
+- ***-er & -ir verbs have -ido endings***
 For irregular verbs, the past participle uses a different form.
 
+This tense usually expresses " I/you/we/they have..." like this:
 - Yo: **he** comido - I have eaten 
 - Tú: **has** comido - You have eaten 
-- Él/Ella/Usted: **ha** comido
- - Nosotros/Nosotras: **hemos** comido
-- Vosotros/Vosotras: **habéis** comido
-- Ellos/Ellas/Ustedes: **han** comido
+- Él/Ella/Usted: **ha** comido - He/she have eaten 
+ - Nosotros/Nosotras: **hemos** comido - We have eaten 
+- Vosotros/Vosotras: **habéis** comido - You have eaten 
+- Ellos/Ellas/Ustedes: **han** comido - They have eaten 
 
-Note that "have been" is expressed using *estado* like *he estado* for "I have been "
+Note that "have been" is expressed using *estado* like *he estado* for "I have been " where *estado* is the past participle of *estar*.
 
 ### Past Participle Exceptions
 - hacer - hecho
   - to do - done
+- abrir - abrito
+  - to open - opened
 - ir - ido
   - to go - gone
+- escribir - escrito
+  - to write - written 
+- poner - puesto 
+  - to put - put
+- romper - roto
+  - to break - broken 
 - volver - vuelto
   - to come back - come back
 - ver visto
@@ -1856,6 +1879,7 @@ Note that "have been" is expressed using *estado* like *he estado* for "I have b
 - decir - dicho
   - to say - said
 
+The Present Perfect is not frequently used in Latin America. Instead, the Preterite is used 
 
 [[#Table of Contents]]
 
@@ -1889,7 +1913,7 @@ ellos/ellas/ustedes habían
 # Future tense 
 
 ## Simple future tense 
-In Spanish, there are several ways to express the future (*futuro simple*) tense. The simple future tense is formed by adding specific endings to the infinitive form of the verb, such as -é, -ás, -á, -emos, -éis, and -án, depending on the subject. For example, "hablaré" means "I will speak" 
+In Spanish, there are several ways to express the future (*futuro simple*) tense. The simple future tense is formed by adding specific endings to the infinitive form of the verb, which are -é, -ás, -á, -emos, -éis, and -án, depending on the subject. For example, "hablaré" means "I will speak" 
 ### Simple future tense endings
 ***The futuro simple is formed by adding certain endings to the infinitive.***
 yo -é
@@ -1929,28 +1953,39 @@ We won't say anything.
 **salir -> saldr-**
 **venir -> vendr**
 
-Ella próximamente tendrá exámenes.
+*Ella próximamente tendrá exámenes.*
 She will have exams soon.
 
-Nosotros saldremos el viernes.
+*Nosotros saldremos el viernes.*
 We will go out on Friday.
 
-¿Ustedes vendrán pronto?
+*¿Ustedes vendrán pronto?*
 Will you come soon?
 
 ***`Saber` and `poder` drop the e.***
 **saber -> sabr-**
 **poder -> podr-**
 
-¡Tú sabrás mucho! 
+*¡Tú sabrás mucho!* 
 You will know a lot!
 
-Ellos no podrán venir. 
+*Ellos no podrán venir.* 
 They will not be able to come.
+
+You can also speak of the future using ir + a instead of the informative + ending. This is frequently used in Latin American. Here are two examples of both forms:
+
+*Él va a ir de compras.*
+*Él irá de compras.*
+He will go shopping.
+
+*¿Vais a tomar solo aqua?*
+*¿Tomaréis solo aqua?*
+Will you only drink water?
 
 [[#Table of Contents]]
 ## Near future tense
 Another way to express the future is using the near future tense, which ***involves the construction "ir + a + infinitive form of the verb."*** This is often used to express actions that will be completed in the near future, such as 
+
 *Voy a terminar mis deberes antes de la cena.*
 I'm going to finish my homework before dinner
 ## Common uses of simple and near future tenses
