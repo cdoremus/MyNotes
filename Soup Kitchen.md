@@ -29,6 +29,6 @@ Elsa - Spanish with ponytail
 Vicky - Lipstick and ponytail 
 Anna - Brit/Orthodox - server
 
-
+Mark - tableware prep
 
 Evelyn (Ph: 447-1086) - put announcement in the church bulletin 

@@ -1,14 +1,18 @@
 ### Current Game
 PLATE
-MANOR
+CAROM
 
-AXXXX
-XXXAX
-XXXXA
+AMOXX
+AOMXX
+MOAXX
+MOXAX
+XOMAX
+XMOAX
+XXOMA
+XXMAO
 
-FICAK
-CHI
-CHIAG
+
+
 
 
 
@@ -405,7 +409,7 @@ SHARK
 CHARS
 
 A not in order 
-MANOR
+MANOR 
 CAROM
 
 LT not in order 

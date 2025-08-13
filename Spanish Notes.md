@@ -488,7 +488,7 @@ tú - tuyo(os)/tuya(as) - yours
 el/ella - suyo(os)/suya(as)* - his/hers
 ellos/ellas/ustedes - suyo(os)/suya(as) - theirs/yours \*
 nosotros - nuestro(os)/nuestra(as) - ours
-vosotros(ES) - vuestro(os)/vuestra(as)
+vosotros(ES) - vuestro(os)/vuestra(as) - yours (informal, plural)
 
 \* suyo/suya is often ambiguous, so in that case it can  be used with 'de' to identify the particular object/person doing the possession 
 Also see [[#Relationships]]
@@ -503,11 +503,19 @@ These rock records of yours are ancient!
 
 **You can use the definite article el, la, los, las before a stressed possessive pronoun in the place of a noun, provided that the noun has already been mentioned.**
 
-***Esta es tu cartera. La mía está en casa.***
+*Esta es tu cartera. La mía está en casa.*
 That's your wallet. Mine (lit. The mine) is at home.!
 
-***Me gustan estos cuadros, pero los tuyos son más bonitos.***
+*Me gustan estos cuadros, pero los tuyos son más bonitos.*
 I like these pictures, but yours (lit. the yours) are nicer.
+
+The stressed possessive pronouns always come after the noun that they refer to. Just like adjectives, they have to agree with the nouns in gender and number, by adding the usual endings.
+
+*Ese dinero es mío.* 
+That money is mine.
+
+*Esas cosas son suyas.* 
+Those things are his.
 
 [[#Table of Contents]]
 # Vosotros 
@@ -545,9 +553,29 @@ those - esas(f) esos(m)
 - aquellas/aquellos also (at a distance) 
 that - esa (fem) ese (masc)
 - further away than ***this***
-- aquella/aquello  at a distance (over there)
-- What is that? - ¿qué es eso?
+- aquella/aquello  at a distance (that over there)
+- eso - neutral that 
+   - What is that? - ¿Qué es eso?
+- esos/esas - those (plural)
+
 Pneumonic: **THIS AND THESE HAVE Ts**
+
+## General rules for this & that 
+
+1. ***Esto*** refers to things close by.
+2. ***Eso*** refers to things a bit further away.
+3. ***Aquello*** refers to things a long way away.
+
+Just as with the other demonstrative pronouns, esto, eso and aquello are used according to the distance from the object referred to. ***They always refer to objects***:
+
+*Esto es un limón.*
+This is a lemon.
+
+*Eso es un limón.*
+That is a lemon.
+
+*Aquello es un limón.*
+That over there is a lemon.
 
 [[#Table of Contents]]
 
@@ -1566,6 +1594,8 @@ la tarjeta de crédito - credit card
   - la basura - take out the trash 
 ## Bathroom 
 - el baño - bathroom 
+- la bañera - bathtub 
+  - bañarse - to bathe
 - la ducha - shower 
 - el lavabo - sink
 - el espejo - mirror 
@@ -1591,6 +1621,7 @@ la cómoda - dresser
 el escritorio - desk
 - una mesa de estudio 
 - cajones - drawers 
+la butaca - armchair 
 la regleta - power strip 
 la cable USB - USB cable 
 el enchufe - plug
@@ -1754,6 +1785,7 @@ ahora mismo - right now
 aquí mismo - right here 
 antier - The day before yesterday
 anoche - last night 
+antenoche - the night before last night 
 cada tercer dia - every other day
 
 [[#Table of Contents]]
@@ -2225,6 +2257,7 @@ la temperatura - temperature
 - el termómetro - thermometer 
 soleado(a) - sunny 
 el calor - hot/heat
+- caluroso - hot, warm
 - clima caluroso - hot weather 
 el frio - cold
 - clima frío - cold weather 

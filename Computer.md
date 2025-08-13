@@ -1,4 +1,11 @@
 
+
+# Disable Microphone access on Android 
++ Under settings, select Security and Privacy 
++ Select Privacy Dashboard 
++ Select Microphone 
++ Click Manage Permissions button 
++ Click on each app you want microphone disabled and select Don't Allow 
 # Canon Pixma TR8520 Printer
 
 Ink:

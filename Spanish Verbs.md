@@ -58,7 +58,7 @@ Note that in the ***preterite tense*** the ***-er and -ir endings are the same**
 - [[#llamar - to call]]
 - [[#llegar - to arrive]]
 - [[#levantar - to raise, get up]]
-- [[#llevar - to carry away, take, to wear]]
+- [[#llevar - to take, carry away, to wear]]
 - [[#llorar - to cry]]
 - [[#mandar - to send]]
 - [[#mirar - to look, watch]]
@@ -192,7 +192,6 @@ Note that in the ***preterite tense*** the ***-er and -ir endings are the same**
 [[#Preterite (pretérito indefinido)]]
 ## Imperfect tense  
 [[#Imperfect tense (pretérito imperfecto)]]
-
 ## Present Perfect 
 [[#Present Perfect (pretérito perfecto)]]
 
@@ -210,7 +209,14 @@ Note that in the ***preterite tense*** the ***-er and -ir endings are the same**
 
 [[#Conditional Tense]]
 
+## Subjunctive
+
+[[#Subjunctive Mood]]
+
+
 ---
+
+
 # Regular Verb Conjugations
 
 
@@ -263,12 +269,14 @@ With, *de*, it means that something was just completed.
 #### intentar - to try
 - See [[#probar - to prove,test, try on, taste]]
 ### llamar - to call
+
+[[#Table of Contents]]
 ### llegar - to arrive
 - **Command**: llega
 - **Preterite:** yo llegué (others are regular)
 ### levantar - to raise, get up
 - #### levantarse 
-### llevar - to carry away, take, to wear
+### llevar - to take, carry away, to wear
 ### llorar - to cry
 
 ### mandar - to send 
@@ -1761,15 +1769,36 @@ It can also be used by itself:
 4. For talking about time and dates
 
 5. Descriptions in the past
+### Describing a scene
+
+In contrast with the indefinido, **the imperfecto is used for describing a scene. Therefore, the imperfecto gives background information about the situation.**
+
+*Cuando apuntó al arco, estaba rodeada de jugadoras.*
+When she aimed at the goal, she was surrounded by players.
+### Simultaneous events 
+
+***The imperfecto is also used to describe two things that were happening at the same time.***
+
+*Mientras la delantera avanzaba, la defensa se compactaba.*
+While the forward was advancing, the defense was closing in (lit. compacting).
+
+Often when describing a scene, the continuous form of estar is used in the imperfecto with a present participle such as hablando.
+
+*Estaba hablando con Ana cuando empezó el partido.*
+I was speaking with Ana when the game began.
+
+*Anoche estábamos viendo la tele cuando llegó Roberto.*
+Last night we were watching TV when Roberto arrived.
+
+While (*mientras*) and when *(cuando)* are often used in this situation.
 ### Summary:
-The imperfect tense is translated by preceeding the verb with "was" or "use to".
+The imperfect tense is translated by preceding the verb with "was" or "use to".
 Both
 I ***was*** working and
 I ***use to*** work 
 is translated to *Trabajaba* in the Spanish imperfect tense.
 
-In the preterite you would not need any other words.
-I worked would just be *Trabajé* 
+In the preterite you would not need any other words. I worked would just be *Trabajé* 
 
 ### Regular endings
 
@@ -2012,6 +2041,10 @@ The conditional tense in Spanish is ***used to express hypothetical situations, 
 
 ***The endings for the conditional tense are the same as those for the -er and -ir forms of the imperfect tense, but they are attached to the infinitive*** rather than the stem. For example, the verb "viajar" (to travel) conjugates in the conditional as "viajaría" for "yo" (I), "viajarías" for "tú" (you), and "viajaría" for "usted, él, ella" (you, he, she).
 
+The ***conditional tense is also used
+to express wishes, preferences, and to make polite requests***. For instance, 
+## Regular conditional verbs 
+
 ***Regular verbs follow a standard set of endings:***
 -ía for "yo" (I)
 -ías for "tú" (you)
@@ -2020,14 +2053,39 @@ The conditional tense in Spanish is ***used to express hypothetical situations, 
 -íais for "vosotros" (you all)
 -ían for "ustedes, ellos, ellas" (you all, they).
 
+## Irregular conditional verbs 
+
 **Irregular verbs** in the conditional tense use the same stems as in the future tense. Common irregular verbs include 
 "decir" (to say)
 "hacer" (to do/make)
 "venir" (to come)
 "tener" (to have)
 "poder" (to be able to).
+With some verbs, the condicional endings are added to a different base from the infinitive. These different bases correspond to the changed bases of irregular verbs in the future.
 
-The ***conditional tense is also used to express wishes, preferences, and to make polite requests***. For instance, 
+### Irregular conditional patterns 
+
+***With poder the e of the ending is dropped.***
+
+*¿Podrías darme el folleto? (poder, tú)*
+Could you give me the programme?
+
+***With other verbs, the e is dropped from the infinitive but is replaced by a d.***
+
+¿*Tendrías tiempo en el intermedio? (tener, tú)*
+Would you have time in the intermission?
+
+***There are other verbs which have a changed base (which is also the base for the future form). The condicional ending is added to this base.***
+
+*Ellos no harían una obra para niños. (hacer)*
+They wouldn't do a play for children.
+
+*No querríamos trabajar por la noche. (querer)*
+We wouldn't want to work nights.
+
+*¿Qué diría el director? (decir)*
+What would the director say?
+
 ## Gustar
 The verb gustar which normally means **to like** in the conditional tense it means ***would like***. The phrase "me gustaría" (I would like) is commonly used to express what you would like to do in the future or to make polite requests. 
 
@@ -2040,6 +2098,39 @@ In addition, ***the conditional is used in reported speech to express future eve
 The ***conditional tense can also be used to express hypothetical situations with "si" (if) clauses***. For example, "Si tuviera mucho dinero, iría de vacaciones" (If I had a lot of money, I would go on holiday).
 
 In summary, the conditional tense in Spanish is a versatile tool for expressing hypothetical situations, probabilities, and polite requests, and it is formed using specific endings attached to the infinitive form of the verb.
+
+[[#Table of Contents]]
+
+# Subjunctive Mood
+
+The Spanish subjunctive is a mood, rather than a tense. It’s used in certain circumstances, such as:
+- To express doubt
+- To show feeling or emotion about something
+- To show whether we think something is true or not
+
+We have the subjunctive in English too! Although it’s not as commonly used as the Spanish subjunctive, phrases such as the following use the English subjunctive:
+“If I were you”
+“So be it”
+“If I had known”
+
+## Present Subjective 
+***subjuntivo presente*** 
+
+The easiest way to remember this is to think about **switching the ending, and think of the _yo_ form:**
+
+> **-AR verbs switch their endings to -ER verbs  
+> -ER and -IR verbs switch to -AR endings**
+
+**All the conjugations are based on the _yo_ form of the indicative tense (ie, the normal one that you use!)**
+
+
+### Ser
+que yo sea
+que tú seas
+que él/ella/usted sea
+que nosotros seamos 
+que vosotros seáis
+que ellos/ellas/ustedes sean
 
 [[#Table of Contents]]
 

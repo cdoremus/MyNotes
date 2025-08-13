@@ -1,11 +1,38 @@
+# Table of Contents 
+[[#SDLA Board]]
 [[#Newsletters]]
+[[#Board Meetings]]
 
+# Party
+
+## Speeches
+Mike
+Chris
+Catherine 
+Tom Johnson - Dr Sweet & first meetings
+- expand the lot size (50-100 frontage)
+- set back septic tank 
+- prevent building behind camps
+Driscoll - Dr Sweet & other old families 
+
+## Drawings
+
+Sarah Hedrick 50/50
+Raffle
+- Wells - Christian Dyer-Ward 
+- Fishing trip - Jerry
+- Sara Hedrick - 200 gift cert
+- kayak rental + Diantha
+# Bring to party 
+- tickets 
+- money apron
+- documents in folder
 
 # Margo
 
 1984-2006 full time at Beach
 - 82-83 part time 
-,$2 Adult (80s)
+$2 Adult (80s)
 $1 Child 
 
 
@@ -41,7 +68,8 @@ Catherine Caswell - caswellsfarm@gmail.com
 Melissa True • truelymelissa@icloud.com
 George and Melissa True • Gtrue@maine.rr.com
 
-## Meetings 
+[[#Table of Contents]]
+## Board Meetings 
 
 ### Board Meeting 7/2/25
 
@@ -50,11 +78,21 @@ George and Melissa True • Gtrue@maine.rr.com
 5:30-6:30 & 7:30-8:00  - sell 50/50 tickets
 
 ***Display*** 
-Foam core board 20x30
+Foam core board 20x30 (4)
 Easel 
 Tape - double-sided mounting tape, mounting squares 3M ($4) for photos or scrapbooking 
 Ruth, Catherine & Lori - committee 
-- send them easel requirements (number)
+- send them easel requirements (number)h
+
+***Photos***
+- last newsletter pics 
+- Margo photos 
+- Ruthie pics
+- Ruthie neighbor scrapbook pics
+- Cheryl skiing pics 
+- Bob Hawkes
+- William Thurston??
+
 
 NG Fair - Sept 6
 11:30-2:00 - my shift
@@ -236,20 +274,37 @@ Bill
 - Tom Johnson sent me an email in September detailing the early history of the SDLA. Will send to Chris 
 - Ice out records
 
-# Cost estimate for printing newsletter via online vendor
-
-The online quote for 12 page - full color saddle stitched (so more like a magazine) premium 32/80# text smooth, for 150 copies is $341.86 without the 15% off coupon.  Price would be less with different quality paper.   This would not be folded in half but mailed magazine style - which would be kind of cool for our 50th Anniversary Edition.
-We would also have to factor in approximately $40 for envelopes.  Mailing would cost more - first class flat is $1.22.per unit.  So $183 for mailing 150 units.
-Total for 150 mailed would be approximately $565.
 
 # Newsletters
 
-## Summer Fall Newsletter 
+## Cost estimate for printing newsletter via online vendor Docucopies
+
+https://www.docucopies.com/
+
+### From Lori
+The online quote for 12 page - full color saddle stitched (so more like a magazine) premium 32/80# text smooth, for 150 copies is $341.86 without the 15% off coupon.  Price would be less with different quality paper.   
+This would not be folded in half but mailed magazine style - which would be kind of cool for our 50th Anniversary Edition.
+We would also have to factor in approximately $40 for envelopes.  Mailing would cost more - first class flat is $1.22.per unit.  So $183 for mailing 150 units.
+Total for 150 mailed would be approximately $565.
+
+
+## Summer Fall 2025 Newsletter 
 ### Articles & Pics
+
+President's Report by Catherine 
+
+IPP report by Mike 
+
 Article on Summer Party 
-- Maybe part of President's report 
 
 Article on local weather stations.
+
+Property Value article by John Christianson
+
+
+More History from Tom Johnson 
+- Dr Sweet?
+
 
 
 Pic by Bill Fichtell
@@ -258,7 +313,12 @@ Pic by Bill Fichtell
 Pics from Chris 
 - IPP group 
 - Water quality sampling
-## Corrections to Winter spring newsletter 
+
+Pics from the 50th party display 
+
+## Winter Spring 2025 Newsletter 
+
+### Corrections to Winter Spring newsletter 
 ### Chris Ricardi's article 
 - The last line in the first full paragraph in the second column contains "that we can be made". Just remove the "we" from that sentence.
 - The last line in the article contains the phrase "in a VP". Change that to "in as VP".
