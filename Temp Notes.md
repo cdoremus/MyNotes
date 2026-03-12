@@ -1,4 +1,6 @@
 
+
+
 Thank you for meeting with my wife and me last Friday about the options concerning my pericardium inflammation. I have not made my mind up yet about which way I want to go with my heart condition, because I still have questions. 
 
 The main question I have is what happens if I do nothing? What impact does it have on my longevity and the quality of the rest of my life? Related to this question is what is the impact of waiting before I go on the IL1 inhibitor to see if my condition improves. How long can I wait and not significantly affect my health.
