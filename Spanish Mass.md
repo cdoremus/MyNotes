@@ -12,52 +12,95 @@ perdone nuestros pecados
 y nos lleve a la vida eterna. Amén.
 
 # GLORIA 
-Gloria a Dios en el cielo, 
-y en la tierra paz a los hombres que ama el Señor. 
-Por tu inmensa gloria te alabamos, 
-te bendecimos, te adoramos, 
-te glorificamos, te damos gracias, 
-Señor Dios, Rey celestial, 
-Dios Padre todopoderoso.
+**Gloria a Dios en el cielo,** 
+Glory to God in heaven
+**y en la tierra paz a los hombres que ama el Señor.** 
+And on earth peace to those on whom his favor rests.
+**Por tu inmensa gloria te alabamos,** 
+We praise you for your great glory.
+**te bendecimos, te adoramos,** 
+We bless you, we adore you
+**te glorificamos, te damos gracias,** 
+We glorify you, we give you thanks
+**Señor Dios, Rey celestial,** 
+Lord God, Heavenly King
+**Dios Padre todopoderoso.**
+God Father Almighty 
 
 
 # CREDO / PROFESIÓN DE FE  
-Creo en un solo Dios, 
-Padre todopoderoso, 
-Creador del cielo y de la tierra, 
-de todo lo visible y lo invisible. 
-Creo en un solo Señor, Jesucristo, 
-Hijo único de Dios, 
-nacido del Padre antes de todos los siglos: 
-Dios de Dios, Luz de Luz, 
-Dios verdadero de Dios verdadero, engendrado, no creado, 
-de la misma naturaleza del Padre, 
-por quien todo fue hecho; 
-que por nosotros, los hombres, 
-y por nuestra salvación bajó del cielo,    (Se inclina levemente la cabeza) 
-y por obra del Espíritu Santo se encarnó de María, la Virgen, y se hizo hombre;    
-(Se finaliza la inclinación de la cabeza) y por nuestra causa fue crucificado 
-en tiempos de Poncio Pilato; 
-padeció y fue sepultado, 
-y resucitó al tercer día según las Escrituras,
-y subió al cielo, y
-está sentado a la derecha del Padre; 
-y de nuevo vendrá con gloria  para juzgar a vivos y muertos, 
-y su reino no tendrá fin. 
-Creo en el Espíritu Santo, 
-Señor y dador de vida, 
-que procede del Padre y del Hijo, 
-que con el Padre 
-y el Hijo recibe una misma adoración 
-y gloria, 
-y que habló por los profetas. 
-Creo en la Iglesia, que es una, 
-santa, católica y apostólica. 
-Confieso que hay un solo bautismo
-para el perdón de los pecados. 
-Espero la resurrección de los muertos 
-y la vida del mundo futuro. Amén.
-
+**Creo en un solo Dios,** 
+Our father who art in heaven
+**Padre todopoderoso,** 
+Almighty Father
+**Creador del cielo y de la tierra,** 
+Creator of heaven and earth
+**de todo lo visible y lo invisible.** 
+of all that is visible and invisible
+**Creo en un solo Señor, Jesucristo,** 
+I believe in one Lord, Jesus Christ,
+**Hijo único de Dios,** 
+Only Son of God
+**nacido del Padre antes de todos los siglos:** 
+born of the Father before all ages
+**Dios de Dios, Luz de Luz,** 
+God of God, Light of Light
+**Dios verdadero de Dios verdadero, engendrado, no creado,** 
+True God from true God, begotten, not made,
+**de la misma naturaleza del Padre,** 
+of the same nature as the Father
+**por quien todo fue hecho;** 
+by whom all things were made;
+**que por nosotros, los hombres,** 
+that for us men,
+**y por nuestra salvación bajó del cielo,
+and for our salvation he came down from heaven,
+(Se inclina levemente la cabeza)** 
+(He tilts his head slightly)
+**y por obra del Espíritu Santo se encarnó de María, la Virgen, y se hizo hombre;**    
+and by the Holy Spirit was incarnate of the Virgin Mary, and became man;
+**(Se finaliza la inclinación de la cabeza)
+y por nuestra causa fue crucificado** 
+**en tiempos de Poncio Pilato;** 
+and for our sake he was crucified
+in the days of Pontius Pilate;
+**padeció y fue sepultado,** 
+He suffered and was buried
+**y resucitó al tercer día según las Escrituras,**
+He rose again on the third day according to the Scriptures
+**y subió al cielo,**
+and ascended into heaven, and
+**y está sentado a la derecha del Padre;** 
+and is seated at the right hand of the Father;
+**y de nuevo vendrá con gloria  para juzgar a vivos y muertos,** 
+and he will come again in glory to judge the living and the dead,
+**y su reino no tendrá fin.** 
+and his kingdom will have no end
+**Creo en el Espíritu Santo,** 
+I believe in the Holy Spirit
+**Señor y dador de vida,** 
+Lord and giver of life
+**que procede del Padre y del Hijo,** 
+who proceeds from the Father and the Son,
+**que con el Padre** 
+that with the Father
+**y el Hijo recibe una misma adoración** 
+**y gloria,** 
+and the Son receives the same worship and glory 
+**y que habló por los profetas.**
+and who spoke through the prophets.
+**Creo en la Iglesia, que es una,** 
+I believe in the Church, which is one,
+**santa, católica y apostólica.** 
+holy, catholic and apostolic.
+**Confieso que hay un solo bautismo**
+I confess that there is only one baptism
+**para el perdón de los pecados.** 
+for the forgiveness of sins
+**Espero la resurrección de los muertos** 
+I await the resurrection of the dead
+**y la vida del mundo futuro. Amén.**
+and the life of the world to come. Amen.
 # PREPARACIÓN DE LAS OFRENDAS 
 *Bendito seas Señor, Dios del universo . .*
 Bendito seas por siempre, Señor.  

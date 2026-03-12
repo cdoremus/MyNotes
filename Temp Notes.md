@@ -1,3 +1,224 @@
+
+Thank you for meeting with my wife and me last Friday about the options concerning my pericardium inflammation. I have not made my mind up yet about which way I want to go with my heart condition, because I still have questions. 
+
+The main question I have is what happens if I do nothing? What impact does it have on my longevity and the quality of the rest of my life? Related to this question is what is the impact of waiting before I go on the IL1 inhibitor to see if my condition improves. How long can I wait and not significantly affect my health.
+
+Thanks, in advance, for your response to these questions.
+
+
+---
+
+
+I think of you with a deep ache in my heart when we have disagreements.
+
+I ask myself, what can I do to fix things and I am lost for words to express myself. All I  can say is the last thing I would do is to hurt or upset you. 
+
+I long to put a smile on your face. All I want is to make you happy and to love you. Please help me do that.
+
+
+Pienso con un dolor profundo en mi corazón cuando tenemos desacuerdos.
+
+Me pregunto que puedo hago fijar cosas y  estoy perdido por palabras para expresarme.  Todo lo que puedo decir es la última cosa yo lo haría es dolerte o molestarte.
+
+Quiero poner un sonrein en tu cara y amarte. Por favor, ayudarme.
+
+
+--- 
+
+
+Justin,
+
+I can't thank you enough for your message during my recent hospitalization. it really made my day when I read it and has helped in my recovery which has progressed, albeit slowly.
+
+And thank you for your continued thoughts and prayers on my behalf. I do pray for you too. I pray that you are doing good work and using your talents to their utmost. I know that you were a good teacher, and I hope you still use  your communication skills. 
+
+I miss not being able to see you and talk to you during family gatherings as does Diana. I'm very much out of practice when it comes to writing letters but the letters you have sent us have been nothing short of amazing. We are always happy to hear from you, so please do so when you get the chance.
+
+
+
+--- 
+
+## Everything You Need to Know About “Quedar” in Spanish to Use It Correctly
+
+Quedar (and its pronominal form quedarse) is a very common verb in Spanish. It’s incredibly versatile and has many different meanings, which is why learners often struggle with it. So in this post, I’ve listed all the main uses of quedar(se) to help you stop getting confused and use it correctly and naturally.
+
+1. QUEDAR 
+
+1.1. To remain / To have left. Used to talk about quantity, what is left after the rest has been used or taken.
+
+* No queda leche. → There is no milk left.
+* Solo nos quedan cinco minutos. → We only have five minutes left.
+
+1.2 To meet up / To arrange a meeting. This is one of the most common social uses in Spain. It refers to the act of setting a time and place to see someone.
+
+* He quedado con Ana a las 8. → I’m meeting Ana at 8.
+* ¿Quedamos mañana para tomar un café? → Shall we meet up tomorrow for a coffee?
+
+1.3 To fit / To suit (Clothing). When talking about clothes or accessories, Quedar describes the size or the look.
+
+* Esa camisa te queda muy bien. → That shirt fits you very well / looks good on you.
+* Estos zapatos me quedan pequeños. → These shoes are too small for me.
+
+1.4 To be located (Synonym of “Estar”). We use it to describe the location of places or the distance.
+
+* ¿Dónde queda la farmacia? → Where is the pharmacy located?
+* Tu casa queda muy lejos de aquí. → Your house is very far from here.
+
+2 . QUEDAR**SE**
+
+When we add “se” to quedar, it takes on new meanings and new ways of being used.
+
+2.1. To stay / to remain (in a place)
+
+The most basic meaning, This is the standard opposite of “to go” or “to leave.”
+b
+* Me quedo en casa. → I’m staying home.
+* ¿Te quedas o te vas? → Are you staying or leaving?
+* Nos quedamos aquí un rato. → We’ll stay here for a while.
+
+2.2. To keep (To choose something). Used when deciding to buy or keep an item.
+
+* Me gusta este vestido, me lo quedo. → I like this dress, I’ll take it (I keep it).
+* ¿Te vas a quedar con los libros viejos? → Are you going to keep the old books?
+
+ 2.3. To become (Change of state). Quedarse + Adjective describes a change in physical or emotional state. 
+
+* Se quedó dormido en el sofá. → He fell asleep on the sofa.
+* Me quedé sorprendido con la noticia. → I was surprised by the news.
+* Se quedó embarazada. → She got pregnant.
+* Se quedó pálido al escuchar eso. → He turned pale when he heard that.
+
+3.  Common Expressions with Quedar(se):
+
+1 . Quedarse en blanco: To go blank (forgetting everything).
+
+* En el examen me puse nervioso y me quedé en blanco. (I got nervous in the exam and my mind went blank).
+
+2 . Quedar bien / mal: To make a good/bad impression.
+
+* Tengo que llevar un regalo para quedar bien. (I have to bring a gift to make a good impression).
+
+3 . Quedarse con las ganas: To be left wanting / To miss out on something you wanted to do.
+
+* Quería ir al concierto, pero se agotaron las entradas y me quedé con las ganas. (I wanted to go to the concert, but tickets sold out and I was left wanting / missed out).
+
+4 . Quedarse corto: To fall short / To underestimate..
+
+* Pensé que la cena costaría 50€, pero me quedé corto; costó 80€. I thought dinner would cost €50, but I fell short / underestimated it; it was €80.
+
+5 . Quedarse de piedra: Meaning: To be stunned / paralyzed with surprise.
+
+* Al ver el accidente, nos quedamos de piedra. (When we saw the accident, we were stunned/frozen).
+
+6 . Quedarse atrás → to fall behind / lag behind
+
+* Me estoy quedando atrás en clase. → I’m falling behind in class.
+
+7 . Quedarse fuera → to be left out / to miss out
+
+* Me quedé fuera del grupo. → I got left out of the group
+
+8 . Quedarse sin + noun → to run out of / end up without
+
+* Me quedé sin batería. → My battery died / I ran out of battery.
+* Nos quedamos sin entradas. → We ended up without tickets.
+
+
+
+
+---
+
+
+Topsham Family Medicine 
+798-6200
+
+---
+
+Boston World Cup games
+
+Sat 6/13 Haiti vs Scotland 
+Tues 6/16 Iraq/Bolivia/Surinam vs Norway 
+Fri 6/19 Scotland vs Morocco
+Tues 6/23 England vs Ghana 
+Fri 6/26 Norway vs France 
+
+Official Supporterklubben site (Norge) — membership & ticket info:
+https://www.supporterklubben.no/
+
+Gold membership 200 kroner (~$20)
+
+
+
+___
+
+To Chatgpt
+I am learning Spanish. I am at the early stage of A2 level. I would like you to quiz me on the difference between the use of ser and estar. Please give me questions in the form of a sentence where ser or estar is missing and have me fill in the blank with the correct verb conjugation. Here is an example: "___ James" where my response should be Soy. If my response is incorrect please let me know why in English. Also, stick with the Spanish present tense for now.
+
+
+Ser → events, dates, locations of meetings
+Estar → physical locations of people or things
+
+---
+
+1 está x es
+2 estan
+3 es x son (time)
+4 estan
+5 estoy 
+6 es
+7 somos
+8 está 
+9 es
+10 está 
+
+# Mail hold 
+Confirmation number CAH540837656
+Delivery on Monday Sept 22
+# Home insurance 
+- $4k/yr
+- Actual Cash Replacement 
+
+# Chores
+- Sunroom cabinet 
+- Man cave 
+  -  Sofa
+  - Mess
+- Dresser
+
+x(bat) + y(ball) = 110
+x + y = 110
+x = y + 100
+
+y + 100 + y = 110
+2y + 100 = 110
+2y = 10
+y = 5
+x = 110 - y
+x = 110 - 5
+x = 105v
+
+# Weather stations
+SDL South
+https://www.wunderground.com/dashboard/pws/KMENEWGL31
+SDL North
+https://www.wunderground.com/dashboard/pws/KMENEWGL29
+Rt 26
+https://www.wunderground.com/dashboard/pws/KMENEWGL33
+Pineland
+https://www.wunderground.com/dashboard/pws/KMENEWGL21
+Mayall Rd
+https://www.wunderground.com/dashboard/pws/KMENEWGL20
+Blueberry Hill
+https://www.wunderground.com/dashboard/pws/KMESOUTH96
+
+# Mansfield 630-0030 Flush Valve Seal
+
+For Mansfield #160 tank
+
+Lewiston, South Portland, Biddeford 
+Not Windham 
+
+
 # AirNow data feed URL
 
 https://feeds.airnowapi.org/rss/realtime/268.xml
@@ -30,11 +251,14 @@ Inception
 The Martian 
 
 
+
+
 ## Other Favs
 October Sky 
 The Big Lebowski
 Sense and Sensibility
 The Shawshank Redemption
+The Importance of Being Ernest 
 
 # Protest slogans 
 Dump the Chump Trump
@@ -56,14 +280,7 @@ DO(2)
 SOMETHING (9)
 DEMS (4)
 
-# Lynne 
 
-We saw this on our trip and thought it was a perfect birthday gift for you. So we guess you're going to have to find your own vodka, wine, cheese and chocolate. 
-
-Instead we are sending you bour early birthday wishes and the knowledge that you are loved.
-Love, c&d
-
-and hope that you can find a cool spot in the shade to fan yourself and enjoy your new puppy.
 
 # Diana
 ## Leg problem 7/3/25 
@@ -96,23 +313,6 @@ https://www.wunderground.com/dashboard/pws/KMENEWGL31
 
 
 
-# Canvassing for Harris
-
-Jane Morrison 
-415-2235
-
-House Race
-Coleen Strictler
-
-66 Baird - drop off sign 
-
-
-Eugene Bergeron
-733 Webster Street 
-may need a ride on Tuesday
-
-Maine Democrat Lewiston Office 
-Thomas 207-236-5373
 
 
 https://pine64.org/devices/pinepower/
@@ -122,7 +322,6 @@ https://pine64.org/devices/pinepower/
 https://bsky.app/profile/cdoremus.deno.social
 
 
-Package was ordered on 11/11. Two days ago I saw this message in the 'track package ' page: "Package was damaged and will be returned." Please refund my account.
 
 ## Tax breaks on 401k withdrawal 
 
@@ -130,8 +329,6 @@ Invest in SMP500 through Key Bank
 -  not taxed 
 Donate RMD to a charity and
 deduct it from your taxes 
-
-# Maine Ski Pass
 
 ## Receipt requirement for Martin's Point reimbursement 
 - Itemized what was purchase  (Ski)
@@ -146,20 +343,6 @@ PO Box 689
 Farmington, ME  04938
 dgouwens@skimaine.com
 (207) 773-SNOW (7669)
-
-# Movies
-The cost of a movie ticket at Regal Colonie Center & RPX in Albany, NY can vary based on the time of day, format (like RPX or 3D), and ticket type (standard adult, child, senior, etc.). Here are general price ranges to expect:
-
-Standard Adult Ticket: Typically between $12 and $15.
-
-Matinee Pricing (before 5 or 6 PM): Around $9 to $11.
-
-Special Formats like RPX (Regal Premium Experience): Expect prices closer to $17 or more.
-
-Discount Tuesdays: Regal offers reduced pricing, often around $5 to $7 per ticket for standard showings.
-
-
-It's best to confirm exact pricing for your specific movie and time on Regal's website here or through online ticket providers like Atom Tickets.
 
 
 
@@ -176,55 +359,6 @@ ted@factory3.org - class questions
 - [ ] N95 mask
 - [ ] Fume extractor 
 - [ ] Headset 
-
-
-# Passport Renewal 
-
-
-ADDRESS
-207 International Drive, Portsmouth, NH 03801
-
-HOURS OF OPERATION
-M-F, 7:30-3:00pm (By Appt. Only)
-
-Visit Website
-Get Directions
-
-# Hotel in Seville the are pet free
-
-Here are some options that explicitly state they are pet-free:
- * Hotel Alfonso XIII, a Luxury Collection Hotel, Seville: This is a historic and luxurious hotel known for its elegance and impeccable service. It is a popular choice for discerning travelers and is generally considered a pet-free environment.
- * Corral del Rey: This boutique hotel is situated in a beautifully restored 18th-century building. They often emphasize a high level of cleanliness and may have a strict no-pets policy.
-   - muy muy caro
- * Hotel Casa 1800 Sevilla: This charming hotel offers a unique and intimate atmosphere. They may have specific policies regarding pets, so it's best to inquire directly with them to confirm.
-   - 4.7⭐, muy caro
-* Hotel Palacio Alcázar - $287/dia, 2 twins, near Cathedral, pets allowed 
-* El Rey Moro Hotel Boutique - nice 4.7⭐, but small rooms 
-* Hotel San Pablo Sevilla - too far 
-* Ocean Drive Sevilla 
-* Los Seises Sevilla - caro
-
-## Other hotels 
-Legado Alcazar Hotel
-- 4.6⭐
-- $280/day
-- Good location 
-Petit Palace Marqués Santa Ana
-- 4.5⭐
-- $230/day 3 beds
-- $257 with breakfast 
-- 215 sq ft
-- good location 
-- 2nd option??
-Hotel Vincci La Rábida
-- 4.5⭐
-- $257-$292/day
-- 237 sq ft room
-- pets not allowed!!!
-- airport transfer service 
-- rooms look nice 
-- 2184.93 Euro double with balcony+ breakfast 3/27-4/3
-- 1st option 
 
 # Ordering in Spain
 1. Una mesa para dos, por favor.  

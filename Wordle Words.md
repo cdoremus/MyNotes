@@ -1,22 +1,16 @@
 ### Current Game
-PLATE
-CAROM
+PLACE
+BLEED
+FIELD
 
-AMOXX
-AOMXX
-MOAXX
-MOXAX
-XOMAX
-XMOAX
-XXOMA
-XXMAO
+XIELD
 
+YIELD
+WIELD
 
+[[#PLATE as first wordb]]
 
-
-
-
-[[##PLATE as first word]]
+#[[#PLACE as first word]]
 
 ---------------------
 
@@ -353,7 +347,7 @@ LONER
 
 -------------------------------
 [[#Current Game]]
-# PLATE as first word
+# PLATE as first wordb
 
 PLATE with no matches 
 CORNS
@@ -363,13 +357,15 @@ CRONY
 PLATE + CORNS with no matches 
 FUDGY
 
+P in order LATE not in order
+PETAL
+
 PAE not in order 
 CAPER
 
 PA in order 
 PRANK
 PIANO
-
 
 LAE not in order 
 REGAL
@@ -569,10 +565,42 @@ BLEAT
 [[#Current Game]]
 
 
+# PLACE as first word
 
+Nothing matched 
+ROUST
+SNORT
 
+PL not in order 
+TULIP
+PUPIL
 
+PC not in order 
+CRIMP
+CROUP b
 
+A in order
+TRANS
+TRASH
+
+CA with A in order 
+CHART
+CHATS
+CHARS
+
+LAE with A in order 
+LEAST
+
+C in order 
+TOUCH
+BUTCH
+
+LE not in order 
+MOTEL
+BLEED
+INTEL
+
+[[#Current Game]]
 
 
 

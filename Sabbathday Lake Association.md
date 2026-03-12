@@ -6,14 +6,22 @@
 # Party
 
 ## Speeches
-Mike
-Chris
-Catherine 
-Tom Johnson - Dr Sweet & first meetings
+Mike - master of ceremonies 
+Chris - old pres
+Catherine  - new pres
+Tom Johnson - Dr Sweet & first meetings & mentioned Don O'Malley (who donated $1,000)
 - expand the lot size (50-100 frontage)
 - set back septic tank 
 - prevent building behind camps
-Driscoll - Dr Sweet & other old families 
+Steve Driscoll - Dr Sweet & other old families 
+Sarah Hedrick - won 50/50 & donated it back (lives near Bill)
+Bill - sold a lot of raffle tickets 
+Christine Dyer-Ward - won Bill's condo weekend (was camping & wanted to see musicians)
+Denny Breau - musician 
+- ????? played with Denny (ask Mike)
+Catherine's company did. the catering 
+
+
 
 ## Drawings
 
@@ -22,7 +30,7 @@ Raffle
 - Wells - Christian Dyer-Ward 
 - Fishing trip - Jerry
 - Sara Hedrick - 200 gift cert
-- kayak rental + Diantha
+- kayak rental - Diantha
 # Bring to party 
 - tickets 
 - money apron
@@ -67,6 +75,8 @@ Bill Fichtel - bill.fichtel@gmail.com
 Catherine Caswell - caswellsfarm@gmail.com
 Melissa True • truelymelissa@icloud.com
 George and Melissa True • Gtrue@maine.rr.com
+Micheal Graham - Shaker Liason
+
 
 [[#Table of Contents]]
 ## Board Meetings 
@@ -281,40 +291,82 @@ Bill
 
 https://www.docucopies.com/
 
+# Saddle stitch booklet 
+Docucopies newsletter layout form
+
+
 ### From Lori
 The online quote for 12 page - full color saddle stitched (so more like a magazine) premium 32/80# text smooth, for 150 copies is $341.86 without the 15% off coupon.  Price would be less with different quality paper.   
 This would not be folded in half but mailed magazine style - which would be kind of cool for our 50th Anniversary Edition.
 We would also have to factor in approximately $40 for envelopes.  Mailing would cost more - first class flat is $1.22.per unit.  So $183 for mailing 150 units.
 Total for 150 mailed would be approximately $565.
-
+ 
+----
 
 ## Summer Fall 2025 Newsletter 
-### Articles & Pics
+### Articles & Pics 
+Oct 21 deadline 
 
 President's Report by Catherine 
 
 IPP report by Mike 
 
-Article on Summer Party 
+Article on Summer Party by Catherine 
+- photos
 
-Article on local weather stations.
+Article on local weather stations by me 
+- pics
+- screenshot of web page with map
 
-Property Value article by John Christianson
+Article on algal bloom by Chris 
+- photo of algae
 
-
-More History from Tom Johnson 
-- Dr Sweet?
-
-
+Note of appreciation for Diantha's (and Don's) contributions over the years 
+-  photo 
 
 Pic by Bill Fichtell
-- Him and granddaughter 
+- Him and granddaughter watching fireworks 
+
+Moose pic by Margo 
+
+----
+### Article notes
+
+#### Local weather stations.
+- Michael O'Neil - at beach (617-901-7701)
+- screen capture of map
+- ROBERTO, JOHN M 411 Sabbathday Road 
+   - Yellow house 
+
+SDL South
+https://www.wunderground.com/dashboard/pws/KMENEWGL31
+SDL North
+https://www.wunderground.com/dashboard/pws/KMENEWGL29
+Rt 26
+https://www.wunderground.com/dashboard/pws/KMENEWGL33
+Mayall Rd
+https://www.wunderground.com/dashboard/pws/KMENEWGL20
+
+
+### Other ideas
+More History from Tom Johnson 
+- Dr Sweet?
+- Maybe not????
 
 Pics from Chris 
 - IPP group 
 - Water quality sampling
 
 Pics from the 50th party display 
+
+Newsletter committee 
+Paul Gillis wife Carol 
+Also ask Cece
+
+*** ask Chris about Mac & archives 
+Pages is the newsletter publishing program built into the Mac
+
+---
 
 ## Winter Spring 2025 Newsletter 
 

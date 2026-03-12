@@ -7,3 +7,9 @@ A person who attempts to gain advantage by flattering influential people or beha
 An informer; a talebearer.
 Similar: informer, talebearer
 
+## propaniquity
+
+Proximity; nearness.
+Kinship.
+Similarity in nature
+
