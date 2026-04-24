@@ -69,7 +69,10 @@ Schroth Method for Scoliosis
 
 The Barcelona Scoliosis Physical Therapy School - North America
 Maine providers:
-https://www.bsptsnorthamerica-rigoconcept.com/maine-pts.html
+https://www.bsptsnorthamerica-rigoconcept.com/maine-pts.htmlo
+
+Paegle, Aija (C2) - 207-883-1227 - aijaPT@paegle.com
+Affiliated with Scarborough Physical Therapy Associates - Portland
 ### Walking pole settings 
 125 top
 105 bottom 

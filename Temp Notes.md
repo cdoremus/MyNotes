@@ -1,4 +1,31 @@
 
+# Boston World Cup Games
+
+Sat June 13
+Haiti vs Scotland 
+
+Tues June 16
+Bolivia or Iraq vs Norway 
+
+Friday June 19
+Scotland vs Morocco
+
+Tues June 23
+England vs Ghana (2nd choice)
+
+Friday June 26
+Norway vs France (1st choice)
+
+Monday June 29
+Round of 32
+Likely Germany (Group E1) vs 
+One of 3rd place from Groups ABCDF
+
+Thursday July 9
+Quarter Finals 
+
+
+---
 
 
 Thank you for meeting with my wife and me last Friday about the options concerning my pericardium inflammation. I have not made my mind up yet about which way I want to go with my heart condition, because I still have questions. 

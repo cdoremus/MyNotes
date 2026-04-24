@@ -24,7 +24,7 @@ Dr Sarah Gray - floor
 - prescription for salt pills - yes
 - effect of fish oil and eye minerals on recovery.
 ### Nephrologist 
-Dr Andrew Thornton - nephrologist 
+x Dr Andrew Thornton - nephrologist 
 Dr Matthew Pyenta - nephrologist 
 *Both are with:*
 Nephrology Associates of Central Maine 710 Main St., Ste. 2
@@ -172,6 +172,19 @@ kj
 Northern Light Eastern Maine Medical Center
 207-973-7000
 6-8 month MRI scheduling lead time 
+
+Elliot Heart and Vascular Center
+Elliot Hospital 
+https://www.elliothospital.org/
+Elliot Cardiovascular Consultants
+4 Elliot Way
+First Floor
+Manchester, NH 03103
+603-627-1669
+
+DartmouthHealth
+Cardiovascular Imaging
+802-442-0800
 ## Report 
 MRI Report from Maine Med 10/15/25
 
@@ -355,7 +368,14 @@ The images weren’t perfect because it was hard to hold your breath during scan
 
 
 6. Some fluid around the lungs, which can occur with inflammation or heart strain.
+7. 
 
+--- 
+
+# Arcalyst
+
+Hanna - Kinecell One Connect
+833-546-4572
 
 ---
 
