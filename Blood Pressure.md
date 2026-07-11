@@ -141,3 +141,15 @@ On blood pressure meds o
 109/74(98)
 103/72(88)
 103/70(73)
+
+Pericarditis hospitalization 10/25
+
+
+Start Eliquis. colchicine & metapropolol
+
+6/28/26
+O2=97(pulse 79)
+Temp 97.6
+129/77(76)
+115/68(68)
+107/61(63)

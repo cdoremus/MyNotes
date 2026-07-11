@@ -1,3 +1,199 @@
+**To Barbara** 
+
+We've always enjoyed your rhymes.
+It makes us think of our mutual good times.
+
+But I'd like to know how you find the time?
+The time to raise smart and beautiful daughters?. 
+The time to volunteer with the church?
+
+
+
+
+
+
+**Prescriptions**
+
+Eliquis (Apixiban) 5mg 2x day
+Colchicine 0.6mg 2x day
+Metaprolol Succinate ER 12.5mg 1x morning 
+Gabapentin 300mg 1x day
+Cialis 5mg 1x day
+Lutanoprost 0.005% 1 drop in each eye at night 
+MacuHealth Plus+ (Leutine & Zeanthanin) 4 pills
+Fish oil EPA 300mg DHA 130mg DPA 12mg 1x day
+Ibuprofen 200mg 1x day
+Magnesium 100mg 2x day
+Mult-vitamin 1xday
+
+
+
+ I realize that the link between gabapentin and low sodium is a rare occurrence, but I'd like to eliminate any possibility that this medication is causing  or helping with my low sodium problem, so I appreciate you making this medication switch.
+
+
+
+---
+
+**World Cup Game**
+Match 18: Iraq/Norway, Boston Stadium, 16 June 2026 18:00
+Category 2: Main Stand Left - Middle Tier - Block 205 - Row 19 - Seat(s): 2 - 1
+
+**Notes for Kim**
+
+This is your tio and Special Assistant to Dr. Dowd reporting that your abode is unsuitable for habitation. You will be reported to the health department of Outer Slobovia for numerous sanitary violations.
+
+Oye Kimberly ¡Estoy muy emocionada por  almorzar contigo el miércoles próximo!
+Here are some things that we talked about that you need to know:
+
+My nephew:
+Scott Giminiani
+38 Hancock St, Somerville, MA 02144
+
+North Station departure times on Wednesday 
+3:45 PM	5:20 PM	10:30 PM
+
+Here's my guide for England Players to Watch:
+Harry Kane (#9) - 67 goals this season!!!
+Jude Bellingham (#10) - a top #10 playmaker and he knows it (but not always lives up to it)
+Declan Rice (#4) - amazing endurance: everything, everywhere all at once; watch out for his free kick
+Bukaya Saca (#7) - right wing; can be brilliant; recovering from injury 
+Jordan Pickford (goalie) - very athletic saves 
+
+-----
+
+## 20 Short Spanish Expressions You’ll Hear Every Day
+
+1 . Es que → It’s just that
+
+* Es que no tuve tiempo de llamarte. → It’s just that I didn’t have time to call you.
+
+2 . Pues → Well / So
+
+* Pues no sé qué decirte. → Well, I don’t know what to tell you.
+
+3 . Ya está → That’s it / It’s done
+
+* Ya está, no tenemos que hacer nada más. → That’s it, we don’t have to do anything else.
+
+4 . Me suena → It sounds familiar
+
+* Ese nombre me suena, pero no recuerdo de dónde. → That name sounds familiar, but I don’t remember from where.
+
+5 . En fin → Anyway
+
+* En fin, mejor hablemos de otra cosa. → Anyway, let’s talk about something else.
+
+6 . ¿De verdad? → Really?
+
+* ¿De verdad vas a mudarte a Madrid? → Are you really going to move to Madrid?
+
+7 . Menos mal → Thank goodness
+
+* Menos mal que llegamos a tiempo. → Thank goodness we arrived on time.
+
+8 . No estoy seguro/a → I’m not sure
+
+* No estoy segura de que sea buena idea. → I’m not sure it’s a good idea.
+
+9 . Qué bien → That’s great / How nice
+
+* ¡Qué bien que hayas aprobado el examen! → That’s great that you passed the exam!
+
+10 . Qué mal → That’s bad / That sucks
+
+* Qué mal que no puedas venir mañana. → That sucks that you can’t come tomorrow.
+
+11 . Sin duda → Without a doubt
+
+* Sin duda, fue la mejor decisión. → Without a doubt, it was the best decision.
+
+12 . De momento → For now
+
+* De momento, vamos a esperar un poco. → For now, we’re going to wait a little.
+
+13 . De repente → Suddenly
+
+* De repente, empezó a llover muchísimo. → Suddenly, it started raining a lot.
+
+14 . Quién sabe → Who knows
+
+* Quién sabe, tal vez cambie de opinión. → Who knows, maybe he’ll change his mind.
+
+15 . Tal vez → Maybe / Perhaps
+
+* Tal vez deberíamos hablarlo mañana. → Maybe we should talk about it tomorrow.
+
+16 . A última hora → At the last minute
+
+* Cancelaron la reunión a última hora. → They canceled the meeting at the last minute.
+
+17 . Eso es → That’s it / Exactly
+
+* Eso es, justo eso quería decir. → Exactly, that’s exactly what I wanted to say.
+
+18 . Por nada → For no reason / It’s nothing
+
+* Se enfadó conmigo por nada. → He got angry with me for no reason.
+
+19 . Como quieras → As you wish / Whatever you prefer
+
+* Podemos ir hoy o mañana, como quieras. → We can go today or tomorrow, whatever you prefer.
+
+20 . Más o menos → More or less
+
+* Entendí la explicación más o menos. → I understood the explanation more or less.
+
+---
+
+## Estate Planning 
+
+Tracy Furman
+Lanman Rayne (attorney office)
+Greta Achia
+Nelson Reade (attorney office)
+
+Financial Power of Attorney 
+Health Care "".     "". ""
+
+Health Care Advanced Directive 
+- living will included 
+- health care proxy
+- health care power of attorney 
+- care options 
+- burial options 
+- need to be done before dementia
+- authorize release of medical information
+- Checkbox to release HIPPA info 
+
+Power of Attorney 
+
+Will
+- what your wishes are
+- takes probate to be effective 
+- ME probate is easy
+- 2 witnesses and a notary need to sign
+- names an executor (fiduciary)
+- update when things change 
+
+Revokable Trust 
+- tax neutral 
+- plan to flow assets to beneficiaries 
+- customizable 
+- private 
+
+
+Will Alternatives
+Transfer On Death Deed 
+ - beneficiary gets property 
+ - sales take time 
+Joint Ownership 
+
+
+
+
+----
+
+
 
 # Boston World Cup Games
 

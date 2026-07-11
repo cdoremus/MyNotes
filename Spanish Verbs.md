@@ -68,6 +68,7 @@ Note that in the ***IMPERFECT tense*** the ***-er and -ir endings are the same**
 - [[#acompañar - to accompany]]
 - [[#adelgazar - to loose weight]]
 - [[#alegrar - to be happy]]
+- [[#apasionar - to inspire, be passionate about]]
 - [[#averiguar - to find out]]
 - [[#cambiar - to change]]
 - [[#cantar - to sing]]
@@ -93,7 +94,8 @@ Note that in the ***IMPERFECT tense*** the ***-er and -ir endings are the same**
 - [[#evitar - to avoid]]
 - [[#extrañar - to miss]] 
 - [[#ganar - to win, earn]]
-- [[#gustar - to like]]
+- [[#gozar - to enjoy, to enjoy oneself]]
+- [[#gustar - to like, to be pleased by something]]
 - [[#hablar - to speak]]
 - [[#intentar - to try]]
 - [[#jubilar - to retire]]
@@ -103,17 +105,22 @@ Note that in the ***IMPERFECT tense*** the ***-er and -ir endings are the same**
 - [[#llevar - to take, carry away, to wear]]
 - [[#llorar - to cry]]
 - [[#mandar - to send]]
+- [[#matar - to kill]]
+- [[#mejorar - to improve]]
 - [[#mezclar - to mix]]
 - [[#mirar - to look, watch]]
+- [[#necesitar - to need]]
 - [[#odiar - to hate]]
 - [[#olvidar - to forget]]
 - [[#parar - to stop]]
 - [[#pasar - to give/pass (an item), to spend/pass (time), to pass/stop by]]
 - [[#pegar - to stick, glue, to hit]]
+- [[#picar - to pick, bite, chop, pique]]
 - [[#preferir - to prefer]]
 - [[#preparar - to prepare]]
 - [[#prestar - to lend]]
 - [[#quedar - to meet, arrange, to be left]]
+- [[#quejarse - to complain]]
 - [[#quitar - to remove, take away]]
 - [[#regalar - to gift]]
 - [[#sonrojarse - to blush]]
@@ -129,12 +136,15 @@ Note that in the ***IMPERFECT tense*** the ***-er and -ir endings are the same**
 - [[#cometer - to commit]]
 - [[#correr - to run]]
 - [[#deber - to owe, should/must]]
-- [[#responder - to answer, respond]]
+  - [[#deber de - probably]]
+- [[#fortalecer - to strengthen]]
 - [[#nacer - to be born]]
 - [[#prometer - to promise]]
+-  [[#responder - to answer, respond]]
 - [[#vender - to sell]]
 **[[#-ir verbs]]**
 - [[#abrir - to open]]
+- [[#aburrir - to bore]]
 - [[#compartir - to share]]
 - [[#cumplir - to fulfill, to turn (age as in 'turn 60')]]
 - [[#describir - to describe]] 
@@ -163,6 +173,7 @@ Note that in the ***IMPERFECT tense*** the ***-er and -ir endings are the same**
 [[#conseguir - to get or obtain]]
 [[#contar - to count, to tell]]
 [[#continuar - to continue]]
+[[#corregir - to correct]]
 [[#dar - to give]]
 [[#decir - to say, to tell]]
 [[#desayunar - to have breakfast]]
@@ -178,6 +189,7 @@ Note that in the ***IMPERFECT tense*** the ***-er and -ir endings are the same**
 [[#empezar - to start]]
 [[#enviar - to send]]
 [[#esquiar - to ski]]
+[[#haber - to have (auxiliary)]]
 [[#hacer - to make/to do/to ask]]
 - [[#"I do" variations in Spanish]]
 - [[#How to talk about time with *hace*]]
@@ -187,6 +199,8 @@ Note that in the ***IMPERFECT tense*** the ***-er and -ir endings are the same**
 [[#llegar - to arrive]]
 [[#levantar - to get up]]
 [[#llover - to rain]]
+[[#mantener - to keep, maintain]]
+[[#morir - to die]]
 [[#mover - to move]]
 [[#oir - to hear]]
 [[#oler - to smell]]
@@ -197,7 +211,7 @@ Note that in the ***IMPERFECT tense*** the ***-er and -ir endings are the same**
 - [[#pensar en = to think about something or someone]]
 [[#perder - to lose]]
 [[#poner - to put, to give]]
-- [[#ponerse - to put on, try on]]
+- [[#ponerse - to put on, try on, to wear]]
 [[#probar - to prove,test, try on, taste]]
 [[#preferir - to prefer]]
 [[#poder- be able to / can]]
@@ -217,18 +231,21 @@ Note that in the ***IMPERFECT tense*** the ***-er and -ir endings are the same**
 [[#seguir - to continue, to follow]]
 - [[#seguir = still]]
 - [[#seguir + gerund = to keep doing something]]
+- [[#seguir instrucciones = to follow instructions]]
 [[#sentar - to sit]]
-[[#sentir - to feel]]
+[[#sentir - to feel]
+[[#soler - to usually do something]]
 [[#sonar - to sound]]
 [[#sonreír - to smile]]
 [[#tener - to have]]
+- [[#Expressions using *tener*]]
 [[#tocar - to touch, knock, tap, play (instrument)]]
 [[#traer - to bring]]
 [[#venir - to come]]
 [[#ver - to see]]
 [[#vestir - to dress]]
 [[#volar - to fly]]
-[[#volver - to come back]]
+[[#volver - to return]]
 
 [[#Table of Contents]]
  
@@ -255,6 +272,7 @@ Note that in the ***IMPERFECT tense*** the ***-er and -ir endings are the same**
 [[#Descriptions that change meaning with ser and estar]]
 
 [[#Tricky Adjectives Ser vs Estar]]
+
 
 [[#Table of Contents]]
 
@@ -283,19 +301,39 @@ tú -aste (hablaste)
 nosotros -amos (hablamos)
 vosotros	-áis (habláis)
 ellos, ellas/ustedes -aron (hablaron)
-#### acabar - to finish, end, complete 
-With, *de*, it means that something was just completed.
-- see: [[Spanish Notes#Just happened or finished]]
 
 ### abuchear - to boo
 
-### acabar -  to finish, end, complete
+### acabar - to finish, end, complete 
+With, *de*, it means that something was just completed. Use the Infinitive with it:
+
+*Acabo de llegar.*
+I just arrived.
+
+*Acabo de comer.*
+I just ate.
+
+Acabo de entender este tema 
+I just understood this topic.
+
+**See**: [[Spanish Notes#Just happened or finished]]
+### acabar + gerund - to end doing something 
+
+*Acabamos comprando la casa rojo.*
+We ended up buying the red house
+
+*Acabé estudiando toda la noche.*
+I ended up studying all night.
+
+**alternatively, use** [[#terminar - to finish]] + gerund
 ### acompañar - to accompany 
 
 ### adelgazar - to loose weight 
 - **Preterite (exception)***
   - yo adelgacé
 ### alegrar - to be happy
+
+### apasionar - to inspire, be passionate about 
 ### averiguar - to find out
 
 ### cantar - to sing 
@@ -309,9 +347,16 @@ With, *de*, it means that something was just completed.
 ### dejar - to place an object, to allow, to leave someone or something, to quit or stop, to abandon or give in
 
 See: https://www.realfastspanish.com/vocabulary/uses-of-dejar?utm_source=RFS%20Email&utm_medium=email&utm_campaign=dejar?omhide=true
-**Other ways to describe"to leave": :**
+**Other ways to describe"to leave":**
 [[#irse - to leave a location]]
 [[#salir - to leave, go out]]
+
+#### dejar de - to stop doing something 
+*Dejé de fumar.*
+I stopped smoking.
+
+*Dejé de trabajar el año pasado.*
+I stopped working last year.
 
 ### deportar - to deport
 ### desayunar - to have breakfast 
@@ -356,12 +401,18 @@ See: https://www.realfastspanish.com/vocabulary/uses-of-dejar?utm_source=RFS%20E
 - elle tiene ganas - She's eager 
 - tenemos ganas - We're eater
 
+### gozar - to enjoy, to enjoy oneself 
+**Preterite**: yo gocé
+**Subjunctive**: goc- root
 ### gustar - to like, to be pleased by something 
-- used with an indirect object pronoun 
+- most often used with an indirect object pronoun 
 - refers to the something that is pleasing 
   - gusta - refers to something singular 
   -  gustan - refers to something plural 
-#### Usage Structure
+#### Gusto - I please people 
+#### Me gusto - I like myself 
+### Me gusta - I like something 
+#### Gusta(n) Usage Structure
 ___ gusta \_\___ = he/she/it pleases
 ___ gustan \_\___ = they/them pleases
 
@@ -371,7 +422,7 @@ Te gusta a él - He likes you
 Te gusta él - You like him
 Le gusta a él - He likes it
 
-### Optionally using pronouns with "a" with gusta(an)
+### Optionally using pronouns with "a" and gusta(an)
 a mi -> me = (a mi) me gusta...
 a ti -> te = (a ti) te gusta...
 a él -> le = (a él) le gusta...
@@ -393,6 +444,9 @@ a ellos/ellas/ustedes -> les = (a ellos/ellas/Uds) les gusta...
 ### levantar - to raise, get up
 - #### levantarse 
 ### llevar - to take, carry away, to wear
+#### llevarse bien - get along 
+*Me llevo bien con ella.*
+I get along with her 
 
 #### Also used "to bring" when taking something from your place to another place
 - see [[#traer - to bring]]
@@ -425,6 +479,10 @@ How long has it been since you visited your parents?
 - Note: [[#llover - to rain]]
 ### mandar - to send 
 
+### matar - to kill
+
+### mejorar - to improve 
+
 ### mezclar - to mix
 
 ### mirar - to look, watch 
@@ -433,33 +491,60 @@ How long has it been since you visited your parents?
    - watching TV shows, movies and games
    - when you refer to how someone looks. In this case you use the reflexive version (*se ve*)
    - when talking about analysing something (e.g. to look at a report = *vemos el informe*)
+### necesitar - to need 
+#### hace falta - we need
+- In this case *hacer* needs to agree to subject in number like *gustar* (i.e. *hacen* in plural)
+- It also needs an indirect object pronoun when talking about someone (*Le hace falta* - we need him/her; *Les hacen falta* - we need them)
+- When used with *que* after *hace falta*, the following verb needs to be in the subjunctive (*Hace falta que tomemos unas vacaciones* - We need to take a vacation)
 ### odiar - to hate
 - See [[#detestar - to hate, loathe]]
 ### olvidar - to forget 
-#### Se me olvidó ____ - expression for forgetting something/someone.
+- #### Se me olvidó ____ - expression for forgetting something/someone.
 ### parar - to stop 
 #### #pasar - to give/pass (an item), to spend/pass (time), to pass/stop by
 
 ### pegar - to stick, glue, to hit
 - **Preterite:** yo pegué (others are regular)
+### picar - to pick, bite, chop, pique
+- **Preterite:** yo piqué (others are regular)
+[[#Table of Contents]]
 ### preparar - to prepare
 ### prestar - to lend
 ### quedar - to meet, arrange, to be left
 - See [[#conocer - to know or to meet a person or place for the first time]]
 - See [[#encontrar - to find, to meet up]]
 - **quedarse** - to stay, to keep, to end up
+- #### Quedo - I meet
+- #### Me quedo - I stay
+- #### Me queda - It fits well on me
+*Te queda bien esta camisa.*
+The T-shirt looks good on you.
+### quejarse - to complain
+- **quejarse de**  - to complain about something 
 ### quitar - to remove, take away 
 - **quitarse** - to take off 
 ### regalar - to gift
 - Also see [[#dar - to give]]
-
 ### tardar - to be late, linger
 
 ### terminar - to finish 
-
+- #### terminar de - to finish doing something 
+- #### terminar + gerund - to finish doing something 
 ### sonrojarse - to blush
 ### tomar - to take/to drink
 - See [[#coger - to take (Spain)]]
+
+“tomar” is way more than just “to take” 
+	1.	Drinking/eating (informal) = “¿tomamos un café?” (shall we grab a coffee?)  
+	2.	Gaining/catching something physical or abstract = “paró a tomar aire” (he stopped to catch his breath)  
+	3.	Adopting measures/precautions = “deberíamos tomar precauciones” (we should take precautions)  
+	4.	Taking something as a judgement = “no te lo tomes a mal” (don’t take it the wrong way)  
+	5.	Taking in an effect (sun, weather, etc) = “fuimos a tomar el sol a la playa” (we went to sunbathe at the beach)  
+	6.	Set expressions:  
+	•	tomar una decisión = to make a decision (“make” not “take” in English!) 
+	•	tomar el pelo = to pull someone’s leg (literally “to take the hair”)  
+	•	tomarse un tiempo = to take a break (from work, a relationship, etc)
+
 
 ### ubicar - to locate
 Preterite: yo ubiqué
@@ -497,6 +582,8 @@ ellos, ellas comieron (-ieron)
 #### Command: corred
 
 ### deber - to owe, should/must
+- **an obligation or recommendation** 
+
 - #### to owe
 If deber is used alone and without another verb in the infinitive, then it can have the meaning to owe someone.
 
@@ -509,7 +596,7 @@ How much does Claudia owe you?
 *Le debo mucho a mi madre.*
 I owe my mother a lot.
 
-- #### must or should 
+- #### must or should (have to)
 In affirmative statements deber expresses that something should or must be done:
 
 *Lidia dice que debo limpiar la casa.*
@@ -528,6 +615,49 @@ I shouldn't watch TV now.
 *Hoy no tengo que ayudar.*
 Today I don't have to help.
 
+#### deberías (conditional ) - you should 
+- **a softer suggestion or recommendation**
+- **Usually paired with an infinitive** 
+
+*Deberías ver a un médico* 
+You should see a doctor.
+
+*Deberíamos hablar para planear nuestras vacaciones.*
+We should talk in order to plan our vacation.
+#### deber de - probably
+- **a conjecture** 
+
+*José debe de tener unos veinte años.*
+Jose is probably about 20 years old.
+
+*Debes de estudiar mucho.*
+You probably studied a lot
+
+*Su carro debe de costar mucho.*
+His car probably (must have) cost a lot 
+
+#### Also used to express obligation:
+
+- **tener que** - unavoidable obligation 
+*Tengo que estudiar porque tengo un examen mañana.*
+I have to study because I have an exam tomorrow
+
+- **hay que** - general obligation when there's no subject 
+*Hay que hacer ejercicio.*
+One must exercise.
+
+- **se supone que** - is supposed to - expresses an expectation (NOT an obligation)
+*Se supone que llegas a las nueve.*
+You're supposed to arrive at 9.
+
+**See** https://youtu.be/3fi5r-ZhVec?is=zNYOc1Fpe0-j-YjO
+
+[[#Table of Contents]]
+### fortalecer - to strengthen 
+- **yo fortalezco**
+- Also subjunctive has c->zc for all subject pronouns 
+
+[[#Table of Contents]]
 ### nacer - to be born
 
 ### prometer - to promise 
@@ -560,6 +690,12 @@ ellos, ella, ustedes vivieron (-ieron)
 
 ### abrir - to open 
 
+### aburrir - to bore
+#### Aburro - I bore
+#### Me aburro - I'm bored
+#### Me aburre - It bores me
+#### aburrido - boring
+
 ### añadir - to add
 ### compartir - to share
 - #### comparte - to share
@@ -588,7 +724,7 @@ ellos, ella, ustedes vivieron (-ieron)
 [[#Table of Contents]]
 
 ### acordar - to agree
-##### de acuerdo - okay (expression)
+- #### de acuerdo - okay (expression)
 #### Present
 *o->ue boot stem change* 
 **yo acuerdo** 
@@ -666,6 +802,7 @@ ellos/ellas/ustedes almorzaron
 
 [[#Table of Contents]]
 ### apetecer - to feel like, to fancy, to crave 
+- **Pronounce**: ah-pe-teh-sehr
 #### Present
 **Yo: apetezco**
 Tú: apeteces
@@ -812,6 +949,7 @@ See:
 
 [[#Table of Contents]]
 ### conseguir - to get or obtain 
+- **Pronounce**: kohn-seh-geer
 #### Present
 *e->i boot stem change* 
 **yo consigo** 
@@ -858,19 +996,41 @@ ellos/ellas/ustedes contaron
 **él/ella/Ud	continúa**
 nosotros	continuamos
 vosotros	continuáis
-**ellos	continúan**
+**ellos/ellas/Uds	continúan**
 #### Preterite
 yo	continué
 tú	continuaste
 él/ella/Ud	continuó
 nosotros	continuamos
 vosotros	continuasteis
-ellos	continuaron
+ellos/ellas/Uds	continuaron
 
 **Also see synonym** seguir: https://verbix.com/webverbix/spanish/seguir (e->i boot stem change)
 
 [[#Table of Contents]]
+### corregir - to correct 
+#### Present
+*e->i boot stem change; yo corrijo* 
+**yo	corrijo**
+**tú	corriges**
+**él/ella/Ud	corrige**
+nosotros	corregimos
+vosotros	corregís
+**ellos/ellas/Uds	corrigen**
+#### Preterite
+yo	corregí
+tú	corregiste
+**él/ella/Ud	corrigió**
+nosotros	corregimos
+vosotros	corregisteis
+**ellos/ellas/Uds	corrigieron**
+
+[[#Table of Contents]]
 ### dar - to give
+- #### me doy - I give up 
+- #### me da - I get
+*Me da frio/calor/hambre/medio*
+I get cold/hot/hungry/scared
 #### Present 
 **yo doy**
 tú das
@@ -886,6 +1046,13 @@ ellos/ellas/Uds - dan
 **nosotros dimos** 
 **vosotros disteis**
 **ellos/ellas/ustedes dieron** (a->ie)
+#### Presente Subjuntivo 
+**yo	dé**
+tú	des
+**él/ella/usted	dé**
+nosotros	demos
+**vosotros	deis**
+ellos/ellas/ustedes	den
 
 Also see [[#regalar - to gift]]
 
@@ -938,7 +1105,6 @@ nosotros nos despertamos
 vosotros os despertáis
 **ellos/ellas/ustedes se despiertan** 
 #### Pretérito 
-##### Regular 
 yo desperté 
 tú despertaste 
 él/ella/usted despertó 
@@ -970,7 +1136,8 @@ el dolor - pain
 
 [[#Table of Contents]]
 ### dormir - to sleep 
-#### dormirse - to fall asleep 
+- #### dormirse - to fall asleep 
+
 #### Present 
 *o->ue stem change* 
 **yo duermo** 
@@ -1029,11 +1196,11 @@ ellos/ellas/ustedes encendieron
 [[#Table of Contents]]
 
 ### #encontrar - to find, to meet up 
-#### encontrarse - to find someone/thing somewhere, to meet someone
-- also used to express how you feel or ask how someone else feels 
-- translated as a form of "to be"
-- used when you "run" into someone 
-- also used to indicate that something or someone is located (found) somewhere (e.g.to find oneself)
+- #### encontrarse - to find someone/thing somewhere, to meet someone
+   - also used to express how you feel or ask how someone else feels 
+   - translated as a form of "to be"
+   - used when you "run" into someone
+   - also used to indicate that something or someone is located (found) somewhere (e.g.to find oneself)
 
 **Note that [[#conocer - to know or to meet a person or place for the first time]] is used when describing meeting someone for the first time as opposed to *encontrar* or *encontrarse* used for meeting people you already know.** 
 Also see [[#quedarse - to stay, remain]]
@@ -1131,8 +1298,47 @@ vosotros esquiasteis
 ellos/ellas/Uds. esquiaron
 
 [[#Table of Contents]]
+### haber - to have (auxiliary)
+#### Present
+**yo	he**
+**tú	has**
+**él/ella/Ud	ha; hay**
+**nosotros	hemos**
+vosotros	habéis
+**ellos/ellas/Uds	han**
+#### Pretérito 
+**yo	hube**
+**tú	hubiste**
+**él/ella/Ud	hubo**
+**nosotros	hubimos**
+**vosotros	hubisteis**
+**ellos/ellas/Uds	hubieron**
+#### Imperfecto 
+yo	había
+tú	habías
+él/ella/Ud	había
+nosotros	habíamos
+vosotros	habíais
+ellos/ellas/Uds	habían
+#### Presente Subjetivo 
+yo	haya
+tú	hayas
+él/ella/Ud	haya
+nosotros	hayamos
+vosotros	hayáis
+ellos/ellas/Uds	hayan
+
+**See**: [[#Hay]]
+
+[[#Table of Contents]]
 ### hacer - to make/to do/to ask
-#### Command: tú haz; usted haga
+- #### Command: tú haz; usted haga
+- #### me hago - I pretend 
+*Me hago el dormido* 
+I pretend to be asleep 
+- #### me hace - It makes me 
+*Me hace feliz comer.*
+It makes me happy to eat.
 #### Present 
 **yo hago** 
 tu haces
@@ -1216,24 +1422,31 @@ https://youtu.be/1HkeAjjb-1g?si=Kny3GkVdRZtSZZVT
 #### Gerund: yendo
 
 #### Present 
-Yo voy - I am going
-Te vas - You are going 
-Él/Ella/Usted va - he/she/you (formal) is/are going 
-nosotros vamos 
-vosotros vais
-Ellos/Ellas/Ustedes van - they are going to 
+**Yo voy - I am going**
+**Te vas - You are going** 
+**Él/Ella/Usted va - he/she/you (formal) is/are going** 
+**nosotros vamos** 
+**vosotros vais**
+**Ellos/Ellas/Ustedes van - they are going to** 
 #### Preterite 
-yo fui
-tú fuiste
-Él/Ella/Usted fue
-nosotros fuimos 
-vosotros fuisteis 
-Ellos/Ellas/Ustedes fueron 
+**yo fui**
+**tú fuiste**
+**Él/Ella/Usted fue**
+**nosotros fuimos** 
+**vosotros fuisteis** 
+**Ellos/Ellas/Ustedes fueron** 
 ***Note: Conjugación of ir in the preterite is the exact same as ser.***
 See [[#Ser]]
 
-[[#Table of Contents]]
+#### Presente Subjetivo 
+**yo	vaya**
+**tú	vayas**
+**él/ella/usted	vaya**
+**nosotros	vayamos**
+**vosotros	vayáis**
+**ellos/ellas/ustedes	vayan**
 
+[[#Table of Contents]]
 ### jugar - to play 
 #### Presente 
 *u->ue stem change* 
@@ -1284,6 +1497,46 @@ vosotros llovéis
 
 [[#Table of Contents]]
 
+### mantener - to keep, maintain 
+#### Present
+*Same as tener with man- prefix*
+**yo	mantengo**
+**tú	mantienes**
+**él/ella/usted	mantiene**
+nosotros	mantenemos
+vosotros	mantenéis
+**ellos/ellas/ustedes	mantienen**
+#### Preterite
+*Same as tener with man- prefix*
+**yo	mantuve**
+**tú	mantuviste**
+**él/ella/usted	mantuvo**
+**nosotros	mantuvimos**
+**vosotros	mantuvisteis**
+**ellos/ellas/ustedes	mantuvieron**
+
+**Also see** [[#seguir + gerund = to keep doing something]] and [[#tener - to have]] 
+
+[[#Table of Contents]]
+### morir - to die
+***el luto*** - mourning 
+##### Present
+*o->ue boot stem change* 
+**yo	muero**
+**tú	mueres**
+**él/ella/usted	muere**
+nosotros	morimos
+vosotros	morís
+**ellos/ellas/ustedes	mueren**
+#### Preterite
+yo	morí
+tú	moriste
+**él/ella/usted	murió**
+nosotros	morimos
+vosotros	moristeis
+**ellos/ellas/ustedes	murieron**
+
+[[#Table of Contents]]
 ### mover - to move
 #### Present 
 *o->ue stem change* 
@@ -1449,7 +1702,8 @@ Usage can be confused with [[#saber - to know information or how to do something
 
 ### #poner - to put, to give 
 #### Command: ponga
-#### ponerse - to wear or put on 
+#### [[#ponerse - to put on, try on, to wear]]
+
 #### Present 
 **yo pongo**
 tú pones
@@ -1466,14 +1720,27 @@ irregular *on->us*
 **vosotros pusisteis** 
 **ellos/ellas/ustedes pusieron** 
 
+#### Future
+*pondr- prefix*
+**yo	pondré**
+**tú	pondrás**
+**él/ella/usted	pondrá**
+**nosotros	pondremos**
+**vosotros	pondréis**
+**ellos/ellas/ustedes	pondrán**
+
 [[#Table of Contents]]
-### ponerse - to put on, try on
+### ponerse - to put on, try on, to wear
 me pongo
 te pones
 se pone
 nos ponemos 
 os ponéis 
 se ponen 
+#### me pone - it makes me 
+*Me pone bien/mal/loco.*
+It makes me good/bad/crazy.
+
 *Also see:*  ***[[Spanish Verbs#poner - to put, to give]]**
 
 [[#Table of Contents]]
@@ -1580,7 +1847,6 @@ See [[#quedar - to meet]]
 nosotros recomendamos 
 vosotros recomendáis
 **ellos/ellas/ustedes recomiendan** 
-
 #### Pretérito 
 yo recomendé 
 tú recomendaste 
@@ -1649,7 +1915,7 @@ ellos/ellas/ustedes repitieron
 [[#Table of Contents]]
 ### #saber - to know information or how to do something, to taste 
 #### Present 
-**yo sé** - I know 
+**yo sé - I know**
 tu sabes - You know 
 Él/Ella/Usted sabe
 nosotros sabemos 
@@ -1657,13 +1923,21 @@ vosotros sabéis
 ellos/ellas/Ustedes saben 
 #### Pretérito 
 - to find out
-yo supe
-tú supiste 
-él/ella/usted supo
-nosotros supimos 
-vosotros supisteis
-ellos/ellas/ustedes supieron 
+**yo supe**
+**tú supiste** 
+**él/ella/usted supo**
+**nosotros supimos** 
+**vosotros supisteis**
+**ellos/ellas/ustedes supieron** 
 see  [[#conocer - to know or to meet a person or place for the first time]]
+
+#### Presente Subjetivo 
+**yo	sepa**
+**tú	sepas**
+**él/ella/usted	sepa**
+**nosotros	sepamos**
+**vosotros	sepáis**
+**ellos/ellas/ustedes	sepan**
 
 #### Saber vs Poder
 When do you use saber and when do you use poder?
@@ -1748,6 +2022,15 @@ I keep practicing Spanish.
 *Sigo pensando en ti.*
 I keep thinking about you.
 
+*Los niños siguen jugando.*
+The children keep playing
+
+Also see [[#mantener - to keep, maintain]]
+#### seguir instrucciones = to follow instructions 
+
+*Por favor, sigue instrucciones.*
+Please follow instructions.
+
 [[#Table of Contents]]
 ### sentar - to sit
 #### sentarse - to sit down oneself; to have a seat 
@@ -1788,7 +2071,47 @@ vosotros sentisteis
 **ellos/ellas/ustedes sintieron** 
 
 [[#Table of Contents]]
+### soler - to usually do something 
+#### Present
+*irregular o->ue*
+**yo	suelo**
+**tú	sueles**
+**él/ella/usted	suele**
+nosotros	solemos
+vosotros	soléis
+**ellos/ellas/ustedes	suelen**
+#### Preterite
+yo	solí
+tú	soliste
+él/ella/usted	solió
+nosotros	solimos
+vosotros	solisteis
+ellos/ellas/ustedes	solieron
+#### Imperfect - use to do something 
+yo	solía
+tú	solías
+él/ella/usted	solía
+nosotros	solíamos
+vosotros	solíais
+ellos/ellas/ustedes	solían
 
+**Other verbs conjugated in the imperfect also mean "used to" but using solar in the imperfect with the infinitive is a lot easier to remember.**
+#### Examples 
+***Soler* is usually used with the infinitive**
+
+*Suelo desayunar a las seis* 
+I usually eat breakfast at 6:00. 
+
+*Mi hermano suele levantarse temprano todos los días.*
+My brother usually gets up early every day.
+
+*Solemos cocinar en casa en lugar de comer fuera.*
+We usually cook at home instead of eating out.
+
+*Yo solía tocar la guitarra en conciertos. escolares.*
+I used to play the guitar in school concerts. 
+
+[[#Table of Contents]]
 ### sonar - to sound 
 #### Present
 *irregular o->ue*
@@ -1797,7 +2120,7 @@ vosotros sentisteis
 **él	suena**
 nosotros	sonamos
 vosotros	sonáis
-**ellos	suenan**
+**ellos	suenan
 #### Preterite
 yo	soné
 tú	sonaste
@@ -1813,8 +2136,6 @@ It sounds like a lie.
 ##### Use *sonar como* for literal comparisons
 *Suena como el canto de un pájaro.* 
 It sound like a bird song.
-
-
 
 [[#Table of Contents]]
 ### sonreír - to smile
@@ -1848,17 +2169,48 @@ vosotros tenéis
 - **"had" in English** 
 yo tuve 
 tú tuviste 
-el/ella/usted tuvo 
+él/ella/usted tuvo 
 nosotros tuvimos 
 vosotros tuvisteis
 ellos/ellas/ustedes tuvieron 
 
-***Tener + que*** = have to, need to
+#### Future.
+- **"will have" in English "**
+**yo	tendré**
+**tú	tendrás**
+**él/ella/usted	tendrá**
+**nosotros	tendremos**
+**vosotros	tendréis**
+**ellos/ellas/ustedes	tendrán**
+
+### Present Subjunctive 
+**yo	tenga**
+**tú	tengas**
+**él/ella/usted	tenga**
+**nosotros	tengamos**
+**vosotros	tengáis**
+**ellos/ellas/ustedes	tengan**
+
+#### Verbs that add a prefix to change the meaning, but are conjugated like tener
+- **[[#mantener - to keep, maintain]]** - *yo mantengo* - I keep/maintain 
+- **detener** - *yo detengo* - I arrest/detain
+- **contener** - *yo contengo* - I contain 
+
+#### Tener + que - have to, need to
 **Tengo que...** - I have/need to...
 **Tienes que...** - You have/need to...
 **Tenemos que...** - We have/need to...
 **Tuve que...** - I had/needed to...
 **Tuvimos que...** - We had/needed to...
+
+#### Expressions using *tener*
+- *Tengo calor* - I'm hot
+- *Tengo frio* - I'm cols
+- *Tengo hambre*  - I'm hungry 
+- *Tengo sed* - I'm  thirsty 
+- *Tengo miedo* - I'm  afraid 
+- *Tengo cansado* - I'm  tired 
+- *Tengo sueño* - I'm sleepy 
 
 [[#Table of Contents]]
 ### tocar - to touch, knock, tap, play (instrument)
@@ -1976,7 +2328,19 @@ vosotros volasteis
 ellos/ellas/ustedes volaron 
 
 [[#Table of Contents]]
-### volver - to come back 
+### volver - to return
+#### Vuelvo - I return 
+Vuelvo a las dos de la tarde.
+#### Me vuelvo - I become 
+*Me volví profesor hace quince años.*
+I became a teacher 15 years ago.
+### Me vuelvo - It drives me...
+*Me vuelvo loco*
+It drives me crazy/nuts.
+#### Volver a - to do something again 
+*Volví a viajar a España.*
+I travelled to Spain again.
+
 #### Present 
 *o->ue stem change* 
 **yo vuelvo** 
@@ -1993,7 +2357,10 @@ nosotros volvimos
 vosotros volvisteis
 ellos/ellas/ustedes volvieron 
 
-Also see: [[Spanish Notes#Keeps happening repeatedly]]
+Also see: 
+[[Spanish Notes#Keeps happening repeatedly]]
+Regresar:
+https://verbix.com/webverbix/spanish/regresar
 
 [[# Table of Contents]]
 
@@ -2043,6 +2410,8 @@ From https://www.lawlessspanish.com/grammar/verbs/stem-changing-verbs/
 [[#doler - to hurt]]
 [[#dormir - to sleep]]
 [[#mover - to move]]
+[[#soler - to use to]]
+[[#sonar - to sound]]
 [[#volar - to fly]]
 ### u -> ue
 [[#jugar - to play]]
@@ -2137,14 +2506,14 @@ The concert is in the theater
 *El concierto es en la teatro* 
 ### Conjugation of Ser
 
-| Personal pronoun    | Present | Preterite | Imperfect | Future  |
-| ------------------- | ------- | --------- | --------- | ------- |
-| yo                  | soy     | fui       | era       | seré    |
-| tú                  | eres    | fuiste    | eras      | serás   |
-| él/ella/usted       | es      | fue       | era       | será    |
-| nosotros nosotras   | somos   | fuimos    | éramos    | seremos |
-| vosotros vosotras   | sois    | fuisteis  | erais     | serais  |
-| ellos/ellas ustedes | son     | fueron    | eran      | serán   |
+| Personal pronoun    | Present | Preterite | Imperfect | Future  | Subjunctive |
+| ------------------- | ------- | --------- | --------- | ------- | ----------- |
+| yo                  | soy     | fui       | era       | seré    | sea         |
+| tú                  | eres    | fuiste    | eras      | serás   | seas        |
+| él/ella/usted       | es      | fue       | era       | será    | sea         |
+| nosotros nosotras   | somos   | fuimos    | éramos    | seremos | seamos      |
+| vosotros vosotras   | sois    | fuisteis  | erais     | serais  | seáis       |
+| ellos/ellas ustedes | son     | fueron    | eran      | serán   | sean        |
 ***Note: Conjugación of ser in the preterite is the exact same as ir.***
 See: 
 [[#ir - to go]]
@@ -2172,18 +2541,21 @@ I am divorced
 I am single 
 *Estoy soltero*
 
+### Estar por.. - to be about to...
+*Estoy por llegar.*
+I'm about to arrive.
 
 [[#Table of Contents]]
 ### Conjugation of Estar
 
-| Personal pronoun    | Present | Preterite\* | Imperfect | Future    |
-| ------------------- | ------- | ----------- | --------- | --------- |
-| yo                  | estoy   | estuve      | estaba    | estaré    |
-| tú                  | estás   | estuviste   | estabas   | estarás   |
-| él/ella usted       | está    | estuvo      | estaba    | estará    |
-| nosotros nosotras   | estamos | estuvimos   | estabamos | estaremos |
-| vosotros vosotras   | estáis  | estuvisteis | estabais  | estaréis  |
-| ellos/ellas ustedes | están   | estuvieron  | estaban   | estarán   |
+| Personal pronoun    | Present | Preterite\* | Imperfect | Future    | Subjunctive |
+| ------------------- | ------- | ----------- | --------- | --------- | ----------- |
+| yo                  | estoy   | estuve      | estaba    | estaré    | esté        |
+| tú                  | estás   | estuviste   | estabas   | estarás   | estés       |
+| él/ella usted       | está    | estuvo      | estaba    | estará    | esté        |
+| nosotros nosotras   | estamos | estuvimos   | estabamos | estaremos | estemos     |
+| vosotros vosotras   | estáis  | estuvisteis | estabais  | estaréis  | estéis      |
+| ellos/ellas ustedes | están   | estuvieron  | estaban   | estarán   | estén       |
 
 \* ***Note: Conjugación of estar in the preterite is the same as tener, but with an es prefix***
 - tener -> estar
@@ -2270,7 +2642,7 @@ estar viejo (to look old)
 
 [[#Table of Contents]]
 
-# Hay
+# Hay 
 there is/are - hay
 
 Hay is the present tense form of the impersonal verb haber, used to express existence ("there is" or "there are").  It remains invariant—it does not change for person, number, or gender. Other Tenses are derived from haber.
@@ -2294,12 +2666,18 @@ Example: Habría más gente si hubiera más espacio. (There would be more people
 **Present Subjunctive**: Haya – There be (uncertainty, doubt, desire)
 Example: Espero que haya comida. (I hope there is food.)
 
-Perfect Tenses: Ha habido (present perfect), Había habido (past perfect), Habrá habido (future perfect), Haya habido (subjunctive perfect)
+**Perfect Tenses**: 
+Ha habido (present perfect), 
+Había habido (past perfect), 
+Habrá habido (future perfect), 
+Haya habido (subjunctive perfect)
 Example: Ha habido muchos cambios. (There have been many changes.) 
 
 **💡 Key Rule: Hay and its derived forms are impersonal and singular in form, even with plural subjects.** 
 ✅ Correct: Hay muchos libros. (There are many books.)
 ❌ Incorrect: Hayn muchos libros. (Do not add -n for plural.) 
+
+**See**: [[#haber - to have (auxiliary)]]
 
 [[#Table of Contents]]
 

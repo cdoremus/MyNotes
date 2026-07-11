@@ -12,14 +12,23 @@
  - [[#Conditional tense ~~endings~~]]
 ## Gerunds
 [[#Gerunds (ing verbs)]]
+[[#Uses of gerundio]]
+[[#Forming the gerund from the verb]]
+[[#Exceptions to gerund creation]]
+[[#Attaching pronouns to a gerund]]
 ## Progressive tenses 
 [[#Progressive tenses - using estar with a gerund]]
 ## Preterite 
 [[#Preterite (pretérito indefinido)]]
 - [[#Regular Preterite Endings]]
 - [[#Irregular Preterite Conjugation Patterns]]
+  - [[#Preterite top seven irregulars]]
+
 ## Imperfect tense  
 [[#Imperfect tense (pretérito imperfecto)]]
+[[#Summary use of the pretérito imperfecto]]
+[[#Shortcut tip - use soler instead]]
+
 ## Preterite vs Imperfect tense
 [[#Preterite vs Imperfect tricks & tips]]
 ## Present Perfect 
@@ -247,6 +256,17 @@ After -ll or -ñ, the -ibis dropped in -iendo
 - viendo (watching) for ver
 - oyendo (listening) for escuchar
 
+## Attaching pronouns to a gerund 
+### Direct and indirect object pronouns 
+Maria keeps supporting you in your decisions. 
+*Maria sigue apoyándote en tus decisiones.*
+
+I keep practicing it everyday. (it= el español)
+*Sigo practicándolo todos los días*
+#### Reflexive pronouns 
+Why do you keep complaining about everything. 
+*¿Por qué sigues quejándote de todo?*
+
 ## When to avoid gerunds 
 ***Gerunds are not used in Spanish as often as they are in English***
 
@@ -373,6 +393,34 @@ See :
 https://www.cliffsnotes.com/study-guides/spanish/spanish-i/the-preterite-tense/irregulars-in-the-preterite-tense/
 
 https://baselang.com/blog/advanced-grammar/irregular-preterite-verbs/
+
+#### Preterite top seven irregulars
+
+![[PreteriteTopSeven 1.png]]
+
+![[PreteriteTopSeven 2 1.png]]
+#### More Common Preterite Irregulars
+![[CommonPreteriteIrregulars 1.png]]
+Hacer in preterite has an *hic-* root except 3rd person singular where it is *hiz-*
+
+#### Examples 
+I wanted to visit Columbia.
+*Quise visitar a Colombia.*
+
+It was good to see you.
+*Fue bien verte.*
+
+I went to dance last night.
+*Fui a bailar anoche.*
+
+I was drinking a lot.
+*Estuve tomando mucho.*
+
+There was a concert.
+*Hubo un concierto.*
+
+I made a cake
+*Hice un pastel.*
 #### Different stems, but follow the same regular endings:
 - -é/í for yo
 - -aste/iste for tú
@@ -385,9 +433,27 @@ https://baselang.com/blog/advanced-grammar/irregular-preterite-verbs/
 - tuv for [[#tener - to have]]
 - pus for [[#poner - to put, to give]]
 - pud for [[#poder- be able to / can]]
-- cup for caber
-- anduv for andar
+- cup for caber (to fit)
+- anduv for andar (to walk, to go around)
 
+#### Preterites that change in *yo* form 
+- **-gar verbs g->gu**
+jugar = yo jugué
+llegar = yo llegué 
+pagar = yo pagué 
+rogar = yo rogué (pray)
+
+-  **-gar verbs c->qu**
+aparcar = yo aparqué (park)
+buscar = yo busqué 
+clasificar = clasifiqué
+tocar = yo toqué 
+
+-  **-zar verbs z->c**
+almorzar = yo almorcé 
+comenzar = yo comencé 
+empezar = yo empecé 
+organizar = yo organicé
 ####  Preterites with a/e->i stem change
 
 Certain verbs have an irregular stem with the letter "i" in it. It is extremely important to remember that these verbs are not considered stem changers in the preterite tense although some of them may have been stem changers in the present tense. Just like the u‐stem verbs, i‐stem verbs do not follow the rules of a stem‐changing verb in the preterite and do not use the normal endings a stem‐changing verb uses. The verbs in the following list have a completely different stem that is used for every form of the preterite. Because they are irregular, they use the irregular endings
@@ -398,11 +464,11 @@ Certain verbs have an irregular stem with the letter "i" in it. It is extremely 
 
 #### Preterites with J Stem change
 
-- dij- for [[#decir - to say, to tell]]
-- traj- for [[#traer - to bring]]
-- conduj- for [[#conducir]]
-- produj- for producir
-- traduj- for traducir 
+- dij- for [[Spanish Verbs#decir - to say, to tell]]
+- traj- for [[Spanish Verbs#traer - to bring]]
+- conduj- for conducir (to drive)
+- produj- for producir (to produce)
+- traduj- for traducir (to translate) 
 
 The irregular verbs that end in the letter j use the same endings as the other irregular preterite verbs with one exception. In this case, the third person plural ending of the verb decir is –eron. Any time the irregular stem ends in j, the ellos, ellas, and ustedes endings will lose the letter i and become –jeron.
 
@@ -498,8 +564,6 @@ Only used for Ir (to go),	Ser (to be)	and Ver (to see).
 | vosotros              | ibais      | erais       | veíais       |
 | ellos, ellas, ustedes | iban       | eran        | veían        |
 
-
-
 ### The pretérito imperfecto described in Babbel
 
 ***By using the pretérito imperfecto, you describe the characteristics of people or things.***
@@ -526,6 +590,15 @@ Use the pretérito imperfecto in the past to:
 - describe what someone was doing in the past
 - describe actions that were already in progress
 - describe actions that occur at the same time
+
+### Shortcut tip - use soler instead 
+
+**Verbs conjugated in the imperfect mean "used to" but using *soler* in the imperfect with the infinitive is a lot easier to remember then having to remember the  imperfect for each verb.**
+
+*Yo solía fumar.*
+I used to smoke.
+
+**See**: [[Spanish Verbs#soler - to usually do something#Imperfect - use to do something]]
 
 [[#Table of Contents]]
 
@@ -687,7 +760,7 @@ In Spanish, there are several ways to express the future (***futuro simple***) t
  -é, -ás, -á, -emos, -éis, and -án, 
 depending on the subject. For example, "hablaré" means "I will speak" 
 
-**The Simple Future temse is often used in Spain as the future tense** 
+**The Simple Future temse is often used in Spain as the future tense. In Latin America it's used to talk about the distant future.** 
 ### Simple future tense endings
 ***The futuro simple is formed by adding certain endings to the infinitive.***
 yo -é
@@ -772,8 +845,8 @@ Will you only drink water?
 | **salir<br><br>**  | **saldr-**            | **saldré<br><br>** | _I’ll go out_       |
 | **tener<br><br>**  | **tendr-**            | **tendré<br><br>** | _I’ll have_         |
 | **venir<br><br>**  | **vendr-**            | **vendré<br><br>** | _I’ll come_         |
-| **caber<br><br>**  | **cabr-**             | **cabré<br><br>**  | _I’ll fit_          |
 | **valer**<br>      | **valdr-**            | **valdré<br><br>** | _I’ll be worth_     |
+| **caber<br><br>**  | **cabr-**             | **cabré<br><br>**  | _I’ll fit_          |
 
 [[#Table of Contents]]
 ## Near future tense (ir + a + infinitive)
@@ -915,6 +988,14 @@ The ***conditional tense can also be used to express hypothetical situations wit
 
 In summary, the conditional tense in Spanish is a versatile tool for expressing hypothetical situations, probabilities, and polite requests, and it is formed using specific endings attached to the infinitive form of the verb.
 
+### Using object pronouns with commands
+Append the pronouns to the end of the command and accent the first syllable.
+
+Compra tú el carro a mi.
+Buy me the car.
+*¡Cómpramelo!*
+(You) Buy it for me!
+
 [[#Table of Contents]]
 ## Conditional Perfect 
 
@@ -989,11 +1070,8 @@ There are some situations in Spanish when you have to use the subjuntivo (subjun
 *Trata de salir temprano **sin que** tu jefe te vea* 
 (Try to leave early without your boss seeing you)
 
-
 *¿Quieres que te ayude con los preparativos?*
 Do you want me to (lit. that I) help you with the preparations?
-
-
 
 ***You use the subjuntivo presente to express a wish.***
 
@@ -1014,9 +1092,26 @@ The first verb (esperar) expresses the hope, followed by a second verb (beban) i
 *Es mejor que compre su propia bebida.*
 It's better if he/she buys his/her own drink.
 
-***These expressions are used for judgements, opinions or other subjective statements*** such as *Es una buena idea que...* (It's a good idea that...), Es importante que... (It's important that...)
+***These expressions are used for judgements, opinions or other subjective statements*** such as
+*Es una buena idea que...* (It's a good idea that...), 
+*Es importante que*... (It's important that...)
 is conjugated the same as the él/ella/usted 
 form:
+
+**Looking for or wanting something unspecified**
+**Subjunctive**:
+I'm looking for **a** car that cost less than $100,000 pesos.
+*Yo busco un coche que **cueste** menos de cien mil pesos.* 
+**Imperative**:
+I want **the** car that cost less than $100,000 pesos.
+*Yo busco un coche que **cuesta** menos de cien mil pesos.* 
+
+**Imperative**:
+I'm looking for **the** hotel that accepts (admits) pets 
+*Yo busco un hotel que admite mascotas.*
+**Subjunctive**:
+I'm looking for **a** hotel that accepts (admits) pets 
+*Yo busco un hotel que admita mascotas.*
 
 [[#Table of Contents]]
 ### Conjugación of Regular Present Subjective Verbs 

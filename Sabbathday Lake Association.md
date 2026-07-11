@@ -1,9 +1,27 @@
 # Table of Contents 
 [[#SDLA Board]]
 [[#Newsletters]]
+- [[#Spring 2026]]
+- [[#Summer Fall 2025]]
 [[#Board Meetings]]
 
-# Party
+
+## Newsletter Speech 
+### Change to newsletter published once a year 
+  - Allow us to add **more content** to it and publish more pages
+  - Allow us to have **color** on all pages 
+### Looking for help with layout and graphics 
+- No longer have Diantha
+- Lori was helpful in this newsletter, but she needs a break 
+### Jeremy Deeds speaker at Annual Meeting 
+- An aquatic ecologist who leads Lake Scorecard project at DEP
+- Will talk about the scorecard analysis with emphasis on the SDL Scorecard 
+### Alison Cooney
+- LSM Executive Director 
+
+Ryland Moore - CBI (207-281-0561)
+
+# 50th Anniversary Party
 
 ## Speeches
 Mike - master of ceremonies 
@@ -80,6 +98,25 @@ Micheal Graham - Shaker Liason
 
 [[#Table of Contents]]
 ## Board Meetings 
+
+
+### Board Meeting 6/29/26
+Missing board members:
+Melissa 
+Ruthie 
+Michael (Shakers)
+
+Monday evening CBI???
+
+Newsletter blurb at business meeting 
+- 1x year newsletter 
+- Article submission request 
+- Layout volunteer needed
+  + Canva used 
+- My article previews Jeremy's talk
+
+July 15 & Aug 12 Water quality sampling (Chris)
+
 
 ### Board Meeting 7/2/25
 
@@ -287,23 +324,85 @@ Bill
 
 # Newsletters
 
-## Cost estimate for printing newsletter via online vendor Docucopies
+## Printing the newsletter 
+### Cost estimate for printing newsletter via online vendor Docucopies
 
 https://www.docucopies.com/
 
-# Saddle stitch booklet 
+-  **Saddle stitch booklet** 
 Docucopies newsletter layout form
-
-
-### From Lori
+### Docucopies quote via Lori
 The online quote for 12 page - full color saddle stitched (so more like a magazine) premium 32/80# text smooth, for 150 copies is $341.86 without the 15% off coupon.  Price would be less with different quality paper.   
 This would not be folded in half but mailed magazine style - which would be kind of cool for our 50th Anniversary Edition.
 We would also have to factor in approximately $40 for envelopes.  Mailing would cost more - first class flat is $1.22.per unit.  So $183 for mailing 150 units.
 Total for 150 mailed would be approximately $565.
- 
+
+[[#Table of Contents]]
+## Spring 2026
+
+
+### Loon photo and article 
+by Sharon Scannell
+From the December 2025 issue of Birding Magazine
+
+### Lake Scorecard shows SDL risks
+**Scorecard**:
+https://www.lakesofmaine.org/lake-overview.html?m=3700#scorecard
+Jeremy Deeds - Aquatic Ecologist DEP
+jeremy.deeds@maine.gov
+207-446-1473
+
+Sabbathday Lake may be at high risk due to runoff pollution, according to a visual scorecard created by the Maine Department Of Environmental Protection (DEP).
+
+The Lake Scorecard is a new feature on the Lakes Of Maine website page for each lake including Sabbathday Lake. "It was created to answer the question. 'How is my lake doing?'", said Jeremy Deeds, Maine Department Of Environmental Protection aquatic ecologist in a recent online presentation sponsored by LSM. 
+
+The Lake Scorecard summarizes a variety of data in a visual display. It was created by DEP using a statistical analysis of data they compiled and Lake Stewards Of Maine data that includes information provided by local lake associations.
+
+The Scorecard for Sabbathday Lake can be found here:
+https://www.lakesofmaine.org/lake-overview.html?m=3700#scorecard
+
+The score card is divided into four quadrants: Water Quality Trends, Invasive Plants, Shoreland & Habitat, and Lake Vulnerability. 
+
+The Sabbathday Lake scorecard shows that we are good when it comes to Water Quality but not-so-good in the Lake Vulnerability quadrant of the scorecard. The biggest lake vulnerability problem is Runoff Pollution.
+
+EXPLAIN THE REASONS WHY HERE
+
+Each quadrant of a lake scorecard contains two to four subsections. Each subsection is given a colored rating of Good (blue), Fair (yellow), Poor/at Risk (red) or Unknown (gray). Hovering over this Scorecard graphic on the web page gives you a summary of the measurements that resulted in rating. Clicking on one of the items brings you to a section that describes in detail the rating and how it was measured.
+
+The Invasive Plant and Shoreland & Habitat quadrants of the scorecard are yellow indicating a fair score. The boat ramp and closeness to a highway (Rt 95) are the two things that bring our invasive plant score down even though we have a very active invasive plant monitoring (Infestation Assessment) program. 
+
+The Shoreland & Habitat score for SDL is based on the Shoreline Condition section. Our score is due to the amount of impervious surface that is within 500 meters of the lake. Impervious surface includes roads and roofs and is measured from satellite data. For Sabbathday Lake the impervious surface is 1.5%. A value under 1% is considered good or blue on the scorecard.
+
+The Littoral Habitat and Sediment Chemistry sections are unknown for SDL. Both of these need to be measured by DEP because they involve specialized equipment and/or highly technical skills. In particular, the sediment chemistry metric  requires a sediment core and measurements of aluminum, iron and phosphorus in the sediment. Jeremy Deeds of DEP said they are trying to do these measures on all lakes in Maine, but it will take a number of years to do so. 
+
+Deeds of DEP said the scorecard for each lake will be republished each year and refined as time goes on. He also mentioned that they would like feedback on the scorecard. At the bottom of the scorecard is a email link to send a message to Deeds. Also at the bottom of the page is a link to the webinar that Jeremy did on the scorecard.
+
+
+---
+### Weather Station article 
+
+We can now monitor the weather at Sabbathday Lake year round from a handful of weather stations located at or near the lake thanks to Michael O'Neill and other local weather buffs.
+
+Michael, who lives across from Outlet Beach, told me, "I've always been a weather enthusiast, and used some kind of weather station that revealed the temps and humidity inside and out. I decided to get one that would show me the weather while I was away from home because the weather is so interesting and extreme on Sabbathday Lake." 
+
+While he's measured temperature extremes between -18 and 101 at his station, Michel's station also keeps track of plethora of conditions including wind speed, humidity and precipitation. In addition, he's registered his station at Weather Underground so everyone can view it on the Web:
+https://www.wunderground.com/dashboard/pws/KMENEWGL29. 
+
+There's also a station at the south end of the lake and its data can be found here:
+https://www.wunderground.com/dashboard/pws/KMENEWGL31
+
+Michael said that his station runs on solar power and cost him close to $250 to set up.
+
+If you look at the weather map on each station's web page and zoom into the map, you'll see other stations in the watershed and beyond. The Weather Underground collects weather station data from thousands of enthusiasts like Michael all over the country.
+
+Scrolling further down on the web page you'll see a table of current conditions and a button to see the weather of previous days. Further down the page you'll see graphs of the current day's weather patterns.
+
+So if you've ever wondered whether it's time to turn off the air conditioner, water the garden or go for a sail, check the data trends at Michael's station or others near your home.
+
+
 ----
 
-## Summer Fall 2025 Newsletter 
+## Summer Fall 2025
 ### Articles & Pics 
 Oct 21 deadline 
 

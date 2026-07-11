@@ -1,11 +1,56 @@
 [[# Office and hospital visits]]
 
+## Scoliosis PT with Aija Homework 
+
+#6 - Glut - both cheeks 
+#7 - Lazy roll - 10x right side
+Side lie - 3x 3-4 breathes left side 
+
+Counter top 3x 3-4 breathes
+Marching (Kate) 60 seconds 3x
+- work towards not touching wall 
+
+---
 
 Heather (Dr Cruden)
 303-1491
 
 --- 
+## Northern Light Mercy Primary Care
 
+409 Roosevelt Trail
+Northern Light Mercy Health Center
+Windham ME 04062
+ Phone: 207-400-8600
+Fax: 207-400-8618
+Accepting new patients
+Dr David Poor -  
+Heather LaVallee, NP
+Corinna Campbell, NP
+Kelly Guildford, NP
+
+Northern Light Mercy Primary Care
+75 Gray Road
+Falmouth ME 04105
+Phone: 207-535-1340
+Fax: 207-535-1358
+Accepting new patients:
+Dr Adam Kazimierczak, DO
+Hanna Campbell, PA
+Amanda Hilliard, NP
+Megan Lane, NP
+
+Northern Light Mercy Primary Care, Yarmouth
+385 Route One
+Northern Light Mercy Health Center
+Yarmouth ME 04096
+Phone: 207-535-1200
+Fax: 207-535-1249
+Amy Bates, NP
+Amanda Milliard, NP
+
+
+---
 ## Peyronie's disease 
 ### YouTube - Mohit Khera
 https://youtu.be/TVx2gXIpMt0?si=ZpscLtFqhZBEwekY

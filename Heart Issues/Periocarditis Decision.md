@@ -1,4 +1,19 @@
 
+## Mass General - Jonathan Salik, MD
+
+Registration # 9285845
+
+(Audio unclear) Uh, good afternoon. I'm calling from Mass General from Dr Salik. 
+Um. 
+I'm trying to reach. 
+The patience. 
+Uh, gray. 
+Um, and you need to register to match General so you don't have an account, so I cannot schedule your appointment. 
+Um, can you please register? 
+And call. 
+Can I give you the number? 
+Is 866-211-6588. Um, register with your address, your information, personal information, and you have insurance. Please call this number, and after just you register, you can give me a call at 617-726-2945. Option five. My name is Magdalena. Thank you.
+
 
 # ChatGPT Analysis 
 
