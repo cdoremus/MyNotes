@@ -1,12 +1,38 @@
-**To Barbara** 
+I was called yesterday to make an appointment with Lyssa about a cardiac catheterization. The appointment was scheduled for October 16th. I don't know if you were aware that Dr. Salik of Mass General also wanted me to do a cardiac catheterization at MGH as noted in the first item of the Plan section on the last page of the attached clinical notes from my September 16th visit with him. Have you talked to him or his office about this? I would prefer to have this done at MGH as per Dr. Salik's recommendation. Is that something that should be scheduled through your office or should I communicate with him directly?
 
-We've always enjoyed your rhymes.
-It makes us think of our mutual good times.
 
-But I'd like to know how you find the time?
-The time to raise smart and beautiful daughters?. 
-The time to volunteer with the church?
 
+
+NextAmp - Community Solar (Chris Ricardi)
+
+
+
+Ryland Moore - CBI (207-281-0561)
+
+
+
+
+Hi Dr Rosu,
+
+We came across this 15 minute podcast from two cardiac imaging physicians at the Cleveland Clinic that brought up some things that my wife and I would like to talk about tomorrow with you. Here is the link to the podcast:
+
+https://my.clevelandclinic.org/podcasts/cardiac-consult/diagnosis-and-management-of-pericarditis
+
+
+
+
+
+Call
+
+MaineHealth Maine Medical Center Portland is made up of multiple buildings. Your appointment is in the 22 Bramhall Street building. Drive to 22 Bramhall Street. We recommend free valet parking. Drop off and free valet parking are available in front of the 22 Bramhall Street building... If self-parking in the garage, drive to 880 Congress Street. Park and take the elevator to Level G. Exit the elevator and follow the signs to "Hospital and Emergency". Proceed through the Connector walkway. Estimate a 3-5-minute walk to the 22 Bramhall entrance Main Lobby welcome desk from the parking garage. If the self-park garage is full, you may also park in the South Lot at 107 Chadwick Street and enter at the 22 Bramhall entrance. Please do not go to the Malone Family Tower Congress Street Main Lobby entrance.
+
+
+
+
+From an email the dems sent out earlier today:
+
+Your ballot will be sent to the email address and phone number (if your phone can receive texts) that you provided on your participation form. The link only allows you to cast one vote.   
+We want to ensure you understand how voting will work ahead of your virtual county meeting, so we’ve put together three trainings today that you can attend to learn more. Registration links to attend those trainings can be found at mainedems.org/senate-race/senate-delegate-process. 
 
 
 

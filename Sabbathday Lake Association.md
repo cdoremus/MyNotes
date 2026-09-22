@@ -3,8 +3,19 @@
 [[#Newsletters]]
 - [[#Spring 2026]]
 - [[#Summer Fall 2025]]
+[[#SDLA Board]]
 [[#Board Meetings]]
 
+
+## Jeremy Deeds Intro
+
+- Jeremy is an Aquatic Ecologist at DEP. He has worked there for 12 years and now leads the Lakes Assessment Section which produces the Lake Scorecard 
+
+- Jeremy has a PhD in Ecology and Environmental Science from UMO
+
+- He graciously helped me understand the SDL Lake Scorecard when I decided to write about it for the latest SDLA newsletter. 
+
+- co-owner of Moses Dyer Coffee Roasters
 
 ## Newsletter Speech 
 ### Change to newsletter published once a year 
@@ -69,7 +80,6 @@ Mike Cloutier - IPP
 Lauri Allen - web site 
 Cheryl Fortier - newsletter editor 
 Anne  - treasurer 
-Paula (Anne's sister) - social director 712-6489
 Ruthie York - host of board meetings
 - 17 Braley Rd
 - secretary
@@ -78,7 +88,15 @@ Bill Fichtell - new member
 Catherine Caswell - not there - new member 
 - son is a boat inspector 
 - vice president elect
-Eric R - ends in 2024
+Michael Graham - Shaker Representative 
+- usshakers@aol.com (Mike)
+- sdlshakers@aol.com
+
+#### Ex board members
+Paula (Anne's sister) - social director 712-6489
+Eric Rohrbach
+
+
 ### Emails
 Ricardi, Christian • csricardi58@gmail.com
 Ruthie York • yorkr65@gmail.com
@@ -88,15 +106,34 @@ Mails newsletter
 712-6489
 34 Beach Ridge Road
 Anne Maurice • amaurice@maine.rr.com
-Michael Cloutier • mhcloutier48@gmail.com
+Michael Cloutier • mhcloutier48@gmail.com 207-754-2306
 Bill Fichtel - bill.fichtel@gmail.com
 Catherine Caswell - caswellsfarm@gmail.com
 Melissa True • truelymelissa@icloud.com
 George and Melissa True • Gtrue@maine.rr.com
-Micheal Graham - Shaker Liason
+Micheal Graham - Shaker Liason • usshakers@aol com
+
+Paul Gillis - 831-4205
+
+
+## ERC
+9/3/26
+
+Lauren Jordan - Chair
+Doug Smith 
+Michael Brakey
+Sarah Kaplinger
+Ariel Provencal
+
+DIF&W rep - Philip 
+
+https://www.newgloucester.com/index.asp?SEC=8AFE4DDB-075F-4C70-A7DC-56B5C6F1E911
+
+
 
 
 [[#Table of Contents]]
+
 ## Board Meetings 
 
 

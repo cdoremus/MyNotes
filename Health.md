@@ -1,16 +1,113 @@
 [[# Office and hospital visits]]
+[[#Prescriptions]]
 
 ## Scoliosis PT with Aija Homework 
 
-#6 - Glut - both cheeks 
-#7 - Lazy roll - 10x right side
-Side lie - 3x 3-4 breathes left side 
+#6 - Glut - both cheeks - 20x
+#7 - Lazy roll - 20x right side
+Side lie - 5-8x 3-4 breathes left side 
+Dead bug - opposite arm and leg
+- switch between sides 
+- full cycle of 10
 
 Counter top 3x 3-4 breathes
-Marching (Kate) 60 seconds 3x
+- push up 10x (elbows in)
+
+Hamstring stretch with chair 
+- 30 sec each leg
+- add 10  squats
+
+Step backs over foam roller 
+- 30 secs each leg (as many as possible)
+
+Marching (modified from Kate)
 - work towards not touching wall 
+- Keep stretch cord level 
+- 60 sec on wall plus 10 with stretch cord
+
+High knee foot swing with band
+-  10x
+
+Chair squat with stretch cord
+- 10x
+
+Door pull down
+- 10x
+
+Balance beam
+- Left leg in front followed by right leg in front - 30 sec
+- Left leg in front arm swing for 10  swings; right leg in front arm swing for 10 swings
+- Left leg in front gaze in front turn right and gaze turn left and gaze. right leg in front and do the same. Focus
+
+Door pull do-hickey - happysew.com
+https://happysew.com/door-pull-anchor-with-black-webbing-plain/
 
 ---
+
+## Prescriptions
+
+Dr Patrick Cruden, Maine health Cardiology 
+Eliquis (Apixiban) 5mg 2x day
+Colchicine 0.6mg 2x day
+Metaprolol Succinate ER 12.5mg
+(half 5mg) 1x morning 
+
+Ropinirole 0.5mg
+
+Andrea Doucette, Spurwink
+x Adderall 10mg 1x day
+x Bupropion ER (XL) 1x day (Wellbutrin)
+
+x Tamsulosin HCL 0.4mg 1xday
+x Famotadine 20mg 1x day
+Cialis 5mg 1x day
+
+Ripinirole 0.5mg
+
+Dr Gagnon:
+x Lumigan (Bimatoprost) 0.01% eye drops 1x day
+Lutanoprost 0.005%
+MacuHealth Plus+ Leutine & Zeanthanin: 4 pills
+x Payday 0.7% eye drops 1x day
+
+Mucinex 1200 
+
+Omrepezole 20mg as needed 
+
+Arcalyst (rilonocept): 160mg injection per week 
+
+Ibuprofen 200mg 1x day
+
+Fish oil
+
+Vitamins 
+Mult-vitamin 1xday
+Mg amino acid chelate (aspartate, glycinate, ascorbate, taurate, or citrate) (taking 2x100 mg)
+
+x Vitamin D 10000 IU 1Xday
+x Glucosamine 1500mg Chondroitin 1200mg 1xday
+x Caltrate (Calcium Citrate 630mg + D 500mg) 1xday
+x Feosol (325mg Ferrous Sulphate)
+x Elemental Iron 65mg 1xday
+
+
+
+
+
+
+
+
+
+
+
+---
+## Dr McCoy 7/27/26
+
+Lyme disease and pericarditis 
+
+Low sodium ideas
+
+---------
 
 Heather (Dr Cruden)
 303-1491

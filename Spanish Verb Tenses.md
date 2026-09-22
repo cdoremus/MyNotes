@@ -42,7 +42,7 @@
   - [[#Irregular simple future forms]]
     - [[#Summary of irregular simple future forms]]
 - [[#Near future tense (ir + a + infinitive)]]
-- [[#Common uses of si mple and near future tenses]]
+- [[#Common uses of simple and near future tenses]]
 - [[#Future perfect tense]]
 
 ## Conditional
@@ -60,6 +60,10 @@
 [[#Subjunctive Mood]]
 [[#Present Subjective]]
 - [[#Conjugación of Regular Present Subjective Verbs]]
+- [[#First person indicative as the subjective root]]
+- [[#Irregular conjugaciones in subjetivo presente]]
+- [[#Subjunctive Patterns with two subjects]]
+- [[#Subjunctive Triggers sentence structure for the subjunctive]]
 
 ## Commands 
 
@@ -95,6 +99,7 @@ Note that the regular [[#Present Subjective]] tense endings are the opposite of 
 
 [[#Table of Contents]]
 ## Preterite tense endings
+**aka Pretérito indefinido** 
 
 | Person              | -ar     | -er & -ir |
 | ------------------- | ------- | --------- |
@@ -109,6 +114,7 @@ Note that in the ***PRETERITE tense*** the ***-er and -ir endings are the same**
 
 [[#Table of Contents]]
 ## Imperfect tense endings
+**aka Pretérito imperfecto** 
 
 | Person              | -ar    | -er & -ir |
 | ------------------- | ------ | --------- |
@@ -211,11 +217,26 @@ I saw Maria reading a book.
 *Vi a Maria leyendo un libro* 
 #### Use to indicate simultaneous actions 
 
+Juan left cursing.
+*Juan se fue maldiciendo.*
+#### "Started up" and "ended up" use the gerund
+
+I started up running and ended up walking 
+*Empecé corriendo y terminé caminando.*
+
+
 I woke up thinking about the thing from yesterday.
 *Me desperté pensando en lo de ayer.*
 
-Juan left cursing.
-*Juan se fue maldiciendo.*
+
+
+##### Do not use gerund with "to start" (empezar de) or "to finish" (terminar de)
+
+I started learning Spanish. 
+*Empecé a aprender español*
+
+I finished eating
+*Terminé de comer
 ### Shortcutting the gerund 
 - Sometimes where the gerund is used in English, it is omitted in Spanish 
 What are you doing?
@@ -541,7 +562,7 @@ is translated to *Trabajaba* in the Spanish imperfect tense.
 
 In the preterite you would not need any other words. I worked would just be *Trabajé* 
 
-### Regular endings
+### Imperfect Regular endings
 
 | Subject               | **-ar** Verbs | **-er** and **-ir** Verbs |
 | --------------------- | ------------- | ------------------------- |
@@ -551,7 +572,7 @@ In the preterite you would not need any other words. I worked would just be *Tra
 | nosotros              | **-ábamos**   | **-íamos**                |
 | vosotros              | **-abais**    | **-íais**                 |
 | ellos, ellas, ustedes | **-aban**     | **-ían**                  |
-### Irregular conjugation
+### Imperfect Irregular conjugation
 
 Only used for Ir (to go),	Ser (to be)	and Ver (to see).
 
@@ -649,8 +670,28 @@ I knew - conocía (imperfecto)
 [[#Table of Contents]]
 # Present Perfect (pretérito perfecto)
 
-The pretérito perfecto, also known as the Spanish **present perfect tense**, is used to describe ***actions in the past that have a connection to the present moment***. This ***tense is formed by conjugating the verb "haber" in the present tense and adding the past participle of the main verb***. For example, "*He comido paella hoy*" (I have 
-eaten paella today) illustrates an action that is part of recent experiences and still connected to the present. Another one is "*¿Qué has estado haciendo (hoy)?*" (What have you been doing (today))
+The pretérito perfecto, also known as the Spanish **present perfect tense**, is used to describe ***actions in the past that have a connection to the present moment***. 
+
+This ***tense is formed by conjugating the verb "haber" in the present tense and adding the past participle of the main verb***. For example, 
+*He comido paella hoy* (I have 
+eaten paella today) illustrates an action that is part of recent experiences and still connected to the present. 
+Other examples:
+"*¿Qué has estado haciendo (hoy)?*" (What have you been doing (today))
+
+*¿Que ha pasado?*
+What happened?
+
+The *pretérito perfecto* can be used to talk about the **things that someone has done or the places they've been to in the past.**
+
+*Carolina, ¿has estado en el Caribe?*
+Carolina, have you been to the Caribbean?
+
+In **negated sentences**, the pretérito perfecto usually refers to **situations or circumstances that are likely to change**.
+
+*No, no he estado ahí, pero me gustaría ir pronto.*
+No, I haven't been there, but I would like to go soon.
+### Have or has
+***When the pretérito perfecto (present perfect) is translated into English have or has is used***
 ### Formula 
 ***<span style="color:red">haber present tense conjugation + past participle</span>
 ### Haber present tense conjugación
@@ -703,6 +744,8 @@ Note that "have been" is expressed using *estado* like *he estado* for "I have b
   - to put - put
 - romper - roto
   - to break - broken 
+- ser - sido
+  - to be - been
 - volver - vuelto
   - to come back - come back
 - ver - visto
@@ -716,7 +759,7 @@ The Present Perfect is not frequently used in Latin America. Instead, the Preter
 
 # Past Perfect (pluscuamperfecto)
 
-***The pluscuamperfecto or past perfect (aka pluperfect) expresses an event that is finished and which happened before another event in the past.***
+##### ***The pluscuamperfecto or past perfect (`aka pluperfect`) expresses an event that is finished and which happened before another event in the past.***
 
 **To form the pluscuamperfecto you need the auxiliary verb haber in the imperfect and the past participle of the verb describing the action.**
 
@@ -760,7 +803,7 @@ In Spanish, there are several ways to express the future (***futuro simple***) t
  -é, -ás, -á, -emos, -éis, and -án, 
 depending on the subject. For example, "hablaré" means "I will speak" 
 
-**The Simple Future temse is often used in Spain as the future tense. In Latin America it's used to talk about the distant future.** 
+**The Simple Future tense is often used in Spain as the future tense. In Latin America it's used to talk about the distant future.** 
 ### Simple future tense endings
 ***The futuro simple is formed by adding certain endings to the infinitive.***
 yo -é
@@ -846,7 +889,7 @@ Will you only drink water?
 | **tener<br><br>**  | **tendr-**            | **tendré<br><br>** | _I’ll have_         |
 | **venir<br><br>**  | **vendr-**            | **vendré<br><br>** | _I’ll come_         |
 | **valer**<br>      | **valdr-**            | **valdré<br><br>** | _I’ll be worth_     |
-| **caber<br><br>**  | **cabr-**             | **cabré<br><br>**  | _I’ll fit_          |
+| **caber**<br><br>  | **cabr-**             | **cabré<br><br>**  | _I’ll fit_          |
 
 [[#Table of Contents]]
 ## Near future tense (ir + a + infinitive)
@@ -875,6 +918,16 @@ Next weekend I'm going to go to the beach.
 ## Common uses of simple and near future tenses
 
 ***Both the simple future and the near future are commonly used***, and their usage can vary depending on the context and the speaker's preference. Some English speakers learning Spanish might find the ir + a + infinitive form easier to use initially, but the simple future is also widely used and considered one of the easiest conjugation patterns to learn 
+
+Therefore you can talk about the near future with *presente simple, futuro simple y ir a*. All of them are valid. For example:
+
+- *Viajo a Perú el sábado que viene.*
+I'll travel (lit. I travel) to Peru next Saturday.
+- *Viajaré a Perú el sábado que viene.*
+I'll travel to Peru next Saturday.
+- *Voy a viajar a Perú el sábado que viene.*
+I'm going to travel to Peru next Saturday.
+
 
 [[#Table of Contents]]
 
@@ -1161,8 +1214,10 @@ we eat/open
 you (pl., informal) eat/open
 *que ellos/ellas/ustedes... coman, abran*
 they eat/open
-#### poner
-Poner illustrates how the person indicative is used in the subjunctive since the first person of *poner* is *pongo*, so the subjunctive root is *pon-*.
+
+#### First person indicative as the subjective root
+##### poner
+Poner illustrates how the first person indicative is used in the subjunctive since the first person of *poner* is *pongo*, so the subjunctive root is *pon-*.
 que yo ponga
 que tú pongas
 que él/ella/usted ponga 
@@ -1170,7 +1225,7 @@ que nosotros/nosotras pongamos
 que vosotros/vosotras pongáis 
 que ellos/ellas/ustedes pongan
 
-#### tener
+##### tener
 Like poner, tener uses the *teng-* root from *tengo*
 que yo tenga
 que tú tengas
@@ -1179,7 +1234,7 @@ que nosotros/nosotras tengamos
 que vosotros/vosotras tengáis 
 que ellos/ellas/ustedes tengan
 
-#### ver
+##### ver
 Uses the *ve-* root from *veo*
 que yo vea
 que tú veas
@@ -1188,6 +1243,21 @@ que nosotros/nosotras veamos
 que vosotros/vosotras veáis 
 que ellos/ellas/ustedes vean
 
+que yo tenga
+que tú tengas
+que él/ella/usted tenga 
+que nosotros/nosotras tengamos 
+que vosotros/vosotras tengáis 
+que ellos/ellas/ustedes tengan
+
+##### venir
+Uses the *veng-* root from *vengo*
+que yo venga
+que tú vengas
+que él/ella/usted venga 
+que nosotros/nosotras vengamos 
+que vosotros/vosotras vengáis 
+que ellos/ellas/ustedes vengan
 
 [[#Table of Contents]]
 ### Irregular conjugaciones  in subjetivo presente 
@@ -1236,10 +1306,10 @@ nosotros(as) sepamos
 vosotros(as) sepáis 
 ellos/ellas/ustedes sepan 
 
-### Stem changing verbs
+### Subjunctive stem changing verbs
 
 ***e->ie stem change*** 
-#### querer
+#### querer (boot stem change)
 quiera
 quieras
 quiera
@@ -1255,7 +1325,7 @@ pueda
 podamos 
 podáis 
 puedan
-#### dormir  (NOT boot stem change)
+#### dormir  (\*\*NOT boot stem change)
 duerma
 duermas
 duerma
@@ -1287,12 +1357,92 @@ empecemos
 empecéis
 empiece
 
+[[#Table of Contents]]
 
-### Sentence structure for the Subjunctive 
+### Subjunctive Patterns with two subjects 
+These expressions trigger the subjunctive when there are two subjects.
+NOTE: In English the second person can be an object (him, us, them...)
+#### Querer que... (To want)
+- One subject 
+*Yo quiero salir esta noche*
+I want to go out tonight
+- Two subjects use the subjunctive
+*Yo quiero que tú **salgas** esta noche*
+I want you to go out tonight
+#### Esperar que... (To hope / expect)
+- One subject 
+*Yo espero tener suerte*
+I hope I'm lucky
+- Two subjects use the subjunctive
+*Yo espero que tú **tengas** suerte*
+I hope you are lucky
+#### Necesitar que... (To need)
+- One subject 
+*Yo necesito hablar contigo*
+I need to talk to you
+- Two subjects use the subjunctive
+*Yo necesito que tú **hables** conmigo*
+I need you to talk to me
+#### Alegrarse de que... (To be glad/To be happy)
+- One subject 
+*Yo me alegro de estar aquí*
+I'm glad to be here
+- Two subjects use the subjunctive
+*Yo me alegro de que tú **estés** aquí*
+I'm glad you are here
+#### Sentir que... (The Trap Meaning!)
+Triggers the subjunctive when sentir means "to be sorry" (lo siento), NOT when it means "to feel".
+- One subject 
+*Yo siento irme tan pronto*
+I'm sorry i have to go so soon
+- Two subject use the subjunctives
+*Yo siento que tú te **vayas** tan pronto*
+I'm sorry you have to go so soon
+
+##### **Expressions that use the impersonal (an implied subject) as the first subject and personal with the second part (tú,el/ella, nosotros, ellos etc. conjugated verb).**
+
+#### Es importante que... (It's important)
+- One subject 
+*Es importante estudiar*
+It's important to study
+- Two subjects use the subjunctive 
+*Es importante que tú **estudies***
+It's important that you study
+#### Es bueno/malo que... (It's good/bad)
+- One subject 
+*Es bueno comer verduras*
+It's good to eat vegetables
+- Two subjects use the subjunctive 
+*Es bueno que tú **comas** verduras*
+It's good that you eat vegetables
+#### Es mejor/peor que... (It's better/worse)
+- One subject 
+*Es mejor dormir temprano*
+It's better to sleep early
+- Two subjects use the subjunctive 
+*Es mejor que nosotros **durmamos** temprano*
+It's better that we sleep early
+#### Es imposible que... (It's impossible)
+- One subject 
+*Es imposible terminar hoy*
+It's impossible to finish today
+- Two subjects use the subjunctive
+*Es imposible que tú **termines** hoy*
+It's impossible that you finish today
+#### Es una lástima que... (It's a shame)
+- One subject 
+*Es una lástima no ir a la boda*
+It's a shame not to go to the wedding
+- Two subjects use the subjunctive 
+*Es una lástima que tú no **vayas** a la boda*
+It's a shame that you don't go to the wedding
+
+[[#Table of Contents]]
+### Subjunctive Triggers: sentence structure for the subjunctive 
 
 Use if the subjunctive in a sentence often has two verbs of this form:
 
-\[indicative verb] + que + \[verb in subjunctive]
+**\[indicative verb] + que + \[verb in subjunctive]**
 
 *Dile a ella que lleve una chaqueta.* 
 Tell her to wear her jacket.
@@ -1366,6 +1516,10 @@ Used when there is no subject change between clauses.
 *Me levanto temprano para evitar el tráfico.*
 I get up early so I can avoid the traffic.
 
+
+**See Subjunctive Triggers**: https://www.spanishdict.com/guide/subjunctive-trigger-words
+
+
 [[#Table of Contents]]
 
 # Commands - the imperative 
@@ -1392,12 +1546,12 @@ The Imperative is used to ask someone something directly or to give an instructi
 *Jordi no canta bien, canta tú.*
 Jordi doesn't sing well. You sing!
 
-If you are **informally addressing a group** of people you know well, the **ending -ad** is added to the stem of the verb.
+If you are **informally addressing a group** of people you know well, the **ending -ad** is added to the stem of the verb which is **used in Spain**.
 
 *No podéis jugar aquí. Jugad en el parque.*
 You can't play here. Play in the park!
 
-**In Latin America you use the form ustedes** (you all), e.g. *Jueguen en el parque* (Play in the park). Here we will be concentrating on the forms with -ad which is used in Spain.
+**In Latin America you use the form ustedes** (you all), e.g. *Jueguen en el parque* (Play in the park). 
 
 **If you address more than one person and include yourself, you use the ending -emos.**
 
