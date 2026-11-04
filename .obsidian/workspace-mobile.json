@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Heart Issues/Heart Hospitalizations at CMMC & Maine Med  9-27-25 to 10-15-25.md",
+                "file": "Spanish Notes.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Spanish Notes"
+            }
+          },
+          {
+            "id": "530d32eaf347a513",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spanish Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Heart Hospitalizations at CMMC & Maine Med  9-27-25 to 10-15-25"
+              "title": "Spanish Notes"
             }
           },
           {
@@ -276,7 +290,7 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": true,
+            "autoReveal": false,
             "showSearch": false,
             "searchQuery": ""
           },
@@ -290,7 +304,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#ChatGTP",
+            "query": "tag:#Prep",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -390,17 +404,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57fc0a645512d244",
+  "active": "530d32eaf347a513",
   "lastOpenFiles": [
-    "Temp Notes.md",
-    "Spanish Notes.md",
     "Health.md",
-    "Spanish Verbs.md",
+    "Leísmo_laísmo_loísmo 1.png",
+    "la_ropa 1.jpeg",
+    "Spanish Notes.md",
+    "Heart Issues/Cardiac Catherization.md",
+    "Untitled.md",
     "Spanish Verb Tenses.md",
-    "Github Notes.md",
+    "Spanish Verbs.md",
     "Heart Issues/Heart Hospitalizations at CMMC & Maine Med  9-27-25 to 10-15-25.md",
+    "Temp Notes.md",
+    "Leísmo_laísmo_loísmo.png",
+    "prepositions_of_place 1.png",
+    "prepositions_of_place.png",
+    "Deno Notes.md",
+    "ADHD Article from NY Times.md",
     "Randy.md",
     "Sodium Levels.md",
+    "Haiku.md",
+    "Github Notes.md",
     "Computer.md",
     "Sabbathday Lake Association.md",
     "Soup Kitchen.md",
@@ -417,18 +441,7 @@
     "Can You Trust Sam Altman.md",
     "Blood Pressure.md",
     "NYT 7-minute workout.md",
-    "mantener.md",
     "CommonPreteriteIrregulars 1.png",
-    "CommonPreteriteIrregulars.png",
-    "PreteriteTopSeven 2 1.png",
-    "PreteriteTopSeven 2.png",
-    "PreteriteTopSeven.png",
-    "Deno Notes.md",
-    "Six uses of SE in Spanish.md",
-    "Spanish Verb Anki Deck 1.md",
-    "Heart Issues/effects of the suppression of interleukin-1.md",
-    "Spanish Conversation Hacking and 1000 Most Common Words.md",
-    "Weather Phrases 1.png",
     "Heart Issues",
     "Untitled 1"
   ]

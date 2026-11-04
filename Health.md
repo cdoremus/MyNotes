@@ -1,6 +1,27 @@
+
+[[#Scoliosis PT with Aija Homework]]
 [[# Office and hospital visits]]
 [[#Prescriptions]]
 
+10/30/26
+Cold or flu symptoms that prevented me from having the cardioversion.
+- excessive tiredness in the afternoon followed by these nighttime symptoms:
+- coughing up clear mucus 
+- excessive mucus with stuffy head
+- weakness 
+- mild muscle pain 
+- felt better the next morning 
+
+
+---
+
+Jennifer - MGH Cardiac Catheterization 
+617-726-7400
+last dose Tues night 
+echo images on CD
+
+Portsmouth ->MGH
+1:18
 ## Scoliosis PT with Aija Homework 
 
 #6 - Glut - both cheeks - 20x
@@ -13,8 +34,9 @@ Dead bug - opposite arm and leg
 Counter top 3x 3-4 breathes
 - push up 10x (elbows in)
 
-Hamstring stretch with chair 
+Quad stretch with chair 
 - 30 sec each leg
+- keep upper legs aligned 
 - add 10  squats
 
 Step backs over foam roller 
@@ -22,17 +44,26 @@ Step backs over foam roller
 
 Marching (modified from Kate)
 - work towards not touching wall 
+- Use theracane
 - Keep stretch cord level 
 - 60 sec on wall plus 10 with stretch cord
 
-High knee foot swing with band
+High knee foot swing with theracane
 -  10x
+- don't lean back 
 
 Chair squat with stretch cord
 - 10x
 
+Seated lift - right side 
+- use ball
+- 10x
+
 Door pull down
 - 10x
+- use ball
+- right angle cactus pose
+- keep head up 
 
 Balance beam
 - Left leg in front followed by right leg in front - 30 sec
@@ -52,7 +83,9 @@ Colchicine 0.6mg 2x day
 Metaprolol Succinate ER 12.5mg
 (half 5mg) 1x morning 
 
-Ropinirole 0.5mg
+Plavix 75mg 1x
+
+Crestor (Rosuvastatin Calcium) 5mg 1x
 
 Andrea Doucette, Spurwink
 x Adderall 10mg 1x day
@@ -63,6 +96,7 @@ x Famotadine 20mg 1x day
 Cialis 5mg 1x day
 
 Ripinirole 0.5mg
+x gabapentin 
 
 Dr Gagnon:
 x Lumigan (Bimatoprost) 0.01% eye drops 1x day
@@ -76,7 +110,10 @@ Omrepezole 20mg as needed
 
 Arcalyst (rilonocept): 160mg injection per week 
 
-Ibuprofen 200mg 1x day
+x Ibuprofen 200mg 1x day
+x Low-dose aspirin 81mg 1x
+
+Melatonin 5mg
 
 Fish oil
 

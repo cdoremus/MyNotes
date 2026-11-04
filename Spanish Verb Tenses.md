@@ -4,6 +4,8 @@
 
 # Table of Contents 
 
+==**[[#Verb Conjugation Summaries]]**==
+
 ## Regular Verb Conjugations
  [[#Verb Conjugation Summaries]]
  - [[#Present tense endings]]
@@ -74,6 +76,9 @@
 - [[#Irregular imperatives]]
 - [[#Negative imperatives]]
 - [[#Imperatives and pronouns]]
+## Affective verbs
+- [[#Affective verbs (verbos afectivos) like gustar]]
+
 
 ## End of TOC
 
@@ -95,8 +100,6 @@
 | ellos/ellas/ustedes | -an   | -en   | -en   |
  *Notice that most of the **present tense** endings for -er and -ir verbs are the same. **Only the nosotros and vosotros endings are different.***
 
-Note that the regular [[#Present Subjective]] tense endings are the opposite of present tense endings.
-
 [[#Table of Contents]]
 ## Preterite tense endings
 **aka Pretérito indefinido** 
@@ -113,6 +116,7 @@ Note that the regular [[#Present Subjective]] tense endings are the opposite of 
 Note that in the ***PRETERITE tense*** the ***-er and -ir endings are the same***.
 
 [[#Table of Contents]]
+
 ## Imperfect tense endings
 **aka Pretérito imperfecto** 
 
@@ -140,8 +144,22 @@ Note that in the ***IMPERFECT tense*** the ***-er and -ir endings are the same**
 | nosotros/nosotras   | -emos  |
 | vosotros/vosotras   | -éis   |
 | ellos/ellas/ustedes | -án    |
-[[#Table of Contents]]
+
 ## Conditional tense endings
+**These endings are added to the infinitive of all verbs. All regular verbs have the same ending ** 
+
+| Person              | Ending  |
+| ------------------- | ------- |
+| yo                  | -ía     |
+| tú                  | -ías    |
+| él/ella/usted       | -ía     |
+| nosotros            | -íamos  |
+| vosotros            | -ías    |
+| ellos/ellas/ustedes | -ían    |
+
+[[#Table of Contents]]
+
+## Subjunctive mood endings
 
 | Person              | -ar   | -er & -ir |
 | ------------------- | ----- | --------- |
@@ -152,6 +170,7 @@ Note that in the ***IMPERFECT tense*** the ***-er and -ir endings are the same**
 | vosotros            | -éis  | -áis      |
 | ellos/ellas/ustedes | -en   | -an       |
 
+**These tense endings are the opposite of present tense endings.**
 
 [[#Table of Contents]]
 
@@ -513,11 +532,17 @@ Use the preterite in the context of the past to:
 pretérito imperfecto= imperfecto tense
 pretérito indefinido = preterite tense
 
-1. To describe things you ***always did* or you *use to do* in the past but can still be ongoing**. Often paired with something like *de niño* (as a child). For instance:
+1. To describe things you ***always did*, *was doing* or you *use to do* in the past but can still be ongoing**. Often paired with something like *de niño* (as a child). For instance:
 *De niño yo jugaba el fútbol* 
 As a child, I use to play soccer
 
-It can also be used by itself:
+*Hablaban español hace 20 años.*
+They used to speak Spanish 20 years ago.
+
+*Cenaban aquí la semana pasada cuando empezaba el fuego.*
+They were having dinner here last week when the fire started.
+
+The imperfect can also be used by itself:
 
 *Yo era un buen alumno*
  I was always a good student 
@@ -560,7 +585,7 @@ I ***was*** working and
 I ***use to*** work 
 is translated to *Trabajaba* in the Spanish imperfect tense.
 
-In the preterite you would not need any other words. I worked would just be *Trabajé* 
+In the preterite you would not need any other words. I worked would just be *trabajé* 
 
 ### Imperfect Regular endings
 
@@ -948,7 +973,7 @@ I will have finished the work
 
 ## Real conditional verbs 
 
-Also see [[Spanish Notes#Conditional sentences]]
+Also see [[Spanish Notes#Conditional sentences]] for sentences that use *si* (if) to point out conditions 
 
 In Spanish, ***you use the condicional (conditional)*** in everyday situations:
 
@@ -1028,11 +1053,26 @@ We wouldn't want to work nights.
 *¿Qué diría el director? (decir)*
 What would the director say?
 
-## Gustar
-The verb gustar which normally means **to like** in the conditional tense it means ***would like***. The phrase "me gustaría" (I would like) is commonly used to express what you would like to do in the future or to make polite requests. 
+## Gustar (Gustaría) - would like 
+The phrase "*me gustaría*" (I would like) is commonly used to express what you would like to do in the future or to make polite requests. 
 
-## Deber
+*Me gustaría una hamburguesa con te frío.*
+I would like a hamburger with iced tea.
+
+## Deber (Debería) - should 
 The verb "deber" has a wholly different meaning in the conditional tense. It normally means ***to owe***, but in the conditional tense it means ***must or should.***
+
+*Debería poder mi tarea ahora.*
+I must do my homework now
+
+## Poder (Podría) - could
+*Podría comer ahora.*
+I could eat now.
+
+## Tener (Tendría) - would
+*Tendría ir pero muy ocupado.*
+I would go but I'm very busy.
+
 
 
 In addition, ***the conditional is used in reported speech to express future events from a past perspective,***  such as "*Dijo que vendría a la fiesta*" (He said he would come to the party).
@@ -1457,7 +1497,7 @@ I'm looking for a cheap car that works
 
 **Use the subjunctive after cuando to talk about future events.**
 
-Cuando yo viaje a España, visitaré Madrid.
+*Cuando yo viaje a España, visitaré Madrid.*
 When I travel to Spain, I'll visit Madrid.
 
 *Llámame cuando recibas mi mensaje.*
@@ -1467,9 +1507,19 @@ If we're talking about the future "cuando" takes the subjective. If you use the 
 - *cuando me visitas* (all the time, regularly) 
 - *cuando me visites* (next time, at some point in the future) = subjunctive 
 
+#### Avísame cuando... + subjunctive 
+Let me know... when something happens 
+
+*Avísame cuando puedas.*
+Formal: *Avíseme cuando puedas.*
+Let me know when you can.
+
+*Avísame cuando quieras hablar*
+Let me know when you want to speak.
+
 ### *Antes de que* subjunctive trigger
 
-Translates to: Before qsomething happens)
+Translates to: Before something happens
 
 #### Pattern: antes de que + subjunctive verb
 
@@ -1627,7 +1677,40 @@ Get dressed quickly, we have to go immediately.
 *Desde aquí se ve muy bien el escenario, sentémonos aquí.*
 You can see the stage very well from here. Let's sit (us) down here.
 
+[[#Table of Contents]]
+# Affective verbs (*verbos afectivos*) like *gustar*
+## Cause an emotion or reaction 
 
+Affective verbs in Spanish,  are verbs that **describe the feelings/emotions, interests, or ideas that something causes in a person**.  Unlike standard verbs where the subject performs the action, these verbs function with a reversed syntactic structure: **the thing causing the emotion is the subject, and the person experiencing the emotion is the indirect object**.
+## General sentence structure 
+***Indirect object + emotion/reaction + subject*** 
+**Indirect object** - experiences the emotion/reaction 
+**emotion/reaction** - verb that expresses the emotion/reaction
+**subject** - causes the emotion/reaction
+
+## Key characteristics include:
+**Structure**: They require an indirect object pronoun (me, te, le, nos, os, les) and often use an "a + person" phrase for clarity or emphasis.
+**Conjugation**: The verb conjugates to match the subject (the thing causing the feeling), not the person feeling it. For example, 
+*Me gusta la casa* (singular subject) 
+*Me gustan las casas* (plural subject)
+Other (indirect) object usage:
+*Te gusta la casa* - you like the house 
+*(a él/ella/Ud) le gusta la casa* - he/she/you like the house
+*Nos gusta la casa* - we like the house
+*Os gusta la casa* - you all like the house 
+*(a ellos/ellas/Uds) les gusta la casa* - they /you-all like the house
+
+
+
+## Common affective verbs
+Gustar (to like)
+Encantar (to love/delight)
+Interesar (to interest)
+Preocupar (to worry)
+Molestar (to bother)
+Fascinar (to fascinate)
+Doler (to hurt)
+Importar (to matter)
 
 # End of file
 

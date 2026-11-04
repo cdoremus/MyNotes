@@ -1,3 +1,31 @@
+Hello all,
+Some of you recently have been asking about the state of my health. Thank you for all your thoughts and prayers on my behalf. Please keep them coming. On Friday I went to Mass General and had a cardiac catheterization done. They were able to discover and fix a couple of blockages in my arteries. I am now recovering at home. I am also going to have some adjustments to my pacemaker done this week with other tests forthcoming. Thanks again and stay tuned for future updates. Love to all, Craig
+
+
+
+
+---
+
+**The sequence of tenses in real conditional clauses (si clauses)**
+
+Si clauses are statements that express a hypothetical outcome. They always follow a fixed sequence of tenses.
+
+Si corres por la mañana, te sientes bien durante el día.
+
+If you run in the morning, you feel good during the day.
+
+One type of these clauses is si + the present tense + a comma + another clause in the present or future tense.
+
+Si estudias mucho, aprobarás el examen.
+If you study a lot, you will pass the exam.
+
+It's also possible to use the compound future tense ir a + an infinitive verb.
+
+Si no sales ahora, vas a llegar tarde.
+If you don't leave now, you're going to arrive late.
+
+---
+
 I was called yesterday to make an appointment with Lyssa about a cardiac catheterization. The appointment was scheduled for October 16th. I don't know if you were aware that Dr. Salik of Mass General also wanted me to do a cardiac catheterization at MGH as noted in the first item of the Plan section on the last page of the attached clinical notes from my September 16th visit with him. Have you talked to him or his office about this? I would prefer to have this done at MGH as per Dr. Salik's recommendation. Is that something that should be scheduled through your office or should I communicate with him directly?
 
 

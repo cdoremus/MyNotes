@@ -1,4 +1,4 @@
-![[]]verbs = verbos
+verbs = verbos
 
 [[Spanish Notes]]
 
@@ -77,7 +77,8 @@ Note that in the ***IMPERFECT tense*** the ***-er and -ir endings are the same**
 - [[#cantar - to sing]]
 - [[#casar - to marry]]
 - [[#cocinar - to cook]]
-- [[#dejar - to place an object, to allow, to leave someone or something, to quit or stop, to abandon or give in]] 
+- [[#crear - to believe]]
+- [[#dejar - to place an object (leave/left), to allow/let, to leave someone or something, to quit or stop, to abandon or give in]]
 - [[#deportar - to deport]]
 - [[#desayunar - to have breakfast]]
 - [[#descansar - to rest]]
@@ -99,7 +100,7 @@ Note that in the ***IMPERFECT tense*** the ***-er and -ir endings are the same**
 - [[#ganar - to win, earn]]
 - [[#gozar - to enjoy, to enjoy oneself]]
 - [[#gustar - to like, to be pleased by something]]
-- [[#hablar - to speak]]
+- [[#hablar - to talk]]
 - [[#intentar - to try]]
 - [[#jubilar - to retire]]
 - [[#llamar - to call]]
@@ -124,6 +125,8 @@ Note that in the ***IMPERFECT tense*** the ***-er and -ir endings are the same**
 - [[#preparar - to prepare]]
 - [[#prestar - to lend]]
 - [[#quedar - to meet, arrange, to be left]]
+  - [[#quedar has a lot of contextual meanings]]
+  - [[#quedar expressions]]
 - [[#quejarse - to complain]]
 - [[#quitar - to remove, take away]]
 - [[#regalar - to gift]]
@@ -171,7 +174,7 @@ Note that in the ***IMPERFECT tense*** the ***-er and -ir endings are the same**
 [[#almorzar - to have lunch]]
 [[#apetecer - to feel like, to fancy, to crave]]
 [[#buscar - to look for or search]]
-[[#caer - to fall]]
+[[#caer - to fall, drop]]
 [[#coger - to take (Spain)]]
 [[#comenzar - to start]]
 [[#conocer - to know or to meet a person or place for the first time]]
@@ -179,6 +182,10 @@ Note that in the ***IMPERFECT tense*** the ***-er and -ir endings are the same**
 [[#contar - to count, to tell]]
 [[#continuar - to continue]]
 [[#corregir - to correct]]
+
+[[#costar - to cost]]
+- [[#costarle - to struggle, find it hard/difficult]]
+
 [[#dar - to give]]
 [[#decir - to say, to tell]]
 [[#desayunar - to have breakfast]]
@@ -186,20 +193,29 @@ Note that in the ***IMPERFECT tense*** the ***-er and -ir endings are the same**
 [[#doler - to hurt]]
 [[#dormir - to sleep]]
 - [[#dormirse - to fall asleep]]
+
 [[#elegir - to choose]]
 [[#encender - to turn on, ignite]]
+
 [[#encontrar - to find, to meet up]]
 - [[#encontrarse - to find someone/thing somewhere, to meet someone]]
+
 [[#entender - to understand]]
 [[#empezar - to start]]
 [[#enviar - to send]]
 [[#esquiar - to ski]]
 [[#haber - to have (auxiliary)]]
+
 [[#hacer - to make/to do/to ask]]
 - [[#"I do" variations in Spanish]]
 - [[#How to talk about time with *hace*]]
+
 [[#impedir - to prevent, stop]]
+
 [[#ir - to go]]
+- [[#irse - to leave a location]]
+- [[#irle - to say how it's going or working]]
+
 [[#jugar - to play]]
 [[#llegar - to arrive]]
 [[#levantar - to get up]]
@@ -212,11 +228,15 @@ Note that in the ***IMPERFECT tense*** the ***-er and -ir endings are the same**
 [[#parecer - to seem]]
 [[#pasar - to give/pass (an item), to spend/pass (time), to pass/stop by]]
 [[#pedir - to ask for, order]]
+
 [[#pensar - to think]]
 - [[#pensar en = to think about something or someone]]
+
 [[#perder - to lose]]
+
 [[#poner - to put, to give]]
 - [[#ponerse - to put on, try on, to wear]]
+
 [[#probar - to prove,test, try on, taste]]
 [[#preferir - to prefer]]
 [[#poder- be able to / can]]
@@ -233,17 +253,21 @@ Note that in the ***IMPERFECT tense*** the ***-er and -ir endings are the same**
 [[#repetir - to repeat]]
 [[#saber - to know information or how to do something, to taste]]
 [[#salir - to leave, go out]]
+
 [[#seguir - to continue, to follow]]
 - [[#seguir = still]]
 - [[#seguir + gerund = to keep doing something]]
 - [[#seguir instrucciones = to follow instructions]]
+
 [[#sentar - to sit]]
 [[#sentir - to feel, to feel sorry]]
 [[#soler - to usually do something]]
 [[#sonar - to sound]]
 [[#sonreír - to smile]]
+
 [[#tener - to have]]
 - [[#Expressions using *tener*]]
+
 [[#tocar - to touch, knock, tap, play (instrument)]]
 [[#traer - to bring]]
 [[#valer - to be worth]]
@@ -251,6 +275,7 @@ Note that in the ***IMPERFECT tense*** the ***-er and -ir endings are the same**
 [[#ver - to see]]
 [[#vestir - to dress]]
 [[#volar - to fly]]
+
 [[#volver - to return]]
 - [[#volverse - to become]]
 - [[#volver a - to do something again]]
@@ -265,6 +290,18 @@ Note that in the ***IMPERFECT tense*** the ***-er and -ir endings are the same**
 - [[#o -> ue]]
 - [[#u -> ue]]
 - [[#ue -> ie]]
+
+
+e → ie: querer/quiero, pensar/pienso, empezar/empiezo, entender/entiendo, preferir/prefiero, sentir/siento, cerrar/cierro, perder/pierdo
+
+o → ue: poder/puedo, dormir/duermo, volver/vuelvo, encontrar/encuentro, recordar/recuerdo, costar/cuesta, contar/cuento
+
+e → i, only in -ir verbs: pedir/pido, decir/digo, seguir/sigo, servir/sirvo, repetir/repito
+
+u → ue: jugar/juego. That’s the whole group, one verb.
+
+The rule: nosotros and vosotros never change. Puedo, puedes, puede, podemos, podéis, pueden. Write the six out and the changed forms make a boot around the two that stay put. The stem shifts only when the stress lands on it, and in nosotros and vosotros the stress moves to the ending.
+
 ## [[#Irregular Preterite Conjugation Patterns]]
 
 [[#Preterite conjugation patterns that are irregular]]
@@ -355,8 +392,8 @@ I ended up studying all night.
 - boda - wed
 
 ### cocinar - to cook
-- el/la cocinero(a) - the cook
-
+- el/la cocinero(a)to believe - the cook
+### crear - to believe 
 ### dejar - to place an object (leave/left), to allow/let, to leave someone or something, to quit or stop, to abandon or give in
 
 See: https://www.realfastspanish.com/vocabulary/uses-of-dejar?utm_source=RFS%20Email&utm_medium=email&utm_campaign=dejar?omhide=true
@@ -445,6 +482,12 @@ a usted -> le = (a usted) le gusta...
 a nosotros(as) -> nos = (a nosotros) nos gusta...
 a vosotros(as) -> os = (a vosotros) os gusta...
 a ellos/ellas/ustedes -> les = (a ellos/ellas/Uds) les gusta...
+
+[[#Table of Contents]]
+
+ ### hablar - to talk
+ #### hablar de algo - to talk about something 
+
 ### intentar - to try
 - See [[#probar - to prove,test, try on, taste]]
 ### jubilar - to retire 
@@ -540,11 +583,14 @@ We finally managed to find the house.
 *Te queda bien esta camisa.*
 The T-shirt looks good on you.
 
-#### *quedar* is more than “to stay” 
+With **quedar** is that **it’s often about what remains,** what something ends up like, or what has been arranged between people.
+
+ In English you say “I have two euros left,” whereas Spanish basically goes “two euros remain to me.” or *Me quedan dos euros.*
+#### *quedar* has a lot of contextual meanings
 
 1. **Meeting someone** = “*quedé con Ana*” (I met up with Ana), literally “I stayed/agreed with Ana”
-2. **What’s left** = “*¿cuánto queda?*” (how much is left?), “*me quedan dos euros*” (I have two euros left)
-3. **Something suiting you** = “*te queda bien*” (it suits you / looks good on you), “*ese vestido te queda genial*” (that dress looks great on you)
+2. **What’s left** = “*¿cuánto queda?*” (how much is left?), “*me quedan dos euros*” (I have two euros left) "*Quedamos mucha comida* " (We had a lot of leftovers)
+3. **Something suiting/fitting you** = “*te queda bien*” (it suits you / looks good on you), “*ese vestido te queda genial*” (that dress looks great on you)
 4. **Agreeing on something** = “*quedamos en vernos mañana*” (we agreed to meet tomorrow), “*quedamos en eso*” (we agreed on that)
 5. **Something being located** = “*queda cerca*” (it’s nearby), “*el hotel queda lejos*” (the hotel is far away)
 6. **Ending up in a particular state** = “*me quedé dormida*” (I fell asleep), “se quedó callado” (he went/stayed quiet), “*me quedé sin dinero*” (I ran out of money)
@@ -557,14 +603,12 @@ The T-shirt looks good on you.
 • ***quedar mal*** = to make a bad impression / look bad  
 • ***quedar en ridículo*** = to make a fool of yourself  
 • ***quedar claro*** = to be clear  
-• ***quedar pendiente*** = to remain pending / still need to be dealt with  
-• ***quedar con alguien*** = to arrange to meet someone  
+• ***quedar pendiente*** = to remain pending / still need to be dealt with    
 • ***quedarse de piedra*** = to be completely stunned  
 • ***quedarse en blanco*** = to go blank
 
-With quedar is that it’s often about what remains, what something ends up like, or what has been arranged between people.
 
-And I think “me quedan…” was the one that really made it click for me. English makes me say “I have two euros left,” whereas Spanish basically goes “two euros remain to me.”
+[[#Table of Contents]]
 ### quejarse - to complain
 - **quejarse de**  - to complain about something 
 ### quitar - to remove, take away 
@@ -908,7 +952,7 @@ vosotros	buscasteis
 ellos	buscaron
 
 See [[#encontrar - to find]]
-### caer - to fall
+### caer - to fall, drop
 #### Present
 **yo caigo**
 tú caes
@@ -918,11 +962,12 @@ vosotros caéis
 ellos/ellas/ustedes caen
 #### Preterite 
 yo caí
-tú caiste 
-él/ella/usted cayó 
-nosotros caímos 
-vosotros caisteis
-ellos/ellas/ustedes cayeron 
+**tú caiste** 
+**él/ella/usted cayó** 
+**nosotros caímos** 
+**vosotros caisteis**
+**ellos/ellas/ustedes cayeron** 
+
 ### borrar - to delete, erase, vanish 
 
 [[#Table of Contents]]
@@ -1079,6 +1124,7 @@ ellos/ellas/Uds	continuaron
 **Also see synonym** seguir: https://verbix.com/webverbix/spanish/seguir (e->i boot stem change)
 
 [[#Table of Contents]]
+
 ### corregir - to correct 
 #### Present
 *e->i boot stem change; yo corrijo* 
@@ -1096,12 +1142,41 @@ nosotros	corregimos
 vosotros	corregisteis
 **ellos/ellas/Uds	corrigieron**
 
+### costar - to cost
+#### Present
+*o->ue boot stem change; yo corrijo* 
+**yo	cuesto**
+**tú	cuestas**
+**él/ella/Ud	cuesta**
+nosotros	costamos
+vosotros	costáis
+**ellos/ellas/Uds	cuestan**
+#### Preterite
+yo	costé
+tú	costaste
+él/ella/Ud	costó
+nosotros	costamos
+vosotros	costasteis
+**ellos/ellas/Uds	costaron**
+
+##### costarle - to struggle, find it hard/difficult 
+**It is conjugated like *gustar* where they are used in a sentence with an indirect object pronoun**
+
+*Hay situaciones, les cuesta entender todo.*
+There are situations where they struggle to understand everything.
+
 [[#Table of Contents]]
 ### dar - to give
 - #### me doy - I give up 
-- #### me da - I get
+- #### me da - I get/It makes me
 *Me da frio/calor/hambre/medio*
 I get cold/hot/hungry/scared
+*Me da triste.*
+It makes me sad.
+- #### te da - You get/It makes you 
+*Te da triste.*
+It makes you sad (You get sad)
+(***Me and te are indirect object pronouns***)
 #### Present 
 **yo doy**
 tú das
@@ -1269,11 +1344,15 @@ ellos/ellas/ustedes encendieron
 ### #encontrar - to find, to meet up 
 - #### encontrarse - to find someone/thing somewhere, to meet someone
    - also used to express how you feel or ask how someone else feels 
+   *Cómo te encuentras* (How are you feeling?)
    - translated as a form of "to be"
+     - Describing someone's situation or condition 
+  *Se encuentra en una situación complicada* (He/She is in a complicated situation)
    - used when you "run" into someone
+   *Me encontré con Paula ayer*. (I ran into Paula yesterday.)
    - also used to indicate that something or someone is located (found) somewhere (e.g.to find oneself)
 
-**Note that [[#conocer - to know or to meet a person or place for the first time]] is used when describing meeting someone for the first time as opposed to *encontrar* or *encontrarse* used for meeting people you already know.** 
+**Note that [[#conocer - to know or to meet a person or place for the first time]] is used when describing meeting someone for the first time as opposed to *encontrar* or *encontrarse* used for meeting people you already know. Also, in encontrarse, the action (meeting), involves the person initiating the action that is affected by the action.** 
 Also see [[#quedarse - to stay, remain]]
 
 ***See*** https://youtu.be/B91DFA9ib1M?si=wN9BBTCAe1jBa9Fy
@@ -1477,6 +1556,7 @@ ellos/ellas/ustedes impedieron
 *te vas* = You're leaving 
 *se va* = He/she/you(formal) are leaving 
 ...etc
+me fui = I left
 
 *Mamá, ya me voy porque voy a llegar tarde.*
 Mom, I’m leaving because I’m going to be late.
@@ -1488,7 +1568,18 @@ Tomorrow we’re leaving for Spain on vacation.
 https://youtu.be/1HkeAjjb-1g?si=Kny3GkVdRZtSZZVT
 **Other ways to describe"to leave"**: 
 [[#salir - to leave, go out]]
-[[#dejar - to place an object, to allow, to leave someone or something, to quit or stop, to abandon or give in]]
+[[#dejar - to place an object (leave/left), to allow/let, to leave someone or something, to quit or stop, to abandon or give in]]
+
+#### irle - to say how it's going or working 
+*¿Cómo te va?*
+How's it going?
+
+*¿Si algún día de está semana te va bien, me envías un mensaje?*
+If any day works for you, send me a message?
+
+*¿Cómo les va a ustedes?*
+How's it going for you guys?
+
 #### Command: vaya (formal), ve (informal)
 #### Gerund: yendo
 
@@ -2316,16 +2407,15 @@ vosotros tenéis
 **vosotros tuvisteis**
 **ellos/ellas/ustedes tuvieron** 
 #### Conditional 
+- rather than *would/could*, the conditional can mean *probably*. **A conjecture about  the present.**
+*Tendría unos díez años.*
+I was probably around ten.
 **yo tendría** 
 **tú tendrías**
 **él/ella/usted tendría**
 **nosotros tendríamos** 
 **vosotros tendríais**
 **ellos/ellas/ustedes tendrían** 
-- rather than *would/could*, the conditional can mean *probably*. **A conjecture about the present.**
-
-*Tendría unos díez años.*
-I was probably around ten.
 #### Future.
 - **"will have" in English "**
 **yo	tendré**
@@ -2335,9 +2425,6 @@ I was probably around ten.
 **vosotros	tendréis**
 **ellos/ellas/ustedes	tendrán**
 - rather than *would be*, the future can mean *is probably*. **A conjecture about the past.** 
-
-*Tendrá unos cuarenta años*
-She is probably 40.
 ### Present Subjunctive 
 **yo	tenga**
 **tú	tengas**
@@ -2358,7 +2445,7 @@ She is probably 40.
 **Tuve que...** - I had/needed to...
 **Tuvimos que...** - We had/needed to...
 
-#### Expressions using *tener*
+#### Expressions using *tener* as "to be"
 - *Tengo calor* - I'm hot
 - *Tengo frio* - I'm cols
 - *Tengo hambre*  - I'm hungry 
@@ -2366,6 +2453,12 @@ She is probably 40.
 - *Tengo miedo* - I'm  afraid 
 - *Tengo cansado* - I'm  tired 
 - *Tengo sueño* - I'm sleepy 
+- tener ganas de - to feel like, to be in the mood for 
+- tener prisa - to be in a hurry 
+- tener cuidado - to be careful 
+- tener miedo de - to be afraid of 
+- tener en cuenta - to keep in mind
+- 
 
 [[#Table of Contents]]
 ### tocar - to touch, knock, tap, play (instrument)
