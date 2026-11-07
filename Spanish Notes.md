@@ -148,6 +148,7 @@ Babbel support - support@babbel.com
 
 [[#Food (comida)]]
 - [[#Food feelings]]
+- [[#Nutrition (Nutrición)]]
 - [[#Cooking related]]
 - [[#Salad (ensalada)]]
 - [[#Non-Salad Vegetables]]
@@ -2466,10 +2467,6 @@ la verdura - vegetable (food)
 - vegetal - vegetable (plant)
 montaditos - sandwiches
 especias - spices
-saludable - healthy
-la proteína - protein
-el carbohidrato - carbohydrate 
-fat
 # Food feelings 
 hambre - hunger
 + Tengo hambre - I have hunger 
@@ -2595,6 +2592,17 @@ las almendras - almonds
 helado - ice cream 
 patatas fritas - fries
 el caramelo - candy 
+
+### Nutrition (Nutrición)
+la proteína - protein
+el carbohidrato - carbohydrate 
+la grasa - fat (in food)
+la fibra - fiber
+
+la dieta - dieta
+saludable - healthy
+
+
 ### Cooking related 
 cocinero(a) -  the cook
 groceries - compra

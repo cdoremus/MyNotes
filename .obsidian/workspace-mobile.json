@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "6c5eb7ffd26799e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spanish Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spanish Notes"
+            }
+          },
+          {
             "id": "57fc0a645512d244",
             "type": "leaf",
             "state": {
@@ -274,7 +288,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -351,7 +365,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Health.md",
+            "file": "Spanish Notes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -404,16 +418,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "530d32eaf347a513",
+  "active": "6c5eb7ffd26799e2",
   "lastOpenFiles": [
-    "Untitled.base",
-    "Health.md",
     "Temp Notes.md",
+    "Health.md",
+    "Untitled.base",
     "Spanish Notes.md",
     "Leísmo_laísmo_loísmo 1.png",
     "la_ropa 1.jpeg",
     "Heart Issues/Cardiac Catherization.md",
-    "Untitled.md",
     "Spanish Verb Tenses.md",
     "Spanish Verbs.md",
     "Heart Issues/Heart Hospitalizations at CMMC & Maine Med  9-27-25 to 10-15-25.md",
