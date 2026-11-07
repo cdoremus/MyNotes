@@ -1374,6 +1374,23 @@ I keep thinking about what happened yesterday. (Also see [[Spanish Verbs#seguir 
 
 See https://youtu.be/i1PrP0kFf8E?si=boNLorNerp3FbQ5C
 
+### Que used by itself 
+**Que by itself  is used to introduce a statement:**
+
+*Entiendo que necesitas ayuda.*
+I understand that you need help
+("you need help" is the statement)
+***vs***
+*Entiendo lo que necesitas*
+I understand what (the thing that) you need.
+
+Sé que me quieres.
+I know that you love me.
+***vs***
+Sé lo que quieres.
+I know what (the thing that) you want.
+
+
 ## *Lo* meaning "how" often used with *mucho*
 *No sabes lo mucho que te quiero.*
 You don't know how much I love you.
@@ -2450,7 +2467,9 @@ la verdura - vegetable (food)
 montaditos - sandwiches
 especias - spices
 saludable - healthy
-
+la proteína - protein
+el carbohidrato - carbohydrate 
+fat
 # Food feelings 
 hambre - hunger
 + Tengo hambre - I have hunger 
@@ -5549,9 +5568,14 @@ bienvenido - welcome
 Quizás/Quizá - maybe
 por cierto - by the way 
 en cuanto a... - regarding, in regards/reference to
-ahora mismo - right now 
+ahora mismo - right now
 no hay problema - no problem
 - no pasa nada (ES)
+[[#Lo que (that which, what/whatever, the thing that)]]
+
+hay que + infinitivo - let's..., we should..., one must..., it's necessary to... 
+- a suggestion - use *tenemos que* if something has to be done
+- it refers to "we", something that is collective 
 
 quedar chico - used in phrases about outgrowing 
 seguir adelante - to move on, go ahead 

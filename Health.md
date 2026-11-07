@@ -56,7 +56,7 @@ Chair squat with stretch cord
 - 10x
 
 Seated lift - right side 
-- use ball
+- use ball or sofa
 - 10x
 
 Door pull down
